@@ -1,0 +1,27 @@
+C:\Users\Vincenzo\Desktop\Barchetta\Barchetta\bin\Debug\Barchetta.exe.config
+C:\Users\Vincenzo\Desktop\Barchetta\Barchetta\bin\Debug\Barchetta.exe
+C:\Users\Vincenzo\Desktop\Barchetta\Barchetta\bin\Debug\Barchetta.pdb
+C:\Users\Vincenzo\Desktop\Barchetta\Barchetta\obj\Debug\Barchetta.csprojResolveAssemblyReference.cache
+C:\Users\Vincenzo\Desktop\Barchetta\Barchetta\obj\Debug\Barchetta.frmMain.resources
+C:\Users\Vincenzo\Desktop\Barchetta\Barchetta\obj\Debug\Barchetta.Properties.Resources.resources
+C:\Users\Vincenzo\Desktop\Barchetta\Barchetta\obj\Debug\Barchetta.csproj.GenerateResource.Cache
+C:\Users\Vincenzo\Desktop\Barchetta\Barchetta\obj\Debug\Barchetta.exe
+C:\Users\Vincenzo\Desktop\Barchetta\Barchetta\obj\Debug\Barchetta.pdb
+E:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#3_Barca\Barchetta\bin\Debug\Barchetta.exe.config
+E:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#3_Barca\Barchetta\obj\Debug\Barchetta.exe
+E:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#3_Barca\Barchetta\obj\Debug\Barchetta.pdb
+E:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#3_Barca\Barchetta\bin\Debug\Barchetta.exe
+E:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#3_Barca\Barchetta\bin\Debug\Barchetta.pdb
+E:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#3_Barca\Barchetta\obj\Debug\Barchetta.csprojResolveAssemblyReference.cache
+E:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#3_Barca\Barchetta\obj\Debug\Barchetta.frmMain.resources
+E:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#3_Barca\Barchetta\obj\Debug\Barchetta.Properties.Resources.resources
+E:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#3_Barca\Barchetta\obj\Debug\Barchetta.csproj.GenerateResource.Cache
+F:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#3_Barca\Barchetta\bin\Debug\Barchetta.exe.config
+F:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#3_Barca\Barchetta\obj\Debug\Barchetta.exe
+F:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#3_Barca\Barchetta\obj\Debug\Barchetta.pdb
+F:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#3_Barca\Barchetta\bin\Debug\Barchetta.exe
+F:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#3_Barca\Barchetta\bin\Debug\Barchetta.pdb
+F:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#3_Barca\Barchetta\obj\Debug\Barchetta.csprojResolveAssemblyReference.cache
+F:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#3_Barca\Barchetta\obj\Debug\Barchetta.frmMain.resources
+F:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#3_Barca\Barchetta\obj\Debug\Barchetta.Properties.Resources.resources
+F:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#3_Barca\Barchetta\obj\Debug\Barchetta.csproj.GenerateResource.Cache

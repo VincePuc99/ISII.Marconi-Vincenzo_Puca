@@ -1,0 +1,12 @@
+C:\Users\M_inf2.quarta\Desktop\Prova\Prova\bin\Debug\Prova.exe.config
+C:\Users\M_inf2.quarta\Desktop\Prova\Prova\bin\Debug\Prova.exe
+C:\Users\M_inf2.quarta\Desktop\Prova\Prova\bin\Debug\Prova.pdb
+C:\Users\M_inf2.quarta\Desktop\Prova\Prova\obj\Debug\Prova.csprojResolveAssemblyReference.cache
+C:\Users\M_inf2.quarta\Desktop\Prova\Prova\obj\Debug\Prova.Form1.resources
+C:\Users\M_inf2.quarta\Desktop\Prova\Prova\obj\Debug\Prova.Properties.Resources.resources
+C:\Users\M_inf2.quarta\Desktop\Prova\Prova\obj\Debug\Prova.csproj.GenerateResource.Cache
+C:\Users\M_inf2.quarta\Desktop\Prova\Prova\obj\Debug\Prova.exe
+C:\Users\M_inf2.quarta\Desktop\Prova\Prova\obj\Debug\Prova.pdb
+E:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Appunti\Progress Bar e Timer\Prova\bin\Debug\Prova.exe.config
+E:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Appunti\Progress Bar e Timer\Prova\obj\Debug\Prova.exe
+E:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Appunti\Progress Bar e Timer\Prova\obj\Debug\Prova.pdb

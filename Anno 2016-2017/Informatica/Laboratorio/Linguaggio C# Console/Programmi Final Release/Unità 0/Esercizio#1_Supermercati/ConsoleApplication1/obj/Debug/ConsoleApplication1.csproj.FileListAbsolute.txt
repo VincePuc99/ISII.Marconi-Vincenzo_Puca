@@ -1,0 +1,24 @@
+C:\Users\Vincenzo\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Vincenzo\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Vincenzo\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Vincenzo\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Vincenzo\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Vincenzo\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Linguaggio C#\Programmi Alpha\Esercizio#1_Supermercati\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Linguaggio C#\Programmi Alpha\Esercizio#1_Supermercati\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Linguaggio C#\Programmi Alpha\Esercizio#1_Supermercati\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Linguaggio C#\Programmi Alpha\Esercizio#1_Supermercati\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Linguaggio C#\Programmi Alpha\Esercizio#1_Supermercati\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Linguaggio C#\Programmi Alpha\Esercizio#1_Supermercati\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Linguaggio C#\Programmi Final Release\Unità 1\Esercizio#1_Supermercati\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Linguaggio C#\Programmi Final Release\Unità 1\Esercizio#1_Supermercati\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Linguaggio C#\Programmi Final Release\Unità 1\Esercizio#1_Supermercati\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Linguaggio C#\Programmi Final Release\Unità 1\Esercizio#1_Supermercati\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Linguaggio C#\Programmi Final Release\Unità 1\Esercizio#1_Supermercati\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Linguaggio C#\Programmi Final Release\Unità 1\Esercizio#1_Supermercati\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+F:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Linguaggio C#\Programmi Final Release\Unità 1\Esercizio#1_Supermercati\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Linguaggio C#\Programmi Final Release\Unità 1\Esercizio#1_Supermercati\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Linguaggio C#\Programmi Final Release\Unità 1\Esercizio#1_Supermercati\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Linguaggio C#\Programmi Final Release\Unità 1\Esercizio#1_Supermercati\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Linguaggio C#\Programmi Final Release\Unità 1\Esercizio#1_Supermercati\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Linguaggio C#\Programmi Final Release\Unità 1\Esercizio#1_Supermercati\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

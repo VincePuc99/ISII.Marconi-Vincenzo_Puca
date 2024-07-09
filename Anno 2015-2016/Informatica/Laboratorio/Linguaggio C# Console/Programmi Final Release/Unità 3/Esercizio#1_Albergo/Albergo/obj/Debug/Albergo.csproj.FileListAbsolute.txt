@@ -1,0 +1,15 @@
+C:\Users\Vincenzo\Desktop\Albergo\Albergo\bin\Debug\Albergo.exe.config
+C:\Users\Vincenzo\Desktop\Albergo\Albergo\obj\Debug\Albergo.csprojResolveAssemblyReference.cache
+C:\Users\Vincenzo\Desktop\Albergo\Albergo\bin\Debug\Albergo.exe
+C:\Users\Vincenzo\Desktop\Albergo\Albergo\bin\Debug\Albergo.pdb
+C:\Users\Vincenzo\Desktop\Albergo\Albergo\obj\Debug\Albergo.exe
+C:\Users\Vincenzo\Desktop\Albergo\Albergo\obj\Debug\Albergo.pdb
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Albergo\Albergo\bin\Debug\Albergo.exe.config
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Albergo\Albergo\obj\Debug\Albergo.exe
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Albergo\Albergo\obj\Debug\Albergo.pdb
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Albergo\Albergo\bin\Debug\Albergo.exe
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Albergo\Albergo\bin\Debug\Albergo.pdb
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Albergo\Albergo\obj\Debug\Albergo.csprojResolveAssemblyReference.cache
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Final Release\Unità 3\Esercizio#1_Albergo\Albergo\bin\Debug\Albergo.exe.config
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Final Release\Unità 3\Esercizio#1_Albergo\Albergo\obj\Debug\Albergo.exe
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Final Release\Unità 3\Esercizio#1_Albergo\Albergo\obj\Debug\Albergo.pdb

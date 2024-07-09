@@ -1,0 +1,9 @@
+C:\Users\M_inf2.terza\Desktop\Recupero3\Recupero3\bin\Debug\Recupero3.exe.config
+C:\Users\M_inf2.terza\Desktop\Recupero3\Recupero3\bin\Debug\Recupero3.exe
+C:\Users\M_inf2.terza\Desktop\Recupero3\Recupero3\bin\Debug\Recupero3.pdb
+C:\Users\M_inf2.terza\Desktop\Recupero3\Recupero3\obj\Debug\Recupero3.csprojResolveAssemblyReference.cache
+C:\Users\M_inf2.terza\Desktop\Recupero3\Recupero3\obj\Debug\Recupero3.exe
+C:\Users\M_inf2.terza\Desktop\Recupero3\Recupero3\obj\Debug\Recupero3.pdb
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Final Release\Unità Recupero\Recupero3\Recupero3\bin\Debug\Recupero3.exe.config
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Final Release\Unità Recupero\Recupero3\Recupero3\obj\Debug\Recupero3.exe
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Final Release\Unità Recupero\Recupero3\Recupero3\obj\Debug\Recupero3.pdb

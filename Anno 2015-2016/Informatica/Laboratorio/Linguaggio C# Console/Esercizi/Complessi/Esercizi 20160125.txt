@@ -1,0 +1,13 @@
+•	Scrivere un programma che letta una frase introdotta da tastiera costruisca una nuova frase nel cosiddetto “alfabeto farfallino”.
+La traduzione nell’alfabeto farfallino di una parola segue le seguenti regole:
+Tutte le consonanti sono tradotte in modo identico Ogni vocale è tradotta uguale a se stessa, seguita
+da altri due caratteri:
+la lettera ‘f’ (se la vocale è minuscola) o la lettera ‘F’ (se la vocale è maiuscola)
+una copia della vocale stessa
+Esempi:
+a 			diventa		afa
+con 			diventa		cofon
+Vacanze di NATALE	diventa		Vafacafanzefe difi NAFATAFALEFE
+Vacanze di NATALE	diventa		Vafacafanzefe difi NAFATAFALEFE
+•	Data una stringa in input rappresentante un’espressione es: "12+33-14" calcolarne il risultato: 31
+•	Data una stringa composta da sole cifre numeriche (55556633333222111111) rappresentarla mediante una seconda stringa dove le posizioni dispari rappresentano il numero di volte che la cifra è ripetuta e le posizioni pari la cifra stessa (4526533261);

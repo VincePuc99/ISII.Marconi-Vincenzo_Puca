@@ -1,0 +1,12 @@
+PortName
+Crea il collegamento tra la porta fisica e l'oggetto logico
+
+La velocità BaudRate 
+va sempre impostata a 9600 anche se di default
+
+Unità minima trasmessa e ricevuta via rs232 
+il carattere cioè la sequenza di bit che vanno a rapresentare il char stesso
+
+il bit e mezzo serve ad aiutare il ricevitore.
+
+con il readline togli la riga letta dal buffer

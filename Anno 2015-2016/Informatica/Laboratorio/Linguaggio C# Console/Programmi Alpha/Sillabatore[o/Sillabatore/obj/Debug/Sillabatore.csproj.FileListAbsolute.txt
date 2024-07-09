@@ -1,0 +1,18 @@
+C:\Users\Vincenzo\Desktop\Sillabatore\Sillabatore\bin\Debug\Sillabatore.exe.config
+C:\Users\Vincenzo\Desktop\Sillabatore\Sillabatore\bin\Debug\Sillabatore.exe
+C:\Users\Vincenzo\Desktop\Sillabatore\Sillabatore\bin\Debug\Sillabatore.pdb
+C:\Users\Vincenzo\Desktop\Sillabatore\Sillabatore\obj\Debug\Sillabatore.csprojResolveAssemblyReference.cache
+C:\Users\Vincenzo\Desktop\Sillabatore\Sillabatore\obj\Debug\Sillabatore.exe
+C:\Users\Vincenzo\Desktop\Sillabatore\Sillabatore\obj\Debug\Sillabatore.pdb
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Sillabatore\Sillabatore\bin\Debug\Sillabatore.exe.config
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Sillabatore\Sillabatore\obj\Debug\Sillabatore.exe
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Sillabatore\Sillabatore\obj\Debug\Sillabatore.pdb
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Sillabatore\Sillabatore\bin\Debug\Sillabatore.exe
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Sillabatore\Sillabatore\bin\Debug\Sillabatore.pdb
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Sillabatore\Sillabatore\obj\Debug\Sillabatore.csprojResolveAssemblyReference.cache
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Sillabatore[o\Sillabatore\bin\Debug\Sillabatore.exe.config
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Sillabatore[o\Sillabatore\obj\Debug\Sillabatore.exe
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Sillabatore[o\Sillabatore\obj\Debug\Sillabatore.pdb
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Sillabatore[o\Sillabatore\bin\Debug\Sillabatore.exe
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Sillabatore[o\Sillabatore\bin\Debug\Sillabatore.pdb
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Sillabatore[o\Sillabatore\obj\Debug\Sillabatore.csprojResolveAssemblyReference.cache

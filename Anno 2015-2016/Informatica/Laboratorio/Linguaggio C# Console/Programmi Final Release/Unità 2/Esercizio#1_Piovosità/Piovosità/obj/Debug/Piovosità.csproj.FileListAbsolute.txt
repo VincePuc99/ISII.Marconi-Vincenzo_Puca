@@ -1,0 +1,12 @@
+C:\Users\M_inf2.terza\Desktop\Piovosità\Piovosità\bin\Debug\Piovosità.exe.config
+C:\Users\M_inf2.terza\Desktop\Piovosità\Piovosità\bin\Debug\Piovosità.exe
+C:\Users\M_inf2.terza\Desktop\Piovosità\Piovosità\bin\Debug\Piovosità.pdb
+C:\Users\M_inf2.terza\Desktop\Piovosità\Piovosità\obj\Debug\Piovosità.csprojResolveAssemblyReference.cache
+C:\Users\M_inf2.terza\Desktop\Piovosità\Piovosità\obj\Debug\Piovosità.exe
+C:\Users\M_inf2.terza\Desktop\Piovosità\Piovosità\obj\Debug\Piovosità.pdb
+E:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Final Release\Unità 2\Esercizio#1_Piovosità\Piovosità\bin\Debug\Piovosità.exe.config
+E:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Final Release\Unità 2\Esercizio#1_Piovosità\Piovosità\obj\Debug\Piovosità.exe
+E:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Final Release\Unità 2\Esercizio#1_Piovosità\Piovosità\obj\Debug\Piovosità.pdb
+F:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Final Release\Unità 2\Esercizio#1_Piovosità\Piovosità\bin\Debug\Piovosità.exe.config
+F:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Final Release\Unità 2\Esercizio#1_Piovosità\Piovosità\obj\Debug\Piovosità.exe
+F:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Final Release\Unità 2\Esercizio#1_Piovosità\Piovosità\obj\Debug\Piovosità.pdb

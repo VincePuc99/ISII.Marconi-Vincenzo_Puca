@@ -1,0 +1,15 @@
+C:\Users\M_INF2.TERZA\Desktop\Puca\Rizza\Rizza\bin\Debug\Rizza.exe.config
+C:\Users\M_INF2.TERZA\Desktop\Puca\Rizza\Rizza\bin\Debug\Rizza.exe
+C:\Users\M_INF2.TERZA\Desktop\Puca\Rizza\Rizza\bin\Debug\Rizza.pdb
+C:\Users\M_INF2.TERZA\Desktop\Puca\Rizza\Rizza\obj\Debug\Rizza.csprojResolveAssemblyReference.cache
+C:\Users\M_INF2.TERZA\Desktop\Puca\Rizza\Rizza\obj\Debug\Rizza.exe
+C:\Users\M_INF2.TERZA\Desktop\Puca\Rizza\Rizza\obj\Debug\Rizza.pdb
+C:\Users\M_INF2.TERZA\Desktop\Esercizio#12 DecToBin\Rizza\Rizza\bin\Debug\Rizza.exe.config
+C:\Users\M_INF2.TERZA\Desktop\Esercizio#12 DecToBin\Rizza\Rizza\obj\Debug\Rizza.exe
+C:\Users\M_INF2.TERZA\Desktop\Esercizio#12 DecToBin\Rizza\Rizza\obj\Debug\Rizza.pdb
+H:\Programmi finiti\Esercizio#12 DecToBin\Rizza\Rizza\bin\Debug\Rizza.exe.config
+H:\Programmi finiti\Esercizio#12 DecToBin\Rizza\Rizza\obj\Debug\Rizza.exe
+H:\Programmi finiti\Esercizio#12 DecToBin\Rizza\Rizza\obj\Debug\Rizza.pdb
+H:\Programmi finiti\Esercizio#12 DecToBin\Rizza\Rizza\obj\Debug\Rizza.csprojResolveAssemblyReference.cache
+H:\Programmi finiti\Esercizio#12 DecToBin\Rizza\Rizza\bin\Debug\Rizza.exe
+H:\Programmi finiti\Esercizio#12 DecToBin\Rizza\Rizza\bin\Debug\Rizza.pdb

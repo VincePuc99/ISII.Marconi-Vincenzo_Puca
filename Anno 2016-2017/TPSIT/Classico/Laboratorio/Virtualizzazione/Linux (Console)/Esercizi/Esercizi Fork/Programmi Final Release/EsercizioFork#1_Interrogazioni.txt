@@ -1,0 +1,65 @@
+#include<stdio.h>
+#include<stdlib.h>
+#include<wait.h>
+
+int main(int argc, char *argv[])
+{
+  int domanda,pid,st,risposta,st1;
+  int voto,domanda1,pid1,risposta1,voto1;
+
+  rand(time(NULL));
+  domada = srand()%5 + 0;
+
+  pid = fork();
+
+  if(pid>0) //padre
+  {
+     wait(&st);
+     if(domada == st/256)  //risposta corretta
+     {
+       voto = rand()%10 + 8;
+       printf("Voto dell allievo: %d",voto);
+       sleep(1000);
+       exit(0);
+     }
+     else
+     {
+      printf("Risposta corretta: %d",domanda);
+      domanda1 = srand()%5 + 0;
+          
+      pid1 =  fork()
+      if(pid1>0) //padre
+      {
+        wait(&st1);
+        if(domanda1==st1)
+        {
+         voto1 = rand()%10 + 8;
+         printf("Voto dell allievo: %d",voto1);
+         exit(0);
+        }
+        else
+        {
+         printf("Risposta corretta: %d",domanda1);
+         printf("CAPRE");
+         exit(0);
+        }
+
+      }
+      else //allievo2
+      {
+        risposta1 = srand()%5 + 0;
+        exit(risposta1);
+
+      }
+
+     }
+
+  }
+  else //f1
+  {
+   risposta = srand()%5 + 0;
+   exit(risposta);
+  }
+
+ exit(0);
+} //fine main

@@ -1,0 +1,85 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title></title>
+		<meta name='Generator' content='Zim 0.54'>
+		<style type='text/css'>
+			a          { text-decoration: none      }
+			a:hover    { text-decoration: underline }
+			a:active   { text-decoration: underline }
+			strike     { color: grey                }
+			u          { text-decoration: none;
+			             background-color: yellow   }
+			tt         { color: #2e3436;            }
+			pre        { color: #2e3436;
+			             margin-left: 20px          }
+			h1         { text-decoration: underline;
+			             color: #4e9a06             }
+			h2         { color: #4e9a06             }
+			h3         { color: #4e9a06             }
+			h4         { color: #4e9a06             }
+			h5         { color: #4e9a06             }
+			span.insen { color: grey                }
+		</style>
+	</head>
+	<body>
+
+<!-- Header -->
+
+	[ <span class='insen'>Prev</span> ]
+
+			[ <a href='/'>Index</a> ]
+
+	[ <span class='insen'>Next</span> ]
+
+<!-- End Header -->
+
+<hr />
+
+<!-- Wiki content -->
+
+<h1>07-Corso sugli script bash - aritmetica semplice</h1>
+
+<p>
+Negli script bash si possono effettuare delle semplice operazioni aritmetiche. <br>
+Per esempio la moltiplicazione: <code>echo $((2*3))</code><br>
+</p>
+
+<p>
+<strong>L'artitmetica negli script bash è solo per numeri interi</strong>, quindi se si effettua ad esempio una divisione non si vedranno i decimali. <br>
+Però c'è il comando "<u>bc</u>" che può farlo. Richiamando il comando bc con l'opzione "<u> l </u>" otterremo anche i decimali.<br>
+Un paio di esempi (<em>l'opzione "scale" indica quanti decimali vogliamo</em>):<br>
+<ul>
+<li><code>echo "scale=5; 2/3" | bc -l</code>  ⇒ 0.66666</li>
+<li>A=2, B=3 → <code>var1=$(echo "scale=10; $A/$B" | bc -l)</code>  ⇒ 0.6666666666</li>
+</ul>
+</p>
+
+<p>
+<strong>Anche con le tuple si possono fare operazioni aritmetiche</strong>:<br>
+<code>Numeri[5]=`expr ${Numeri[1]} + ${Numeri[3]}`</code><br>
+sintassi equivalente a <br>
+<code>Numeri[5]=$((${Numeri[1]} * ${Numeri[3]}))</code><br>
+</p>
+
+
+<p>
+<strong>nota1</strong>: il comando <u>bc</u> può fare molto di più, anche funzioni trigonometriche e logaritmi tanto per fare degli esempi. È come avere a disposizione una calcolatrice scientifica.<br>
+<strong>nota2</strong>: il comando <u>expr</u> è definito come un valutatore di espressioni per tutti gli usi molto versatile (aritmetica, stringhe, logica, confronti)<br>
+</p>
+
+
+<!-- End wiki content -->
+
+<hr />
+
+<!-- Backlinks -->
+
+	Backlinks:		<a href='../01-Corso_sugli_script_bash_-_impariamo_le_basi_della_programmazione.html'>Note non ancora archiviate:01-Corso sugli script bash - impariamo le basi della programmazione</a>
+
+<!-- End Backlinks -->
+
+	</body>
+
+</html>

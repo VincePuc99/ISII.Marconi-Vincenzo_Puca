@@ -1,0 +1,15 @@
+C:\Users\M_inf2.terza\Desktop\Ristornate cinese\Ristornate cinese\bin\Debug\Ristornate cinese.exe.config
+C:\Users\M_inf2.terza\Desktop\Ristornate cinese\Ristornate cinese\bin\Debug\Ristornate cinese.exe
+C:\Users\M_inf2.terza\Desktop\Ristornate cinese\Ristornate cinese\bin\Debug\Ristornate cinese.pdb
+C:\Users\M_inf2.terza\Desktop\Ristornate cinese\Ristornate cinese\obj\Debug\Ristornate cinese.csprojResolveAssemblyReference.cache
+C:\Users\M_inf2.terza\Desktop\Ristornate cinese\Ristornate cinese\obj\Debug\Ristornate cinese.exe
+C:\Users\M_inf2.terza\Desktop\Ristornate cinese\Ristornate cinese\obj\Debug\Ristornate cinese.pdb
+F:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Final Release\Unità Extra\Esercizio#Extra Sushi\Ristornate cinese\bin\Debug\Ristornate cinese.exe.config
+F:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Final Release\Unità Extra\Esercizio#Extra Sushi\Ristornate cinese\obj\Debug\Ristornate cinese.exe
+F:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Final Release\Unità Extra\Esercizio#Extra Sushi\Ristornate cinese\obj\Debug\Ristornate cinese.pdb
+E:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Final Release\Unità Extra\Esercizio#Extra Sushi\Ristornate cinese\bin\Debug\Ristornate cinese.exe.config
+E:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Final Release\Unità Extra\Esercizio#Extra Sushi\Ristornate cinese\obj\Debug\Ristornate cinese.exe
+E:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Final Release\Unità Extra\Esercizio#Extra Sushi\Ristornate cinese\obj\Debug\Ristornate cinese.pdb
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Linguaggio C#\Programmi Final Release\Unità Extra\Esercizio#Extra Sushi\Ristornate cinese\bin\Debug\Ristornate cinese.exe.config
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Linguaggio C#\Programmi Final Release\Unità Extra\Esercizio#Extra Sushi\Ristornate cinese\obj\Debug\Ristornate cinese.exe
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Linguaggio C#\Programmi Final Release\Unità Extra\Esercizio#Extra Sushi\Ristornate cinese\obj\Debug\Ristornate cinese.pdb

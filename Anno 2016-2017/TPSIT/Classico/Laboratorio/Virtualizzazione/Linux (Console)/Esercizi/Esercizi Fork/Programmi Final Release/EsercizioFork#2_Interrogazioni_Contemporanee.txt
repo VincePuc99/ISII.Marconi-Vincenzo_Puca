@@ -1,0 +1,107 @@
+#include<stdio.h>
+#include<stdlib.h>
+#include<wait.h>
+#include<time.h>
+#include<sleep.h>
+
+int main(int argc,char * argv[])
+{
+   int domanda;
+
+   srand(time(NULL));
+   domanda = rand()%5;
+   
+   pid = fork();
+
+   if(pid > 0)
+   {
+    pid1 = fork();
+
+     if(pid1 > 0)
+     {
+      pid2 = fork();
+
+       if(pid2 > 0)
+       {
+         wait(&st);
+         wait(&st1);
+         wait(&st2);
+
+       if(st/256 == domanda || st1/256 == domanda || st2/256 == domanda) //controllo se siste almeno 1 rispota giusta
+       {
+
+        if(st/256 == domanda)
+        {
+           int voto;
+           voto = rand()%10 + 6;
+        }
+        else
+        {
+           int voto;
+           voto = rand()%5 + 3;
+        }
+
+
+        if(st1/256 == domanda)
+        {
+           int voto1;
+           voto1 = rand()%10 + 6;
+        }
+        else
+        {
+           int voto1;
+           voto = rand()%5 + 3;
+        }
+
+
+        if(st2/256 == domanda)
+        {
+           int voto2;
+           voto = rand()%10 + 6;
+        }
+        else
+        {
+           int voto2;
+           voto = rand()%5 + 3;
+        }
+       
+         printf("Il voto dell'allievo 1 è: %d",voto);
+         printf("Il voto dell'allievo 2 è: %d",voto1);
+         printf("Il voto dell'allievo 3 è: %d",voto2);
+
+
+         sleep(1000);
+         exit(0); 
+       }
+       else //tutti gli allievi hanno sbagliato
+       {
+          printf("Risposta esatta %d",domanda);
+          printf("Capre");
+          exit(0);
+       }
+
+       }
+       else //alunno3
+       {
+         int risposta;
+         risposta = rand()%5;
+         exit(risposta);
+
+       }
+     }
+     else  //alunno2
+     {
+       int risposta;
+       risposta = rand()%5;
+       exit(risposta);
+     }
+   }
+   else //alunno1
+   {
+     int risposta;
+     risposta = rand()%5;
+     exit(risposta);
+   }
+
+ exit(0);
+}//fine main

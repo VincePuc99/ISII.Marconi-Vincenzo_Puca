@@ -1,0 +1,23 @@
+
+div {
+
+    /* Caratteristiche comuni a tutto il box */
+     display: block;
+
+    /* Margine */
+    margin: 10px;
+    
+    /* Bordo */
+    border-style: dashed;
+    border-width: medium;
+    border-color: black;
+
+    /* Padding */
+    padding: 25px;
+
+    /* Contenuto */
+    color: yellow;
+    background: red;  
+    width:50px;
+     
+}

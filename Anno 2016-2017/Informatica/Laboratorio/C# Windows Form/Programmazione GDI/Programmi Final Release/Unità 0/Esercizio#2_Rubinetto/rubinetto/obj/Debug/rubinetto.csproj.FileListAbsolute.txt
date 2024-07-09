@@ -1,0 +1,76 @@
+C:\Users\m_inf2.quarta\Desktop\rubinetto\rubinetto\bin\Debug\rubinetto.exe.config
+C:\Users\m_inf2.quarta\Desktop\rubinetto\rubinetto\bin\Debug\rubinetto.exe
+C:\Users\m_inf2.quarta\Desktop\rubinetto\rubinetto\bin\Debug\rubinetto.pdb
+C:\Users\m_inf2.quarta\Desktop\rubinetto\rubinetto\obj\Debug\rubinetto.csprojResolveAssemblyReference.cache
+C:\Users\m_inf2.quarta\Desktop\rubinetto\rubinetto\obj\Debug\rubinetto.Form1.resources
+C:\Users\m_inf2.quarta\Desktop\rubinetto\rubinetto\obj\Debug\rubinetto.Properties.Resources.resources
+C:\Users\m_inf2.quarta\Desktop\rubinetto\rubinetto\obj\Debug\rubinetto.csproj.GenerateResource.Cache
+C:\Users\m_inf2.quarta\Desktop\rubinetto\rubinetto\obj\Debug\rubinetto.exe
+C:\Users\m_inf2.quarta\Desktop\rubinetto\rubinetto\obj\Debug\rubinetto.pdb
+F:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Programmazione GDI\Programmi Alpha\rubinetto\rubinetto\bin\Debug\rubinetto.exe.config
+F:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Programmazione GDI\Programmi Alpha\rubinetto\rubinetto\obj\Debug\rubinetto.exe
+F:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Programmazione GDI\Programmi Alpha\rubinetto\rubinetto\obj\Debug\rubinetto.pdb
+F:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Programmazione GDI\Programmi Alpha\rubinetto\rubinetto\bin\Debug\rubinetto.exe
+F:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Programmazione GDI\Programmi Alpha\rubinetto\rubinetto\bin\Debug\rubinetto.pdb
+F:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Programmazione GDI\Programmi Alpha\rubinetto\rubinetto\obj\Debug\rubinetto.csprojResolveAssemblyReference.cache
+F:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Programmazione GDI\Programmi Alpha\rubinetto\rubinetto\obj\Debug\rubinetto.Properties.Resources.resources
+F:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Programmazione GDI\Programmi Alpha\rubinetto\rubinetto\obj\Debug\rubinetto.csproj.GenerateResource.Cache
+E:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Programmazione GDI\Programmi Alpha\rubinetto\rubinetto\bin\Debug\rubinetto.exe.config
+E:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Programmazione GDI\Programmi Alpha\rubinetto\rubinetto\obj\Debug\rubinetto.exe
+E:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Programmazione GDI\Programmi Alpha\rubinetto\rubinetto\obj\Debug\rubinetto.pdb
+E:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Programmazione GDI\Programmi Alpha\rubinetto\rubinetto\bin\Debug\rubinetto.exe
+E:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Programmazione GDI\Programmi Alpha\rubinetto\rubinetto\bin\Debug\rubinetto.pdb
+E:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Programmazione GDI\Programmi Alpha\rubinetto\rubinetto\obj\Debug\rubinetto.csprojResolveAssemblyReference.cache
+E:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Programmazione GDI\Programmi Alpha\rubinetto\rubinetto\obj\Debug\rubinetto.Properties.Resources.resources
+E:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Programmazione GDI\Programmi Alpha\rubinetto\rubinetto\obj\Debug\rubinetto.csproj.GenerateResource.Cache
+E:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Programmazione GDI\Programmi Alpha\rubinetto\rubinetto\obj\Debug\rubinetto.Frmmain.resources
+F:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Programmazione GDI\Programmi Alpha\rubinetto\rubinetto\obj\Debug\rubinetto.Frmmain.resources
+F:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#2_Rubinetto\rubinetto\bin\Debug\rubinetto.exe.config
+F:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#2_Rubinetto\rubinetto\obj\Debug\rubinetto.exe
+F:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#2_Rubinetto\rubinetto\obj\Debug\rubinetto.pdb
+F:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#2_Rubinetto\rubinetto\bin\Debug\rubinetto.exe
+F:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#2_Rubinetto\rubinetto\bin\Debug\rubinetto.pdb
+F:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#2_Rubinetto\rubinetto\obj\Debug\rubinetto.csprojResolveAssemblyReference.cache
+F:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#2_Rubinetto\rubinetto\obj\Debug\rubinetto.Frmmain.resources
+F:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#2_Rubinetto\rubinetto\obj\Debug\rubinetto.Properties.Resources.resources
+F:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#2_Rubinetto\rubinetto\obj\Debug\rubinetto.csproj.GenerateResource.Cache
+F:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#2_Rubinetto\rubinetto\bin\Debug\rubinetto.exe.config
+F:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#2_Rubinetto\rubinetto\obj\Debug\rubinetto.exe
+F:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#2_Rubinetto\rubinetto\obj\Debug\rubinetto.pdb
+F:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#2_Rubinetto\rubinetto\bin\Debug\rubinetto.exe
+F:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#2_Rubinetto\rubinetto\bin\Debug\rubinetto.pdb
+F:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#2_Rubinetto\rubinetto\obj\Debug\rubinetto.csprojResolveAssemblyReference.cache
+F:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#2_Rubinetto\rubinetto\obj\Debug\rubinetto.Frmmain.resources
+F:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#2_Rubinetto\rubinetto\obj\Debug\rubinetto.Properties.Resources.resources
+F:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#2_Rubinetto\rubinetto\obj\Debug\rubinetto.csproj.GenerateResource.Cache
+C:\Users\Vincenzo\Desktop\Esercizio#2_Rubinetto\rubinetto\bin\Debug\rubinetto.exe.config
+C:\Users\Vincenzo\Desktop\Esercizio#2_Rubinetto\rubinetto\obj\Debug\rubinetto.exe
+C:\Users\Vincenzo\Desktop\Esercizio#2_Rubinetto\rubinetto\obj\Debug\rubinetto.pdb
+C:\Users\Vincenzo\Desktop\Esercizio#2_Rubinetto\rubinetto\bin\Debug\rubinetto.exe
+C:\Users\Vincenzo\Desktop\Esercizio#2_Rubinetto\rubinetto\bin\Debug\rubinetto.pdb
+C:\Users\Vincenzo\Desktop\Esercizio#2_Rubinetto\rubinetto\obj\Debug\rubinetto.csprojResolveAssemblyReference.cache
+C:\Users\Vincenzo\Desktop\Esercizio#2_Rubinetto\rubinetto\obj\Debug\rubinetto.Frmmain.resources
+C:\Users\Vincenzo\Desktop\Esercizio#2_Rubinetto\rubinetto\obj\Debug\rubinetto.Properties.Resources.resources
+C:\Users\Vincenzo\Desktop\Esercizio#2_Rubinetto\rubinetto\obj\Debug\rubinetto.csproj.GenerateResource.Cache
+E:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#2_Rubinetto\rubinetto\bin\Debug\rubinetto.exe.config
+E:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#2_Rubinetto\rubinetto\obj\Debug\rubinetto.exe
+E:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#2_Rubinetto\rubinetto\obj\Debug\rubinetto.pdb
+E:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#2_Rubinetto\rubinetto\bin\Debug\rubinetto.exe
+E:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#2_Rubinetto\rubinetto\bin\Debug\rubinetto.pdb
+E:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#2_Rubinetto\rubinetto\obj\Debug\rubinetto.csprojResolveAssemblyReference.cache
+E:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#2_Rubinetto\rubinetto\obj\Debug\rubinetto.Frmmain.resources
+E:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#2_Rubinetto\rubinetto\obj\Debug\rubinetto.Properties.Resources.resources
+E:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#2_Rubinetto\rubinetto\obj\Debug\rubinetto.csproj.GenerateResource.Cache
+H:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#2_Rubinetto\rubinetto\bin\Debug\rubinetto.exe.config
+H:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#2_Rubinetto\rubinetto\obj\Debug\rubinetto.exe
+H:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#2_Rubinetto\rubinetto\obj\Debug\rubinetto.pdb
+D:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#2_Rubinetto\rubinetto\bin\Debug\rubinetto.exe.config
+D:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#2_Rubinetto\rubinetto\bin\Debug\rubinetto.exe
+D:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#2_Rubinetto\rubinetto\bin\Debug\rubinetto.pdb
+D:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#2_Rubinetto\rubinetto\obj\Debug\rubinetto.csprojAssemblyReference.cache
+D:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#2_Rubinetto\rubinetto\obj\Debug\rubinetto.Frmmain.resources
+D:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#2_Rubinetto\rubinetto\obj\Debug\rubinetto.Properties.Resources.resources
+D:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#2_Rubinetto\rubinetto\obj\Debug\rubinetto.csproj.GenerateResource.cache
+D:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#2_Rubinetto\rubinetto\obj\Debug\rubinetto.csproj.CoreCompileInputs.cache
+D:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#2_Rubinetto\rubinetto\obj\Debug\rubinetto.exe
+D:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Programmi Final Release\Unità 0\Esercizio#2_Rubinetto\rubinetto\obj\Debug\rubinetto.pdb

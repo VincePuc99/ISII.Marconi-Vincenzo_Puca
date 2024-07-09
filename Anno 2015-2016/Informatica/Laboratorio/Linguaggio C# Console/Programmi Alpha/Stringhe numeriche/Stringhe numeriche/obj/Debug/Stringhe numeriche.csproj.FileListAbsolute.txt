@@ -1,0 +1,21 @@
+C:\Users\Vincenzo\Desktop\Stringhe numeriche\Stringhe numeriche\bin\Debug\Stringhe numeriche.exe.config
+C:\Users\Vincenzo\Desktop\Stringhe numeriche\Stringhe numeriche\bin\Debug\Stringhe numeriche.exe
+C:\Users\Vincenzo\Desktop\Stringhe numeriche\Stringhe numeriche\bin\Debug\Stringhe numeriche.pdb
+C:\Users\Vincenzo\Desktop\Stringhe numeriche\Stringhe numeriche\obj\Debug\Stringhe numeriche.csprojResolveAssemblyReference.cache
+C:\Users\Vincenzo\Desktop\Stringhe numeriche\Stringhe numeriche\obj\Debug\Stringhe numeriche.exe
+C:\Users\Vincenzo\Desktop\Stringhe numeriche\Stringhe numeriche\obj\Debug\Stringhe numeriche.pdb
+F:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Stringhe numeriche\Stringhe numeriche\bin\Debug\Stringhe numeriche.exe.config
+F:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Stringhe numeriche\Stringhe numeriche\obj\Debug\Stringhe numeriche.exe
+F:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Stringhe numeriche\Stringhe numeriche\obj\Debug\Stringhe numeriche.pdb
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Stringhe numeriche\Stringhe numeriche\bin\Debug\Stringhe numeriche.exe.config
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Stringhe numeriche\Stringhe numeriche\obj\Debug\Stringhe numeriche.exe
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Stringhe numeriche\Stringhe numeriche\obj\Debug\Stringhe numeriche.pdb
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Stringhe numeriche\Stringhe numeriche\bin\Debug\Stringhe numeriche.exe
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Stringhe numeriche\Stringhe numeriche\bin\Debug\Stringhe numeriche.pdb
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Stringhe numeriche\Stringhe numeriche\obj\Debug\Stringhe numeriche.csprojResolveAssemblyReference.cache
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Linguaggio C# Console\Programmi Alpha\Stringhe numeriche\Stringhe numeriche\bin\Debug\Stringhe numeriche.exe.config
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Linguaggio C# Console\Programmi Alpha\Stringhe numeriche\Stringhe numeriche\bin\Debug\Stringhe numeriche.exe
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Linguaggio C# Console\Programmi Alpha\Stringhe numeriche\Stringhe numeriche\bin\Debug\Stringhe numeriche.pdb
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Linguaggio C# Console\Programmi Alpha\Stringhe numeriche\Stringhe numeriche\obj\Debug\Stringhe numeriche.csprojAssemblyReference.cache
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Linguaggio C# Console\Programmi Alpha\Stringhe numeriche\Stringhe numeriche\obj\Debug\Stringhe numeriche.exe
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Linguaggio C# Console\Programmi Alpha\Stringhe numeriche\Stringhe numeriche\obj\Debug\Stringhe numeriche.pdb

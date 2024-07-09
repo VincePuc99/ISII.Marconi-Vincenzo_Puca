@@ -1,0 +1,18 @@
+
+
+Le distanze dal Sole sono espresse in <b>milioni di chilometri</b> (mio-km)
+La tabella qui sotto è ordinata dal pianeta meno distante verso quello più distante
+I pianeti del sistema solare sono <b>8</b>
+
+   _______________________
+   |Pianeta   | Distanza |
+   |----------|----------|
+   | Mercurio | 57,91    |
+   | Venere   | 108,00   |
+   | Terra    | 149,60   |
+   | Marte    | 227,94   |
+   | Giove    | 778,40   |
+   | Saturno  | 1426,98  |
+   | Urano    | 2870,00  |
+   | Nettuno  | 4497,00  |
+   |__________|__________|

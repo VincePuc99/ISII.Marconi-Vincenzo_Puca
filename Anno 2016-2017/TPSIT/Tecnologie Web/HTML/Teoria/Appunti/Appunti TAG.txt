@@ -1,0 +1,65 @@
+0) Creare su visual studio, File>new website>asp.net empity web site>clicco sulla cartella del programma>add>add new item>hmtl page
+1) Non tutti i tag hanno un end tag
+2) Quando un tag non ha un end tag si chiude con X HTML
+3) <br />  è come un console.writeline();
+4) Faccio dei singoli spazi vuoti con delle entità (iniziano tutte con & e finisco con ;) es.  &nbsp;
+5) Un paramentro passato è un nome di variabile con il valore che va ad assumere
+6) <div> crea una divisione, una zona a cui attribuire colori particolari
+7) <div align="right"> allienea il testo a destra posso anche metterlo a sinistra o al centro
+8) <p> indica un paragrafo e com il div posso aggiungere align
+9) <u> sottolinea il testo all'interno ha l'end tag
+10) <b> grassetto il testo all'interno ha l'end tag
+11) <s> barra il testo all'interno ha l'end tag
+11) <i> corsivo il testo all'interno ha l'end tag
+12) Per fare l'esponente in alto faccio <sup>
+13) Per fare l'esponente in basso faccio <sub>
+14) Commenti in  html <!-- Commento -->
+15) <blockquote> ha l'end tag e sposta ciò che ha al suo interno più a destra
+16) Cambiare sfondo alla pagina <body bgcolor="yellow"> alcuni colori hanno il light che li rendono più chiari
+17) Per scegliere altri colori uso i codici <body bgcolor="#FF00F4">
+18) Per aggiungere uno sfondo alla pagina web creo una cartella images nella solution e gli trascino dentro l'immagine dopodichè
+18.5) <body background="./images/nome immagine.formato immagine">     (./images/) è un percorso relativo
+19) Per scegliere un font e un colore specifico usa il tag <font face=Arial,times new roman" color="#322FF39"> ciao </font>
+20) le iperconessioni sono gli elementi web che ti fanno navigare,per creare le iperconnessione(i link) uso il tag <a href="#">ciao</a>
+20.5) Per creare il collegemto vero e proprio creo un altra pagina nella cartella >add>add new item>hmtl page
+21) Per colegare il ciao di prima alla nuova pagina faccio <a href="nome pagina.html">ciao</a>
+22) Solitamete i link sono sottolineati e sono in blu
+23) Una pagina web non potrebbe essere lunga all'infinita infatti un programmatore solitamete non crea una pagina più lunga del monitor
+24) Per creare un bookmark all'inizio uso <a href="#nome punto in cui voglio arrivare" /> 
+24.5) Poi inserisco il punto in cui voglio arrivare con <a name="nome punto" />
+25) Nel bookmark iniziale deve sempre esserci #
+26) Con il bookmark posso anche saltare ad un altro sito esterno con <a href="http://www.isii.it"> testo su cui cliccare </a>
+27) http = hyper text transfer protocol,protocollo per navigare nel web(il web è l'isieme delle pagine non è internet)
+28) Nella cartella del mio sito web devono esserci sempre 3 sottocarttelle documents images e sounds
+29.0) Aggiungo il file alla sottocartella documents
+29) Per aggiungere un file che posso scaricare direttamente dal mio sito faccio <a href="./documents/doc1.doc" /> nome del tasto per scaricare </a>
+30) Con <li> posso creare una lista però devo racchiudere il tutto in <ul> cosi':  <ul typeof="circle">  <li> Prima voce</li>   </ul>
+31) Con circle o square intendo il tipo di pallino prima di ogni elemento
+32) Con <ol> (ordered list) indico una lista, <ol type="a"> con a pallini di tipo letterale minus,A letterale maisc,1 tipo numerico,i numeri romani,I romani maisc
+33) <ol type="1" start="33"> vuol dire che parte da 33
+34) <table> consente di creare una tabella,all interno possiamo mettere <tr> che significa riga, <td>1//numero colonna</td> indica le colonne
+35.5) <table border="1" align="center" width="50%" height="200" cellspacing="30">   //border indica il bordo il numero indica lo stile  //align l'allieneamento  //width indica la parcentuale
+     <tr>                                                                                                                                                      di larghezza della tabella rispetto alla finestra.
+          <td bgcolor="red">1<td/>	//bgcolor colora soltanto la parte in cui lo metto //height="200" come il width ma non supporta la %	               posso anche usarlo senza percentuale (indica i pixel).
+	  <td>2<td/>                     con il bgcolor rischio di non vedere il testo in tabella                                                              posso usare width e height anche sulle cell(le celle dopo 
+     </tr>                               quindi metto dopo bgcolor font così: <td bgcolor="red"> <font color="yellow"> 1 </font> <td/>                         seguiranno la cella più grande o la più piccola.
+     <tr>                                posso usare bgcolor sul tr sul table e sul td
+          <td>3<td/>                    //cellspacing="30" messo nel table setta il bordo delle celle secondo i pixel //cellpadding indica la distanza tra il contenuto della cella e la cella stessa
+          <td>4<td/>			//1-2-3-4 indica il contenuto della cella
+     </tr>                              //per allineare il testo all'interno di una cella vado nel td e inserisco allign:  <td allign="left">4<td/>	
+     </table>      
+36) Colspan (fa appoggiare una cella su colonne)e rowspan (poggia una cella su righe)(per cegliere quante righe o colonne deve appoggiare metto un numero
+37) Per allungare le celle basta che elimino le celle in più quindi elimino il <td>5<\td>
+38) background="./images/Mountain view.jpg" se lo metto nel td inserisce la mia immagine come sfondo cella
+39) <img src="./images/f2.jpg" widht="30%" height=20%" alt=""/> widht e height controllano larghezza e ampiezza solitamente se ne usa uno perchè entrambi rovinano l'immagine
+39.5) Solo uno fa adatttare la proporzione della finestra del browser (sarebbe il tag alt)
+40) Se non trova l'immagine perchè si è sbagliato percorso lascia al posto dell'immagine un icona e una string se è inserita negli "" di alt
+
+
+
+
+
+
+
+
+

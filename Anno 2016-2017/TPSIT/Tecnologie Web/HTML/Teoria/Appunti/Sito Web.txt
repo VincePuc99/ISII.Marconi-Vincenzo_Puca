@@ -1,0 +1,18 @@
+<html>                //tag contiene del testo per l'interprete del browser       //tag
+      <head>          //testa
+
+      <\head>								
+
+      <body>
+	   fratello   //visualizzato normalmente
+        <b>           //grassetto
+           papa       //solo grassetto
+           <u>
+           mamma      //in grassetto e sottolineato
+	   <\u>       //sottolinea    
+        <\b>
+      <\body>
+
+<\html>               //usare i 2 teg iniziali e finali per definire html	//end tag
+
+

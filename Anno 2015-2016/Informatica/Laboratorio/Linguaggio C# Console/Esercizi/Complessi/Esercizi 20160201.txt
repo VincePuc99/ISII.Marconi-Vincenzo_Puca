@@ -1,0 +1,8 @@
+•	StreamReader e StreamWriter: Per mezzo di un menu permettere ad un utente di memorizzare
+ in un file di nome ACQUARIO, le temperature dell'acqua, rilevate ogni ora, durante un giorno, 
+in un acquario. Si vuole inoltre sapere qual è la temperatura più bassa che è stata registrata,
+ quante volte ed in quali ore del giorno è stata registrata.
+•	StreamReader e StreamWriter: Gestione Voti. Gestire un file con il seguente tracciato:
+Informatica;18/11/2015;8
+Prevedere: 1) caricamento dati; 2) Stampa dei voti di una materia scelta con relativa media;
+ 3) Modifica di un voto già inserito.

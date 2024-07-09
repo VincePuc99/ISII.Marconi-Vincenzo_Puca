@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><project name="Untitled Gantt Project" company="" webLink="http://" view-date="2018-04-09" view-index="1" gantt-divider-location="388" resource-divider-location="341" version="2.8.6" locale="it_IT">
+    <description/>
+    <view zooming-state="default:5" id="gantt-chart">
+        <field id="tpd3" name="Nome" width="211" order="0"/>
+        <field id="tpd4" name="Data d'inizio" width="94" order="1"/>
+        <field id="tpd5" name="Data di fine" width="79" order="2"/>
+    </view>
+    <view id="resource-table">
+        <field id="0" name="Nome" width="198" order="0"/>
+        <field id="1" name="Ruolo predefinito" width="139" order="1"/>
+    </view>
+    <!-- -->
+    <calendars>
+        <day-types>
+            <day-type id="0"/>
+            <day-type id="1"/>
+            <default-week id="1" name="default" sun="1" mon="0" tue="0" wed="0" thu="0" fri="0" sat="1"/>
+            <only-show-weekends value="false"/>
+            <overriden-day-types/>
+            <days/>
+        </day-types>
+    </calendars>
+    <tasks empty-milestones="true">
+        <taskproperties>
+            <taskproperty id="tpd0" name="type" type="default" valuetype="icon"/>
+            <taskproperty id="tpd1" name="priority" type="default" valuetype="icon"/>
+            <taskproperty id="tpd2" name="info" type="default" valuetype="icon"/>
+            <taskproperty id="tpd3" name="name" type="default" valuetype="text"/>
+            <taskproperty id="tpd4" name="begindate" type="default" valuetype="date"/>
+            <taskproperty id="tpd5" name="enddate" type="default" valuetype="date"/>
+            <taskproperty id="tpd6" name="duration" type="default" valuetype="int"/>
+            <taskproperty id="tpd7" name="completion" type="default" valuetype="int"/>
+            <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
+            <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
+        </taskproperties>
+        <task id="0" name="Piattaforma" color="#8cb6ce" meeting="false" start="2018-04-10" duration="1" complete="0" thirdDate="2018-04-10" thirdDate-constraint="0" expand="true">
+            <depend id="1" type="2" difference="0" hardness="Strong"/>
+            <depend id="2" type="2" difference="0" hardness="Strong"/>
+            <depend id="3" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="1" name="Requisiti e strutture dati" color="#8cb6ce" meeting="false" start="2018-04-11" duration="4" complete="0" thirdDate="2018-04-10" thirdDate-constraint="0" expand="true">
+            <depend id="2" type="2" difference="0" hardness="Strong"/>
+            <depend id="3" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="2" name="Definizione interfaccia" color="#8cb6ce" meeting="false" start="2018-04-17" duration="2" complete="0" thirdDate="2018-04-16" thirdDate-constraint="0" expand="true">
+            <depend id="4" type="2" difference="0" hardness="Strong"/>
+            <depend id="5" type="2" difference="0" hardness="Strong"/>
+            <depend id="6" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="3" name="Progettazione DB" color="#8cb6ce" meeting="false" start="2018-04-17" duration="1" complete="0" thirdDate="2018-04-10" thirdDate-constraint="0" expand="true">
+            <depend id="4" type="2" difference="0" hardness="Strong"/>
+            <depend id="5" type="2" difference="0" hardness="Strong"/>
+            <depend id="6" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="4" name="Realizzazione DB" color="#8cb6ce" meeting="false" start="2018-04-19" duration="2" complete="0" thirdDate="2018-04-18" thirdDate-constraint="0" expand="true">
+            <depend id="7" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="5" name="Sw lato server" color="#8cb6ce" meeting="false" start="2018-04-19" duration="5" complete="0" thirdDate="2018-04-10" thirdDate-constraint="0" expand="true">
+            <depend id="7" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="6" name="Sw lato client" color="#8cb6ce" meeting="false" start="2018-04-19" duration="3" complete="0" thirdDate="2018-04-10" thirdDate-constraint="0" expand="true">
+            <depend id="7" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="7" name="Collaudo" color="#8cb6ce" meeting="false" start="2018-04-26" duration="2" complete="0" thirdDate="2018-04-10" thirdDate-constraint="0" expand="true"/>
+    </tasks>
+    <resources>
+        <resource id="0" name="Renzo Magenta" function="1" contacts="" phone=""/>
+        <resource id="1" name="Teo Violi" function="2" contacts="" phone="">
+            <rate name="standard" value="20"/>
+        </resource>
+    </resources>
+    <allocations>
+        <allocation task-id="0" resource-id="0" function="1" responsible="true" load="100.0"/>
+    </allocations>
+    <vacations/>
+    <previous>
+        <previous-tasks name="ciao">
+            <previous-task id="0" start="2018-04-10" duration="1" meeting="false" super="false"/>
+            <previous-task id="1" start="2018-04-10" duration="4" meeting="false" super="false"/>
+            <previous-task id="2" start="2018-04-16" duration="2" meeting="false" super="false"/>
+            <previous-task id="3" start="2018-04-16" duration="1" meeting="false" super="false"/>
+            <previous-task id="4" start="2018-04-18" duration="2" meeting="false" super="false"/>
+            <previous-task id="5" start="2018-04-18" duration="5" meeting="false" super="false"/>
+            <previous-task id="6" start="2018-04-18" duration="3" meeting="false" super="false"/>
+            <previous-task id="7" start="2018-04-25" duration="2" meeting="false" super="false"/>
+        </previous-tasks>
+    </previous>
+    <roles roleset-name="Default"/>
+    <roles>
+        <role id="1" name="PM"/>
+        <role id="2" name="Programmatore"/>
+    </roles>
+</project>

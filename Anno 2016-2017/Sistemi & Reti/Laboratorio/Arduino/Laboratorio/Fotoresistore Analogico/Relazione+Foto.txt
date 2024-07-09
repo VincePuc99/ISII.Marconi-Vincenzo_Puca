@@ -1,0 +1,1 @@
+è bastato modificare lo sketch e l'entrata di arduino dal 3 al A0, ha funzionato tutto correttamente

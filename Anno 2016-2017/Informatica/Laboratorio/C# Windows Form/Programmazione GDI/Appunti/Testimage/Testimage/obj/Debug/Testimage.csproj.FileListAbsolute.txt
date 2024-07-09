@@ -1,0 +1,9 @@
+C:\Users\marco.zucchini\Desktop\Testimage\Testimage\bin\Debug\Testimage.exe.config
+C:\Users\marco.zucchini\Desktop\Testimage\Testimage\bin\Debug\Testimage.exe
+C:\Users\marco.zucchini\Desktop\Testimage\Testimage\bin\Debug\Testimage.pdb
+C:\Users\marco.zucchini\Desktop\Testimage\Testimage\obj\Debug\Testimage.csprojResolveAssemblyReference.cache
+C:\Users\marco.zucchini\Desktop\Testimage\Testimage\obj\Debug\Testimage.frmmain.resources
+C:\Users\marco.zucchini\Desktop\Testimage\Testimage\obj\Debug\Testimage.Properties.Resources.resources
+C:\Users\marco.zucchini\Desktop\Testimage\Testimage\obj\Debug\Testimage.csproj.GenerateResource.Cache
+C:\Users\marco.zucchini\Desktop\Testimage\Testimage\obj\Debug\Testimage.exe
+C:\Users\marco.zucchini\Desktop\Testimage\Testimage\obj\Debug\Testimage.pdb

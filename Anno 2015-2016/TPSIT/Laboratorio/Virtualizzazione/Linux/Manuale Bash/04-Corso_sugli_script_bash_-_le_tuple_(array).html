@@ -1,0 +1,92 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title></title>
+		<meta name='Generator' content='Zim 0.54'>
+		<style type='text/css'>
+			a          { text-decoration: none      }
+			a:hover    { text-decoration: underline }
+			a:active   { text-decoration: underline }
+			strike     { color: grey                }
+			u          { text-decoration: none;
+			             background-color: yellow   }
+			tt         { color: #2e3436;            }
+			pre        { color: #2e3436;
+			             margin-left: 20px          }
+			h1         { text-decoration: underline;
+			             color: #4e9a06             }
+			h2         { color: #4e9a06             }
+			h3         { color: #4e9a06             }
+			h4         { color: #4e9a06             }
+			h5         { color: #4e9a06             }
+			span.insen { color: grey                }
+		</style>
+	</head>
+	<body>
+
+<!-- Header -->
+
+	[ <span class='insen'>Prev</span> ]
+
+			[ <a href='/'>Index</a> ]
+
+	[ <span class='insen'>Next</span> ]
+
+<!-- End Header -->
+
+<hr />
+
+<!-- Wiki content -->
+
+<h1>04-Corso sugli script bash - le tuple (array)</h1>
+
+<p>
+Le tuple sono delle variabili multiple che lavorano con un indice per scrivere o leggere una posizione specifica che chiamiamo per convenzione nostra "cella". Negli script bash esistono solo le tuple ad una dimensione. In altri linguaggi più evoluti si possono dichiarare tuple a più dimensioni. In inglese vengono chiamate array.<br>
+</p>
+
+<p>
+Per esempio questa è la definizione della tupla dei giorni della settimana (<em>sette celle, una per giorno</em>):<br>
+Settimana[1]=Lunedì<br>
+Settimana[2]=Martedì<br>
+Settimana[3]=Mercoledì<br>
+Settimana[4]=Giovedì<br>
+Settimana[5]=Venerdì<br>
+Settimana[6]=Sabato<br>
+Settimana[7]=Domenica<br>
+</p>
+
+<p>
+Ci sono altri modi di definire una tupla:<br>
+<ul>
+<li>Mesi=([1]=gennaio [2]=febbraio ...)</li>
+<li>Valori=( zero uno due tre quattro )  ⇒ <em>se non si specifica l'indice, il medesimo parte da zero e non da uno</em></li>
+</ul>
+</p>
+
+<p>
+La tupla si può interrogare con il suo indice:<br>
+<code>echo ${Settimana[1]}</code>  ⇒ Lunedì<br>
+<code>echo ${Settimana[*]}</code> ⇒ Lunedì Martedì Mercoledì Giovedì Venerdì Sabato Domenica  ⇒ (<em>al posto dell'asterisco si può mettere il simbolo "@" che ha lo stesso effetto</em>)<br>
+<code>echo ${#Settimana[*]}</code> ⇒ 7 (<em>numero di elementi contenuti nella tupla</em>)<br>
+</p>
+
+
+<p>
+<u>ATTENZIONE</u>: l'indice che si usa per leggere o caricare un valore in una cella della tupla non deve essere indicato con degli zeri davanti (per es. 01, 02, ...) perché questa notazione viene interpretata dalla shell bash come <strong>ottale e non decimale</strong>. Questo porta ad avere errori se si prova a leggere o scrivere le celle con indice "08" e "09". Inoltre se interroghiamo la cella con indice "075" di una tupla avremo un risultato diverso che se interroghiamo la cella con indice "75", proprio perché 075 è <strong>ottale</strong> (<em>sarebbe 61 in decimale</em>) e 75 <strong>decimale</strong> (quella corretta per noi).<br>
+</p>
+
+
+<!-- End wiki content -->
+
+<hr />
+
+<!-- Backlinks -->
+
+	Backlinks:		<a href='../01-Corso_sugli_script_bash_-_impariamo_le_basi_della_programmazione.html'>Note non ancora archiviate:01-Corso sugli script bash - impariamo le basi della programmazione</a>
+
+<!-- End Backlinks -->
+
+	</body>
+
+</html>

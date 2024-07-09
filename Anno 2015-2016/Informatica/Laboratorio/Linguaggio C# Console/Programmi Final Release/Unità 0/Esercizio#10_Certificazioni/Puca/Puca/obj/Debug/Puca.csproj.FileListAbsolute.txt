@@ -1,0 +1,24 @@
+C:\Users\M_INF2.TERZA\Desktop\Puca\Puca\Puca\bin\Debug\Puca.exe.config
+C:\Users\M_INF2.TERZA\Desktop\Puca\Puca\Puca\bin\Debug\Puca.exe
+C:\Users\M_INF2.TERZA\Desktop\Puca\Puca\Puca\bin\Debug\Puca.pdb
+C:\Users\M_INF2.TERZA\Desktop\Puca\Puca\Puca\obj\Debug\Puca.csprojResolveAssemblyReference.cache
+C:\Users\M_INF2.TERZA\Desktop\Puca\Puca\Puca\obj\Debug\Puca.exe
+C:\Users\M_INF2.TERZA\Desktop\Puca\Puca\Puca\obj\Debug\Puca.pdb
+C:\Users\M_INF2.TERZA\Desktop\Esercizio#Extra Prova Verifica\Puca\Puca\bin\Debug\Puca.exe.config
+C:\Users\M_INF2.TERZA\Desktop\Esercizio#Extra Prova Verifica\Puca\Puca\obj\Debug\Puca.exe
+C:\Users\M_INF2.TERZA\Desktop\Esercizio#Extra Prova Verifica\Puca\Puca\bin\Debug\Puca.exe
+C:\Users\M_INF2.TERZA\Desktop\Esercizio#Extra Prova Verifica\Puca\Puca\bin\Debug\Puca.pdb
+C:\Users\M_INF2.TERZA\Desktop\Esercizio#Extra Prova Verifica\Puca\Puca\obj\Debug\Puca.csprojResolveAssemblyReference.cache
+C:\Users\M_INF2.TERZA\Desktop\Esercizio#Extra Prova Verifica\Puca\Puca\obj\Debug\Puca.pdb
+G:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#Extra Prova Verifica\Puca\Puca\bin\Debug\Puca.exe.config
+G:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#Extra Prova Verifica\Puca\Puca\obj\Debug\Puca.exe
+G:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#Extra Prova Verifica\Puca\Puca\obj\Debug\Puca.pdb
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#10 Certificazioni\Puca\Puca\bin\Debug\Puca.exe.config
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#10 Certificazioni\Puca\Puca\obj\Debug\Puca.exe
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#10 Certificazioni\Puca\Puca\obj\Debug\Puca.pdb
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#10 Certificazioni\Puca\Puca\bin\Debug\Puca.exe
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#10 Certificazioni\Puca\Puca\bin\Debug\Puca.pdb
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#10 Certificazioni\Puca\Puca\obj\Debug\Puca.csprojResolveAssemblyReference.cache
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#10_Certificazioni\Puca\Puca\bin\Debug\Puca.exe.config
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#10_Certificazioni\Puca\Puca\obj\Debug\Puca.exe
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#10_Certificazioni\Puca\Puca\obj\Debug\Puca.pdb

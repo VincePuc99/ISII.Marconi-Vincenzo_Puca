@@ -1,0 +1,4 @@
+            Thread.Sleep(3000);
+            Console.WriteLine("Premi<INVIO>");
+            Console.ReadLine();
+fà comparire dopo 3 secondi Premi<INVIO>

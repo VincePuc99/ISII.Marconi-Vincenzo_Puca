@@ -1,0 +1,6 @@
+C:\Users\M_inf2.terza\Desktop\Stage\Stage\bin\Debug\Stage.exe.config
+C:\Users\M_inf2.terza\Desktop\Stage\Stage\obj\Debug\Stage.csprojResolveAssemblyReference.cache
+C:\Users\M_inf2.terza\Desktop\Stage\Stage\bin\Debug\Stage.exe
+C:\Users\M_inf2.terza\Desktop\Stage\Stage\bin\Debug\Stage.pdb
+C:\Users\M_inf2.terza\Desktop\Stage\Stage\obj\Debug\Stage.exe
+C:\Users\M_inf2.terza\Desktop\Stage\Stage\obj\Debug\Stage.pdb

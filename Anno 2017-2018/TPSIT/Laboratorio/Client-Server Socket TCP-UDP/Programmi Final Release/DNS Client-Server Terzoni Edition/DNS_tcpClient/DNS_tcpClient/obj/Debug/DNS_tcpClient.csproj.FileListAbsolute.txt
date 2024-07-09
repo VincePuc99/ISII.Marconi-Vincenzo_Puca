@@ -1,0 +1,12 @@
+C:\Users\Alessandro\Desktop\DNS_tcpClient\DNS_tcpClient\bin\Debug\DNS_tcpClient.exe.config
+C:\Users\Alessandro\Desktop\DNS_tcpClient\DNS_tcpClient\bin\Debug\DNS_tcpClient.exe
+C:\Users\Alessandro\Desktop\DNS_tcpClient\DNS_tcpClient\bin\Debug\DNS_tcpClient.pdb
+C:\Users\Alessandro\Desktop\DNS_tcpClient\DNS_tcpClient\obj\Debug\DNS_tcpClient.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro\Desktop\DNS_tcpClient\DNS_tcpClient\obj\Debug\DNS_tcpClient.exe
+C:\Users\Alessandro\Desktop\DNS_tcpClient\DNS_tcpClient\obj\Debug\DNS_tcpClient.pdb
+C:\Users\marco.zucchini\Desktop\DNS_tcpClient\DNS_tcpClient\bin\Debug\DNS_tcpClient.exe.config
+C:\Users\marco.zucchini\Desktop\DNS_tcpClient\DNS_tcpClient\bin\Debug\DNS_tcpClient.exe
+C:\Users\marco.zucchini\Desktop\DNS_tcpClient\DNS_tcpClient\bin\Debug\DNS_tcpClient.pdb
+C:\Users\marco.zucchini\Desktop\DNS_tcpClient\DNS_tcpClient\obj\Debug\DNS_tcpClient.csproj.CoreCompileInputs.cache
+C:\Users\marco.zucchini\Desktop\DNS_tcpClient\DNS_tcpClient\obj\Debug\DNS_tcpClient.exe
+C:\Users\marco.zucchini\Desktop\DNS_tcpClient\DNS_tcpClient\obj\Debug\DNS_tcpClient.pdb

@@ -1,0 +1,6 @@
+C:\Users\M_inf2.terza\Desktop\Trova min Trova max\Trova min Trova max\bin\Debug\Trova min Trova max.exe.config
+C:\Users\M_inf2.terza\Desktop\Trova min Trova max\Trova min Trova max\bin\Debug\Trova min Trova max.exe
+C:\Users\M_inf2.terza\Desktop\Trova min Trova max\Trova min Trova max\bin\Debug\Trova min Trova max.pdb
+C:\Users\M_inf2.terza\Desktop\Trova min Trova max\Trova min Trova max\obj\Debug\Trova min Trova max.csprojResolveAssemblyReference.cache
+C:\Users\M_inf2.terza\Desktop\Trova min Trova max\Trova min Trova max\obj\Debug\Trova min Trova max.exe
+C:\Users\M_inf2.terza\Desktop\Trova min Trova max\Trova min Trova max\obj\Debug\Trova min Trova max.pdb

@@ -1,0 +1,8 @@
+La Dash è l'oggetto principale dell'interfaccia Unity. Tutto ruota
+attorno ad essa. Con la Dash possiamo ricercare ogni tipo di contenuto
+sia esso locale che sul web. Grazie a delle Lens specializzate si possono
+fare delle ricerche mirate per applicazioni, documenti, immagini, video,
+amazon, wikipedia, ecc.
+La si richiama con un clic sul pulsante del Launcher con il simbolo di
+Ubuntu, oppure premendo il pulsante 'Super'.
+

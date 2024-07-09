@@ -1,0 +1,40 @@
+C:\Users\M_INF2.TERZA\Desktop\Hang Man\Hang Man\bin\Debug\Hang Man.exe.config
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Alpha\Hang Man\Hang Man\bin\Debug\Hang Man.exe.config
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Alpha\Hang Man\Hang Man\bin\Debug\Hang Man.exe
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Alpha\Hang Man\Hang Man\bin\Debug\Hang Man.pdb
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Alpha\Hang Man\Hang Man\obj\Debug\Hang Man.csprojResolveAssemblyReference.cache
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Alpha\Hang Man\Hang Man\obj\Debug\Hang Man.exe
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Alpha\Hang Man\Hang Man\obj\Debug\Hang Man.pdb
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Alpha\Esercizio#Extra_Hang Man\Hang Man\bin\Debug\Hang Man.exe.config
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Alpha\Esercizio#Extra_Hang Man\Hang Man\obj\Debug\Hang Man.exe
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Alpha\Esercizio#Extra_Hang Man\Hang Man\obj\Debug\Hang Man.pdb
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Alpha\Esercizio#Extra_Hang Man\Hang Man\bin\Debug\Hang Man.exe
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Alpha\Esercizio#Extra_Hang Man\Hang Man\bin\Debug\Hang Man.pdb
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Alpha\Esercizio#Extra_Hang Man\Hang Man\obj\Debug\Hang Man.csprojResolveAssemblyReference.cache
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#Extra_Hang Man\Hang Man\bin\Debug\Hang Man.exe.config
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#Extra_Hang Man\Hang Man\obj\Debug\Hang Man.exe
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#Extra_Hang Man\Hang Man\obj\Debug\Hang Man.pdb
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#Extra Hang Man\Hang Man\bin\Debug\Hang Man.exe.config
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#Extra Hang Man\Hang Man\obj\Debug\Hang Man.exe
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#Extra Hang Man\Hang Man\obj\Debug\Hang Man.pdb
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#Extra Hang Man\Hang Man\bin\Debug\Hang Man.exe
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#Extra Hang Man\Hang Man\bin\Debug\Hang Man.pdb
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#Extra Hang Man\Hang Man\obj\Debug\Hang Man.csprojResolveAssemblyReference.cache
+G:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#Extra Hang Man\Hang Man\bin\Debug\Hang Man.exe.config
+G:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#Extra Hang Man\Hang Man\obj\Debug\Hang Man.exe
+G:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#Extra Hang Man\Hang Man\obj\Debug\Hang Man.pdb
+G:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#Extra Hang Man\Hang Man\bin\Debug\Hang Man.exe
+G:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#Extra Hang Man\Hang Man\bin\Debug\Hang Man.pdb
+G:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#Extra Hang Man\Hang Man\obj\Debug\Hang Man.csprojResolveAssemblyReference.cache
+F:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#Extra Hang Man\Hang Man\bin\Debug\Hang Man.exe.config
+F:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#Extra Hang Man\Hang Man\obj\Debug\Hang Man.exe
+F:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#Extra Hang Man\Hang Man\obj\Debug\Hang Man.pdb
+F:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#Extra Hang Man\Hang Man\bin\Debug\Hang Man.exe
+F:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#Extra Hang Man\Hang Man\bin\Debug\Hang Man.pdb
+F:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#Extra Hang Man\Hang Man\obj\Debug\Hang Man.csprojResolveAssemblyReference.cache
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Linguaggio C# Console\Programmi Final Release\Unità Extra\Esercizio#Extra Hang Man\Hang Man\bin\Debug\Hang Man.exe.config
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Linguaggio C# Console\Programmi Final Release\Unità Extra\Esercizio#Extra Hang Man\Hang Man\obj\Debug\Hang Man.exe
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Linguaggio C# Console\Programmi Final Release\Unità Extra\Esercizio#Extra Hang Man\Hang Man\obj\Debug\Hang Man.pdb
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Linguaggio C# Console\Programmi Final Release\Unità Extra\Esercizio#Extra Hang Man\Hang Man\bin\Debug\Hang Man.exe
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Linguaggio C# Console\Programmi Final Release\Unità Extra\Esercizio#Extra Hang Man\Hang Man\bin\Debug\Hang Man.pdb
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Linguaggio C# Console\Programmi Final Release\Unità Extra\Esercizio#Extra Hang Man\Hang Man\obj\Debug\Hang Man.csprojResolveAssemblyReference.cache

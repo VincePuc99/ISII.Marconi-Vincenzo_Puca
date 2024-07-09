@@ -1,0 +1,259 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title></title>
+		<meta name='Generator' content='Zim 0.54'>
+		<style type='text/css'>
+			a          { text-decoration: none      }
+			a:hover    { text-decoration: underline }
+			a:active   { text-decoration: underline }
+			strike     { color: grey                }
+			u          { text-decoration: none;
+			             background-color: yellow   }
+			tt         { color: #2e3436;            }
+			pre        { color: #2e3436;
+			             margin-left: 20px          }
+			h1         { text-decoration: underline;
+			             color: #4e9a06             }
+			h2         { color: #4e9a06             }
+			h3         { color: #4e9a06             }
+			h4         { color: #4e9a06             }
+			h5         { color: #4e9a06             }
+			span.insen { color: grey                }
+		</style>
+	</head>
+	<body>
+
+<!-- Header -->
+
+	[ <span class='insen'>Prev</span> ]
+
+			[ <a href='/'>Index</a> ]
+
+	[ <span class='insen'>Next</span> ]
+
+<!-- End Header -->
+
+<hr />
+
+<!-- Wiki content -->
+
+<h1>16-Corso sugli script bash - aggiunta di una GUI</h1>
+
+<p>
+La GUI è l'acronimo inglese per Graphical User Interface, ovvero di interfaccia grafica. Ebbene sì, dopo aver lavorato per 15 lezioni del nostro corso con il terminale, possiamo ora fare un passo in più, anche se non obbligatorio, e aggiungere un'interfaccia grafica allo script. Per gli ambienti grafici basati sulle librerie GTK, come Gnome e quindi Ubuntu, esiste un modulo chiamato <strong>zenity</strong> che permette di integrare comodamente e facilmente delle finestre grafiche sempre mediante comandi. <br>
+Il pacchetto <strong>zenity</strong> dovrebbe già essere installato per difetto in Ubuntu, ma se non fosse il caso basta aprire Ubuntu Software Center e cercare "zenity".<br>
+</p>
+
+
+<h5>Opzioni disponibili con il comando zenity:</h5>
+<p>
+<u>Miscellaneous options</u><br>
+<ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>-?, --help</code> → Show summary of options (<em>aiuto sulle diverse opzioni</em>)</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--about</code> → Display an about dialog (<em>dialogo con info su zenity e versione</em>)</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--version</code> → Show version of program (<em>numero di versione nel terminale</em>)</li>
+</ul>
+</p>
+
+<p>
+<u>General options</u><br>
+<ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--title=TITLE</code> → Set the dialog title</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--window-icon=ICONPATH</code> → Set  the  window  icon with the path to an image. Alternatively, one of the four stock icons can be used: '<strong>error</strong>', '<strong>info</strong>', '<strong>question</strong>' or '<strong>warning</strong>'</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--width=WIDTH</code> → Set the dialog width</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--height=HEIGHT</code> → Set the dialog height</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--timeout=TIMEOUT</code> → Set the dialog timeout in seconds</li>
+</ul>
+</p>
+
+<p>
+<u>Dialog options</u><br>
+<ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--calendar</code> → Display calendar dialog</li>
+<ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><strong>Calendar options</strong></li>
+<ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--text=STRING</code> → Set the dialog text</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--day=INT</code> → Set the calendar day</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--month=INT</code> → Set the calendar month</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--year=INT</code> → Set the calendar year</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--date-format=PATTERN</code> → Set the format for the returned date. The default depends on the user locale or be set with the strftime style.  For  example  %A  %d/%m/%y (rif. <a href="http://php.net/manual/en/function.strftime.php" title="http://php.net/manual/en/function.strftime.php">http://php.net/manual/en/function.strftime.php</a>)</li>
+</ul>
+</ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--entry</code> → Display text entry dialog</li>
+<ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><strong>Text entry options</strong></li>
+<ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--text=STRING</code> → Set the dialog text</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--entry-text=STRING</code> → Set the entry text</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--hide-text</code> → Hide the entry text (<em>nasconde quanto si digita in stile password</em>)</li>
+</ul>
+</ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--error</code> → Display error dialog</li>
+<ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><strong>Error options</strong></li>
+<ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--text=STRING</code> → Set the dialog text</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--no-wrap</code> → Do not enable text wrapping</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--no-markup</code> → Do not enable pango markup  (rif. <a href="http://developer.gnome.org/pygtk/2.22/pango-markup-language.html" title="http://developer.gnome.org/pygtk/2.22/pango-markup-language.html">http://developer.gnome.org/pygtk/2.22/pango-markup-language.html</a>)</li>
+</ul>
+</ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--file-selection</code> → Display file selection dialog</li>
+<ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><strong>File selection options</strong></li>
+<ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--filename=FILENAME</code> → Set the file or directory to be selected by default</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--multiple</code> → Allow selection of multiple filenames in file selection dialog</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--directory</code> → Activate directory-only selection</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--save</code> → Activate save mode</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--separator=SEPARATOR</code> → Specify separator character when returning multiple filenames</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--confirm-overwrite</code> → Confirm file selection if filename already exists</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--file-filter=NAME | PATTERN1 PATTERN2</code> → Sets a filename filter</li>
+</ul>
+</ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--info</code> → Display info dialog</li>
+<ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><strong>Info options</strong></li>
+<ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--text=STRING</code> → Set the dialog text</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--no-wrap</code> → Do not enable text wrapping</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--no-markup</code> → Do not enable pango markup  (rif. <a href="http://developer.gnome.org/pygtk/2.22/pango-markup-language.html" title="http://developer.gnome.org/pygtk/2.22/pango-markup-language.html">http://developer.gnome.org/pygtk/2.22/pango-markup-language.html</a>)</li>
+</ul>
+</ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--list</code> → Display list dialog</li>
+<ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><strong>List options</strong></li>
+<ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--text=STRING</code> → Set the dialog text</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--column=STRING</code> → Set the column header</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--checklist</code> → Use check boxes for first column</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--radiolist</code> → Use radio buttons for first column</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--separator=STRING</code> → Set output separator character</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--multiple</code> → Allow multiple rows to be selected</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--editable</code> → Allow changes to text</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--print-column=NUMBER</code> → Specify  what column to print to standard output. The default is to return the first column. '<strong>ALL</strong>' may be used to print all  columns.</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--hide-column=NUMBER</code> → Hide a specific column</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--hide-header</code> → Hides the column headers</li>
+</ul>
+</ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><strike>--notification → Display notification</strike></li>
+<ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><strike>Notification options</strike></li>
+<ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><strike>--text=STRING → Set the notification text</strike></li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><strike>--listen → Listen  for  commands  on  stdin.  Commands  include  'message', 'tooltip', 'icon', and 'visible' separated by a colon. </strike></li>
+</ul>
+</ul>
+</ul>
+<div style='padding-left: 150pt'>
+<strike>For example,   'message:  Hello  world',  'visible:  false',  or  'icon: /path/to/icon'. The icon command also  accepts  the  four  stock icon: 'error', 'info', 'question', and 'warning'</strike><br>
+</div>
+<ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--progress</code> → Display progress indication dialog</li>
+<ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><strong>Progress options</strong></li>
+<ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--text=STRING</code> → Set the dialog text</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--percentage=INT</code> → Set initial percentage</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--auto-close</code> → Close dialog when 100% has been reached</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--auto-kill</code> → Kill parent process if cancel button is pressed</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--pulsate</code> → Pulsate progress bar</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--no-cancel</code> → Hides the cancel butto</li>
+</ul>
+</ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--question</code> → Display question dialog</li>
+<ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><strong>Question options</strong></li>
+<ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--text=STRING</code> → Set the dialog text</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--no-wrap</code> → Do not enable text wrapping</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--no-markup</code> → Do not enable pango markup</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--ok-label=TEXT</code> → Set the text of the OK button</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--cancel-label=TEXT</code> → Set the text of the cancel button</li>
+</ul>
+</ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--text-info</code> → Display text information dialog</li>
+<ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><strong>Text options</strong></li>
+<ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--filename=FILENAME</code> → Open file</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--editable</code> → Allow changes to text</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--checkbox=TEXT</code> → Enable a checkbox for use like a 'I read and accept the terms.'</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--ok-label=TEXT</code> → Set the text of the OK button</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--cancel-label=TEXT</code> → Set the text of the cancel button</li>
+</ul>
+</ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--warning</code> → Display warning dialog</li>
+<ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><strong>Warning options</strong></li>
+<ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--text=STRING</code> → Set the dialog text</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--no-wrap</code> → Do not enable text wrapping</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--no-markup</code> → Do not enable pango markup  (rif. <a href="http://developer.gnome.org/pygtk/2.22/pango-markup-language.html" title="http://developer.gnome.org/pygtk/2.22/pango-markup-language.html">http://developer.gnome.org/pygtk/2.22/pango-markup-language.html</a>)</li>
+</ul>
+</ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--scale</code> → Display scale dialog</li>
+<ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><strong>Scale options</strong></li>
+<ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--text=STRING</code> → Set the dialog text</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--value=VALUE</code> → Set initial value</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--min-value=VALUE</code> → Set minimum value</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--max-value=VALUE</code> → Set maximum value</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--step=VALUE</code> → Set step size</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--print-partial</code> → Print partial values (<em>visualizza nel terminale ogni valore mentre si sposta il cursore sulla scala</em>)</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--hide-value</code> → Hide value</li>
+</ul>
+</ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--color-selection</code> → Display color selection dialog</li>
+<ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><strong>Color selection options</strong></li>
+<ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--color=VALUE</code> → Set the initial color (<em>un valore esadecimale come #123456, oppure il nome inglese del colore tipo "orange", "white"</em>)</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--show-palette</code> → Show the palette (<em>mostra una serie aggiuntiva di colori predefiniti da scegliere</em>)</li>
+</ul>
+</ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--password</code> → Display password dialog</li>
+<ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><strong>Password dialog options</strong></li>
+<ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--username</code> → Display the username field</li>
+</ul>
+</ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--forms</code> → Display forms dialog</li>
+<ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><strong>Forms dialog options</strong></li>
+<ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--add-entry=FIELDNAME</code> → Add a new Entry in forms dialog</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--add-password=FIELDNAME</code> → Add a new Password Entry in forms dialog</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--add-calendar=FIELDNAME</code> → Add a new Calendar in forms dialog</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--text=STRING</code> → Set the dialog text</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--separator=STRING</code> → Set output separator character</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>--forms-date-format=PATTERN</code> → Set the format for the returned date. The default depends on the user locale or be set with the strftime style.  For  example  %A %d/%m/%y</li>
+</ul>
+</ul>
+</ul>
+</p>
+
+
+<h5>Interazione con i dialoghi di zenity</h5>
+<p>
+Naturalmente non è sufficiente essere in grado di impostare un dialogo con zenity, ma occorre anche interagire con esso in modo da intepretare nel nostro script quanto ogni dialogo ritorna dopo essere stato chiuso. Ci sono dialoghi che tornano un solo valore, per esempio quale pulsante è stato premuto, così come dialoghi che tornano più valori in una stringa, per esempio il dialogo forms che torna tanti valori quanti campi abbiamo creato. Per entrambe le situazioni ci sono delle modalità da usare nel codice del nostro script che rendono tutto sommato facile il compito.<br>
+</p>
+
+
+<!-- End wiki content -->
+
+<hr />
+
+<!-- Backlinks -->
+
+	Backlinks:		<a href='../01-Corso_sugli_script_bash_-_impariamo_le_basi_della_programmazione.html'>Note non ancora archiviate:01-Corso sugli script bash - impariamo le basi della programmazione</a>
+
+<!-- End Backlinks -->
+
+	</body>
+
+</html>

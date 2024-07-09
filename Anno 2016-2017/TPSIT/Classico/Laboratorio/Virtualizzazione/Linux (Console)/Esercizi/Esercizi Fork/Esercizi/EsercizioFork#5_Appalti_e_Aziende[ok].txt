@@ -1,0 +1,4 @@
+in una gara d'appalto,indetta dalla provincia,partecipano 3 aziende edili ciascuna delle quali impiega
+un certo tempo per produrre e consegnare l'offerta. La provincia dopo aver fissato un tempo limite per la consegna,
+riceve le offerte delle varie ditte che le fanno pervenire registrando l'ordine d'arrivo e il valore del preventivo;
+determina il vincitore basandoti sull'ordine d'arrivo e sul preventivo minimo.

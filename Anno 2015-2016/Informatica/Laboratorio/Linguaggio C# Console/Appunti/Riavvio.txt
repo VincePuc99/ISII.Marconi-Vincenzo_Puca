@@ -1,0 +1,14 @@
+            Console.WriteLine("\n----------------------------------------");
+            
+            Console.Write("\nVuoi riprovare (SI) o (NO) :  ");
+            riavvio = Console.ReadLine();
+
+            if (riavvio.ToUpper() == "NO")
+            {
+                return;
+            }
+            if (riavvio.ToUpper() == "SI")
+            {
+                Console.WriteLine("\n----------------------------------------");
+                goto Restart;
+            }          

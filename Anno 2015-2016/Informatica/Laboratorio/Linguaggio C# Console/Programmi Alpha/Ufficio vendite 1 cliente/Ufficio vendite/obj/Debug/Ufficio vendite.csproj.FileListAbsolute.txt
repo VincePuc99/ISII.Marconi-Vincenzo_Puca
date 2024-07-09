@@ -1,0 +1,12 @@
+C:\Users\M_INF2.terza\Desktop\Ufficio vendite\Ufficio vendite\bin\Debug\Ufficio vendite.exe.config
+C:\Users\M_INF2.terza\Desktop\Ufficio vendite\Ufficio vendite\obj\Debug\Ufficio vendite.csprojResolveAssemblyReference.cache
+C:\Users\M_INF2.terza\Desktop\Ufficio vendite\Ufficio vendite\bin\Debug\Ufficio vendite.exe
+C:\Users\M_INF2.terza\Desktop\Ufficio vendite\Ufficio vendite\bin\Debug\Ufficio vendite.pdb
+C:\Users\M_INF2.terza\Desktop\Ufficio vendite\Ufficio vendite\obj\Debug\Ufficio vendite.exe
+C:\Users\M_INF2.terza\Desktop\Ufficio vendite\Ufficio vendite\obj\Debug\Ufficio vendite.pdb
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Ufficio vendite\Ufficio vendite\bin\Debug\Ufficio vendite.exe.config
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Ufficio vendite\Ufficio vendite\obj\Debug\Ufficio vendite.exe
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Ufficio vendite\Ufficio vendite\obj\Debug\Ufficio vendite.pdb
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Linguaggio C#\Programmi Alpha\Ufficio vendite 1 cliente\Ufficio vendite\bin\Debug\Ufficio vendite.exe.config
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Linguaggio C#\Programmi Alpha\Ufficio vendite 1 cliente\Ufficio vendite\obj\Debug\Ufficio vendite.exe
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Linguaggio C#\Programmi Alpha\Ufficio vendite 1 cliente\Ufficio vendite\obj\Debug\Ufficio vendite.pdb

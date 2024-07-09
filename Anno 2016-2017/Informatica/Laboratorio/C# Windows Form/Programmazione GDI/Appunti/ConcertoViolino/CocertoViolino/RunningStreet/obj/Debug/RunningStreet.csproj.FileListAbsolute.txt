@@ -1,0 +1,62 @@
+c:\users\marco_000\documents\visual studio 2013\Projects\RunningStreet\RunningStreet\bin\Debug\RunningStreet.exe.config
+c:\users\marco_000\documents\visual studio 2013\Projects\RunningStreet\RunningStreet\bin\Debug\RunningStreet.exe
+c:\users\marco_000\documents\visual studio 2013\Projects\RunningStreet\RunningStreet\bin\Debug\RunningStreet.pdb
+c:\users\marco_000\documents\visual studio 2013\Projects\RunningStreet\RunningStreet\obj\Debug\RunningStreet.csprojResolveAssemblyReference.cache
+c:\users\marco_000\documents\visual studio 2013\Projects\RunningStreet\RunningStreet\obj\Debug\RunningStreet.frmMain.resources
+c:\users\marco_000\documents\visual studio 2013\Projects\RunningStreet\RunningStreet\obj\Debug\RunningStreet.Properties.Resources.resources
+c:\users\marco_000\documents\visual studio 2013\Projects\RunningStreet\RunningStreet\obj\Debug\RunningStreet.csproj.GenerateResource.Cache
+c:\users\marco_000\documents\visual studio 2013\Projects\RunningStreet\RunningStreet\obj\Debug\RunningStreet.exe
+c:\users\marco_000\documents\visual studio 2013\Projects\RunningStreet\RunningStreet\obj\Debug\RunningStreet.pdb
+C:\Users\marco_000\Desktop\CocertoViolino\RunningStreet\bin\Debug\RunningStreet.exe.config
+C:\Users\marco_000\Desktop\CocertoViolino\RunningStreet\obj\Debug\RunningStreet.exe
+C:\Users\marco_000\Desktop\CocertoViolino\RunningStreet\obj\Debug\RunningStreet.pdb
+C:\Users\marco_000\Desktop\CocertoViolino\RunningStreet\bin\Debug\RunningStreet.exe
+C:\Users\marco_000\Desktop\CocertoViolino\RunningStreet\bin\Debug\RunningStreet.pdb
+C:\Users\marco_000\Desktop\CocertoViolino\RunningStreet\obj\Debug\RunningStreet.csprojResolveAssemblyReference.cache
+C:\Users\marco_000\Desktop\CocertoViolino\RunningStreet\obj\Debug\RunningStreet.frmMain.resources
+C:\Users\marco_000\Desktop\CocertoViolino\RunningStreet\obj\Debug\RunningStreet.Properties.Resources.resources
+C:\Users\marco_000\Desktop\CocertoViolino\RunningStreet\obj\Debug\RunningStreet.csproj.GenerateResource.Cache
+I:\__________________AS_2014_2015\Classi\Quarta\Informatica\U6_GDI\VerificaGDI_ConcertoViolino\CocertoViolino\RunningStreet\bin\Debug\RunningStreet.exe.config
+I:\__________________AS_2014_2015\Classi\Quarta\Informatica\U6_GDI\VerificaGDI_ConcertoViolino\CocertoViolino\RunningStreet\obj\Debug\RunningStreet.exe
+I:\__________________AS_2014_2015\Classi\Quarta\Informatica\U6_GDI\VerificaGDI_ConcertoViolino\CocertoViolino\RunningStreet\obj\Debug\RunningStreet.pdb
+I:\__________________AS_2014_2015\Classi\Quarta\Informatica\U6_GDI\VerificaGDI_ConcertoViolino\CocertoViolino\RunningStreet\bin\Debug\RunningStreet.exe
+I:\__________________AS_2014_2015\Classi\Quarta\Informatica\U6_GDI\VerificaGDI_ConcertoViolino\CocertoViolino\RunningStreet\bin\Debug\RunningStreet.pdb
+I:\__________________AS_2014_2015\Classi\Quarta\Informatica\U6_GDI\VerificaGDI_ConcertoViolino\CocertoViolino\RunningStreet\obj\Debug\RunningStreet.csprojResolveAssemblyReference.cache
+I:\__________________AS_2014_2015\Classi\Quarta\Informatica\U6_GDI\VerificaGDI_ConcertoViolino\CocertoViolino\RunningStreet\obj\Debug\RunningStreet.frmMain.resources
+I:\__________________AS_2014_2015\Classi\Quarta\Informatica\U6_GDI\VerificaGDI_ConcertoViolino\CocertoViolino\RunningStreet\obj\Debug\RunningStreet.Properties.Resources.resources
+I:\__________________AS_2014_2015\Classi\Quarta\Informatica\U6_GDI\VerificaGDI_ConcertoViolino\CocertoViolino\RunningStreet\obj\Debug\RunningStreet.csproj.GenerateResource.Cache
+H:\Classi\_Quarta\Informatica\U5_GDI\EsercitazioneGDI_ConcertoViolino\CocertoViolino\RunningStreet\bin\Debug\RunningStreet.exe.config
+H:\Classi\_Quarta\Informatica\U5_GDI\EsercitazioneGDI_ConcertoViolino\CocertoViolino\RunningStreet\obj\Debug\RunningStreet.exe
+H:\Classi\_Quarta\Informatica\U5_GDI\EsercitazioneGDI_ConcertoViolino\CocertoViolino\RunningStreet\obj\Debug\RunningStreet.pdb
+I:\Classi\_Quarta\Informatica\U5_GDI\EsercitazioneGDI_ConcertoViolino\CocertoViolino\RunningStreet\bin\Debug\RunningStreet.exe.config
+I:\Classi\_Quarta\Informatica\U5_GDI\EsercitazioneGDI_ConcertoViolino\CocertoViolino\RunningStreet\obj\Debug\RunningStreet.exe
+I:\Classi\_Quarta\Informatica\U5_GDI\EsercitazioneGDI_ConcertoViolino\CocertoViolino\RunningStreet\obj\Debug\RunningStreet.pdb
+J:\Classi\_Quarta\Informatica\U6_GDI+\EsercitazioneGDI_ConcertoViolino\CocertoViolino\RunningStreet\bin\Debug\RunningStreet.exe.config
+J:\Classi\_Quarta\Informatica\U6_GDI+\EsercitazioneGDI_ConcertoViolino\CocertoViolino\RunningStreet\obj\Debug\RunningStreet.exe
+J:\Classi\_Quarta\Informatica\U6_GDI+\EsercitazioneGDI_ConcertoViolino\CocertoViolino\RunningStreet\obj\Debug\RunningStreet.pdb
+J:\Classi\_Quarta\Informatica\U6_GDI+\EsercitazioneGDI_ConcertoViolino\CocertoViolino\RunningStreet\bin\Debug\RunningStreet.exe
+J:\Classi\_Quarta\Informatica\U6_GDI+\EsercitazioneGDI_ConcertoViolino\CocertoViolino\RunningStreet\bin\Debug\RunningStreet.pdb
+J:\Classi\_Quarta\Informatica\U6_GDI+\EsercitazioneGDI_ConcertoViolino\CocertoViolino\RunningStreet\obj\Debug\RunningStreet.csprojResolveAssemblyReference.cache
+J:\Classi\_Quarta\Informatica\U6_GDI+\EsercitazioneGDI_ConcertoViolino\CocertoViolino\RunningStreet\obj\Debug\RunningStreet.frmMain.resources
+J:\Classi\_Quarta\Informatica\U6_GDI+\EsercitazioneGDI_ConcertoViolino\CocertoViolino\RunningStreet\obj\Debug\RunningStreet.Properties.Resources.resources
+J:\Classi\_Quarta\Informatica\U6_GDI+\EsercitazioneGDI_ConcertoViolino\CocertoViolino\RunningStreet\obj\Debug\RunningStreet.csproj.GenerateResource.Cache
+M:\M_INF2.Quarta\Informatica\_Prof_Zucchini\_Esercizi\U3 GDI\EsercitazioneGDI_ConcertoViolino\CocertoViolino\RunningStreet\bin\Debug\RunningStreet.exe.config
+M:\M_INF2.Quarta\Informatica\_Prof_Zucchini\_Esercizi\U3 GDI\EsercitazioneGDI_ConcertoViolino\CocertoViolino\RunningStreet\obj\Debug\RunningStreet.exe
+M:\M_INF2.Quarta\Informatica\_Prof_Zucchini\_Esercizi\U3 GDI\EsercitazioneGDI_ConcertoViolino\CocertoViolino\RunningStreet\obj\Debug\RunningStreet.pdb
+M:\M_INF2.Quarta\Informatica\_Prof_Zucchini\_Esercizi\U3 GDI\EsercitazioneGDI_ConcertoViolino\CocertoViolino\RunningStreet\bin\Debug\RunningStreet.exe
+M:\M_INF2.Quarta\Informatica\_Prof_Zucchini\_Esercizi\U3 GDI\EsercitazioneGDI_ConcertoViolino\CocertoViolino\RunningStreet\obj\Debug\RunningStreet.csprojResolveAssemblyReference.cache
+M:\M_INF2.Quarta\Informatica\_Prof_Zucchini\_Esercizi\U3 GDI\EsercitazioneGDI_ConcertoViolino\CocertoViolino\RunningStreet\obj\Debug\RunningStreet.frmMain.resources
+M:\M_INF2.Quarta\Informatica\_Prof_Zucchini\_Esercizi\U3 GDI\EsercitazioneGDI_ConcertoViolino\CocertoViolino\RunningStreet\obj\Debug\RunningStreet.Properties.Resources.resources
+M:\M_INF2.Quarta\Informatica\_Prof_Zucchini\_Esercizi\U3 GDI\EsercitazioneGDI_ConcertoViolino\CocertoViolino\RunningStreet\obj\Debug\RunningStreet.csproj.GenerateResource.Cache
+H:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Programmazione GDI\Appunti\ConcertoViolino\CocertoViolino\RunningStreet\bin\Debug\RunningStreet.exe.config
+H:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Programmazione GDI\Appunti\ConcertoViolino\CocertoViolino\RunningStreet\obj\Debug\RunningStreet.exe
+H:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Programmazione GDI\Appunti\ConcertoViolino\CocertoViolino\RunningStreet\obj\Debug\RunningStreet.pdb
+H:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Programmazione GDI\Appunti\ConcertoViolino\CocertoViolino\RunningStreet\bin\Debug\RunningStreet.exe
+H:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Programmazione GDI\Appunti\ConcertoViolino\CocertoViolino\RunningStreet\bin\Debug\RunningStreet.pdb
+H:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Programmazione GDI\Appunti\ConcertoViolino\CocertoViolino\RunningStreet\obj\Debug\RunningStreet.csprojResolveAssemblyReference.cache
+H:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Programmazione GDI\Appunti\ConcertoViolino\CocertoViolino\RunningStreet\obj\Debug\RunningStreet.frmMain.resources
+H:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Programmazione GDI\Appunti\ConcertoViolino\CocertoViolino\RunningStreet\obj\Debug\RunningStreet.Properties.Resources.resources
+H:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Programmazione GDI\Appunti\ConcertoViolino\CocertoViolino\RunningStreet\obj\Debug\RunningStreet.csproj.GenerateResource.Cache
+F:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Appunti\ConcertoViolino\CocertoViolino\RunningStreet\bin\Debug\RunningStreet.exe.config
+F:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Appunti\ConcertoViolino\CocertoViolino\RunningStreet\obj\Debug\RunningStreet.exe
+F:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Appunti\ConcertoViolino\CocertoViolino\RunningStreet\obj\Debug\RunningStreet.pdb

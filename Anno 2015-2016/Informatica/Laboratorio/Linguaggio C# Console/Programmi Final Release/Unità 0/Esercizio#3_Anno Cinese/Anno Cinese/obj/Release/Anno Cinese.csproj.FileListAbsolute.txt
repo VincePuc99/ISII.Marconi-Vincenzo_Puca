@@ -1,0 +1,6 @@
+H:\Esercizi Visual Studio\Anno Cinese\Anno Cinese\bin\Release\Anno Cinese.exe.config
+H:\Esercizi Visual Studio\Anno Cinese\Anno Cinese\bin\Release\Anno Cinese.exe
+H:\Esercizi Visual Studio\Anno Cinese\Anno Cinese\bin\Release\Anno Cinese.pdb
+H:\Esercizi Visual Studio\Anno Cinese\Anno Cinese\obj\Release\Anno Cinese.csprojResolveAssemblyReference.cache
+H:\Esercizi Visual Studio\Anno Cinese\Anno Cinese\obj\Release\Anno Cinese.exe
+H:\Esercizi Visual Studio\Anno Cinese\Anno Cinese\obj\Release\Anno Cinese.pdb

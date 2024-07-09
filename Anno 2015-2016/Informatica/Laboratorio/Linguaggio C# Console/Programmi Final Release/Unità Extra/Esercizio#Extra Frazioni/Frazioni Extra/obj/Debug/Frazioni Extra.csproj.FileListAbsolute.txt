@@ -1,0 +1,10 @@
+C:\Users\M_INF2.TERZA\Desktop\Frazioni Extra\Frazioni Extra\bin\Debug\Frazioni Extra.exe.config
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#Extra Frazioni\Frazioni Extra\bin\Debug\Frazioni Extra.exe.config
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#Extra Frazioni\Frazioni Extra\bin\Debug\Frazioni Extra.exe
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#Extra Frazioni\Frazioni Extra\bin\Debug\Frazioni Extra.pdb
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#Extra Frazioni\Frazioni Extra\obj\Debug\Frazioni Extra.csprojResolveAssemblyReference.cache
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#Extra Frazioni\Frazioni Extra\obj\Debug\Frazioni Extra.exe
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#Extra Frazioni\Frazioni Extra\obj\Debug\Frazioni Extra.pdb
+E:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Final Release\Unità Extra\Esercizio#Extra Frazioni\Frazioni Extra\bin\Debug\Frazioni Extra.exe.config
+E:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Final Release\Unità Extra\Esercizio#Extra Frazioni\Frazioni Extra\obj\Debug\Frazioni Extra.exe
+E:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Final Release\Unità Extra\Esercizio#Extra Frazioni\Frazioni Extra\obj\Debug\Frazioni Extra.pdb

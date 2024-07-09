@@ -1,0 +1,9 @@
+C:\Users\Vincenzo\Desktop\CorsaAuto\CorsaAuto\bin\Debug\CorsaAuto.exe.config
+C:\Users\Vincenzo\Desktop\CorsaAuto\CorsaAuto\bin\Debug\CorsaAuto.exe
+C:\Users\Vincenzo\Desktop\CorsaAuto\CorsaAuto\bin\Debug\CorsaAuto.pdb
+C:\Users\Vincenzo\Desktop\CorsaAuto\CorsaAuto\obj\Debug\CorsaAuto.csprojResolveAssemblyReference.cache
+C:\Users\Vincenzo\Desktop\CorsaAuto\CorsaAuto\obj\Debug\CorsaAuto.frmmain.resources
+C:\Users\Vincenzo\Desktop\CorsaAuto\CorsaAuto\obj\Debug\CorsaAuto.Properties.Resources.resources
+C:\Users\Vincenzo\Desktop\CorsaAuto\CorsaAuto\obj\Debug\CorsaAuto.csproj.GenerateResource.Cache
+C:\Users\Vincenzo\Desktop\CorsaAuto\CorsaAuto\obj\Debug\CorsaAuto.exe
+C:\Users\Vincenzo\Desktop\CorsaAuto\CorsaAuto\obj\Debug\CorsaAuto.pdb

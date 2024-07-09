@@ -1,0 +1,12 @@
+C:\Users\M_inf2.terza\Desktop\Bouncing snake\Bouncing snake\bin\Debug\Bouncing snake.exe.config
+C:\Users\M_inf2.terza\Desktop\Bouncing snake\Bouncing snake\obj\Debug\Bouncing snake.csprojResolveAssemblyReference.cache
+C:\Users\M_inf2.terza\Desktop\Bouncing snake\Bouncing snake\bin\Debug\Bouncing snake.exe
+C:\Users\M_inf2.terza\Desktop\Bouncing snake\Bouncing snake\bin\Debug\Bouncing snake.pdb
+C:\Users\M_inf2.terza\Desktop\Bouncing snake\Bouncing snake\obj\Debug\Bouncing snake.exe
+C:\Users\M_inf2.terza\Desktop\Bouncing snake\Bouncing snake\obj\Debug\Bouncing snake.pdb
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Bouncing snake\Bouncing snake\bin\Debug\Bouncing snake.exe.config
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Bouncing snake\Bouncing snake\obj\Debug\Bouncing snake.exe
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Bouncing snake\Bouncing snake\obj\Debug\Bouncing snake.pdb
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Bouncing snake\Bouncing snake\bin\Debug\Bouncing snake.exe
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Bouncing snake\Bouncing snake\bin\Debug\Bouncing snake.pdb
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Bouncing snake\Bouncing snake\obj\Debug\Bouncing snake.csprojResolveAssemblyReference.cache

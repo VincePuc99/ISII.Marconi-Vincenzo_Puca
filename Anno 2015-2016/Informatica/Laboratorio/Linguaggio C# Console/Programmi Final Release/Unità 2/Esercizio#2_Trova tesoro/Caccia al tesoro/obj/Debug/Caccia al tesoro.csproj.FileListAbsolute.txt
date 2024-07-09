@@ -1,0 +1,5 @@
+C:\Users\Vincenzo\Desktop\Caccia al tesoro\Caccia al tesoro\bin\Debug\Caccia al tesoro.exe.config
+C:\Users\Vincenzo\Desktop\Caccia al tesoro\Caccia al tesoro\bin\Debug\Caccia al tesoro.exe
+C:\Users\Vincenzo\Desktop\Caccia al tesoro\Caccia al tesoro\bin\Debug\Caccia al tesoro.pdb
+C:\Users\Vincenzo\Desktop\Caccia al tesoro\Caccia al tesoro\obj\Debug\Caccia al tesoro.exe
+C:\Users\Vincenzo\Desktop\Caccia al tesoro\Caccia al tesoro\obj\Debug\Caccia al tesoro.pdb

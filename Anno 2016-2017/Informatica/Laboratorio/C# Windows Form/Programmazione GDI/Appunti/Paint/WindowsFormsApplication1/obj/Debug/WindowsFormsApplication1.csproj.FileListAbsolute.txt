@@ -1,0 +1,27 @@
+C:\Users\m_inf2.quarta\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\m_inf2.quarta\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\m_inf2.quarta\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\m_inf2.quarta\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\m_inf2.quarta\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\m_inf2.quarta\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\m_inf2.quarta\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\m_inf2.quarta\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\m_inf2.quarta\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\m_inf2.quarta\Desktop\Paint\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\m_inf2.quarta\Desktop\Paint\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\m_inf2.quarta\Desktop\Paint\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\m_inf2.quarta\Desktop\Paint\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\m_inf2.quarta\Desktop\Paint\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\m_inf2.quarta\Desktop\Paint\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\m_inf2.quarta\Desktop\Paint\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\m_inf2.quarta\Desktop\Paint\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\m_inf2.quarta\Desktop\Paint\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Programmazione GDI\Appunti\Paint\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Programmazione GDI\Appunti\Paint\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Programmazione GDI\Appunti\Paint\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Programmazione GDI\Appunti\Paint\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Programmazione GDI\Appunti\Paint\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Programmazione GDI\Appunti\Paint\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Programmazione GDI\Appunti\Paint\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmmain.resources
+F:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Programmazione GDI\Appunti\Paint\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Programmazione GDI\Appunti\Paint\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

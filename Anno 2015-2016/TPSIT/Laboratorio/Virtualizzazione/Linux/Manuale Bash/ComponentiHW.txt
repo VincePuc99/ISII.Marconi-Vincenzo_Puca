@@ -1,0 +1,178 @@
+00:00.0 Host bridge: Intel Corporation 2nd Generation Core Processor Family DRAM Controller (rev 09)
+	Subsystem: Acer Incorporated [ALI] Device 0649
+	Control: I/O- Mem+ BusMaster+ SpecCycle- MemWINV- VGASnoop- ParErr- Stepping- SERR- FastB2B- DisINTx-
+	Status: Cap+ 66MHz- UDF- FastB2B+ ParErr- DEVSEL=fast >TAbort- <TAbort- <MAbort+ >SERR- <PERR- INTx-
+	Latency: 0
+	Capabilities: <access denied>
+	Kernel driver in use: agpgart-intel
+
+00:02.0 VGA compatible controller: Intel Corporation 2nd Generation Core Processor Family Integrated Graphics Controller (rev 09) (prog-if 00 [VGA controller])
+	Subsystem: Acer Incorporated [ALI] Device 0649
+	Control: I/O+ Mem+ BusMaster+ SpecCycle- MemWINV- VGASnoop- ParErr- Stepping- SERR- FastB2B- DisINTx+
+	Status: Cap+ 66MHz- UDF- FastB2B+ ParErr- DEVSEL=fast >TAbort- <TAbort- <MAbort- >SERR- <PERR- INTx-
+	Latency: 0
+	Interrupt: pin A routed to IRQ 41
+	Region 0: Memory at c0000000 (64-bit, non-prefetchable) [size=4M]
+	Region 2: Memory at b0000000 (64-bit, prefetchable) [size=256M]
+	Region 4: I/O ports at 2000 [size=64]
+	Expansion ROM at <unassigned> [disabled]
+	Capabilities: <access denied>
+	Kernel driver in use: i915
+	Kernel modules: i915
+
+00:16.0 Communication controller: Intel Corporation Panther Point MEI Controller #1 (rev 04)
+	Subsystem: Acer Incorporated [ALI] Device 0649
+	Control: I/O- Mem+ BusMaster+ SpecCycle- MemWINV- VGASnoop- ParErr- Stepping- SERR- FastB2B- DisINTx+
+	Status: Cap+ 66MHz- UDF- FastB2B- ParErr- DEVSEL=fast >TAbort- <TAbort- <MAbort- >SERR- <PERR- INTx-
+	Latency: 0
+	Interrupt: pin A routed to IRQ 42
+	Region 0: Memory at c0604000 (64-bit, non-prefetchable) [size=16]
+	Capabilities: <access denied>
+	Kernel driver in use: mei
+	Kernel modules: mei
+
+00:1a.0 USB controller: Intel Corporation Panther Point USB Enhanced Host Controller #2 (rev 04) (prog-if 20 [EHCI])
+	Subsystem: Acer Incorporated [ALI] Device 0649
+	Control: I/O- Mem+ BusMaster+ SpecCycle- MemWINV- VGASnoop- ParErr- Stepping- SERR- FastB2B- DisINTx-
+	Status: Cap+ 66MHz- UDF- FastB2B+ ParErr- DEVSEL=medium >TAbort- <TAbort- <MAbort- >SERR- <PERR- INTx-
+	Latency: 0
+	Interrupt: pin A routed to IRQ 16
+	Region 0: Memory at c0609000 (32-bit, non-prefetchable) [size=1K]
+	Capabilities: <access denied>
+	Kernel driver in use: ehci_hcd
+
+00:1b.0 Audio device: Intel Corporation Panther Point High Definition Audio Controller (rev 04)
+	Subsystem: Acer Incorporated [ALI] Device 0649
+	Control: I/O- Mem+ BusMaster+ SpecCycle- MemWINV- VGASnoop- ParErr- Stepping- SERR- FastB2B- DisINTx+
+	Status: Cap+ 66MHz- UDF- FastB2B- ParErr- DEVSEL=fast >TAbort- <TAbort- <MAbort- >SERR- <PERR- INTx-
+	Latency: 0, Cache Line Size: 64 bytes
+	Interrupt: pin A routed to IRQ 43
+	Region 0: Memory at c0600000 (64-bit, non-prefetchable) [size=16K]
+	Capabilities: <access denied>
+	Kernel driver in use: snd_hda_intel
+	Kernel modules: snd-hda-intel
+
+00:1c.0 PCI bridge: Intel Corporation Panther Point PCI Express Root Port 1 (rev c4) (prog-if 00 [Normal decode])
+	Control: I/O+ Mem+ BusMaster+ SpecCycle- MemWINV- VGASnoop- ParErr- Stepping- SERR- FastB2B- DisINTx-
+	Status: Cap+ 66MHz- UDF- FastB2B- ParErr- DEVSEL=fast >TAbort- <TAbort- <MAbort- >SERR- <PERR- INTx-
+	Latency: 0, Cache Line Size: 64 bytes
+	Bus: primary=00, secondary=02, subordinate=02, sec-latency=0
+	Memory behind bridge: afb00000-afbfffff
+	Prefetchable memory behind bridge: 00000000c0400000-00000000c04fffff
+	Secondary status: 66MHz- FastB2B- ParErr- DEVSEL=fast >TAbort- <TAbort- <MAbort+ <SERR- <PERR-
+	BridgeCtl: Parity- SERR- NoISA- VGA- MAbort- >Reset- FastB2B-
+		PriDiscTmr- SecDiscTmr- DiscTmrStat- DiscTmrSERREn-
+	Capabilities: <access denied>
+	Kernel driver in use: pcieport
+	Kernel modules: shpchp
+
+00:1c.1 PCI bridge: Intel Corporation Panther Point PCI Express Root Port 2 (rev c4) (prog-if 00 [Normal decode])
+	Control: I/O+ Mem+ BusMaster+ SpecCycle- MemWINV- VGASnoop- ParErr- Stepping- SERR- FastB2B- DisINTx-
+	Status: Cap+ 66MHz- UDF- FastB2B- ParErr- DEVSEL=fast >TAbort- <TAbort- <MAbort- >SERR- <PERR- INTx-
+	Latency: 0, Cache Line Size: 64 bytes
+	Bus: primary=00, secondary=03, subordinate=03, sec-latency=0
+	Memory behind bridge: c0500000-c05fffff
+	Prefetchable memory behind bridge: 00000000afc00000-00000000afcfffff
+	Secondary status: 66MHz- FastB2B- ParErr- DEVSEL=fast >TAbort- <TAbort- <MAbort- <SERR- <PERR-
+	BridgeCtl: Parity- SERR- NoISA- VGA- MAbort- >Reset- FastB2B-
+		PriDiscTmr- SecDiscTmr- DiscTmrStat- DiscTmrSERREn-
+	Capabilities: <access denied>
+	Kernel driver in use: pcieport
+	Kernel modules: shpchp
+
+00:1d.0 USB controller: Intel Corporation Panther Point USB Enhanced Host Controller #1 (rev 04) (prog-if 20 [EHCI])
+	Subsystem: Acer Incorporated [ALI] Device 0649
+	Control: I/O- Mem+ BusMaster+ SpecCycle- MemWINV- VGASnoop- ParErr- Stepping- SERR- FastB2B- DisINTx-
+	Status: Cap+ 66MHz- UDF- FastB2B+ ParErr- DEVSEL=medium >TAbort- <TAbort- <MAbort- >SERR- <PERR- INTx-
+	Latency: 0
+	Interrupt: pin A routed to IRQ 23
+	Region 0: Memory at c0608000 (32-bit, non-prefetchable) [size=1K]
+	Capabilities: <access denied>
+	Kernel driver in use: ehci_hcd
+
+00:1f.0 ISA bridge: Intel Corporation Panther Point LPC Controller (rev 04)
+	Subsystem: Acer Incorporated [ALI] Device 0649
+	Control: I/O+ Mem+ BusMaster+ SpecCycle- MemWINV- VGASnoop- ParErr- Stepping- SERR- FastB2B- DisINTx-
+	Status: Cap+ 66MHz- UDF- FastB2B- ParErr- DEVSEL=medium >TAbort- <TAbort- <MAbort- >SERR- <PERR- INTx-
+	Latency: 0
+	Capabilities: <access denied>
+	Kernel modules: iTCO_wdt
+
+00:1f.2 SATA controller: Intel Corporation Panther Point 6 port SATA Controller [AHCI mode] (rev 04) (prog-if 01 [AHCI 1.0])
+	Subsystem: Acer Incorporated [ALI] Device 0649
+	Control: I/O+ Mem+ BusMaster+ SpecCycle- MemWINV- VGASnoop- ParErr- Stepping- SERR- FastB2B- DisINTx+
+	Status: Cap+ 66MHz+ UDF- FastB2B+ ParErr- DEVSEL=medium >TAbort- <TAbort- <MAbort- >SERR- <PERR- INTx-
+	Latency: 0
+	Interrupt: pin B routed to IRQ 40
+	Region 0: I/O ports at 2088 [size=8]
+	Region 1: I/O ports at 2094 [size=4]
+	Region 2: I/O ports at 2080 [size=8]
+	Region 3: I/O ports at 2090 [size=4]
+	Region 4: I/O ports at 2060 [size=32]
+	Region 5: Memory at c0607000 (32-bit, non-prefetchable) [size=2K]
+	Capabilities: <access denied>
+	Kernel driver in use: ahci
+
+00:1f.3 SMBus: Intel Corporation Panther Point SMBus Controller (rev 04)
+	Subsystem: Acer Incorporated [ALI] Device 0649
+	Control: I/O+ Mem+ BusMaster- SpecCycle- MemWINV- VGASnoop- ParErr- Stepping- SERR- FastB2B- DisINTx-
+	Status: Cap- 66MHz- UDF- FastB2B+ ParErr- DEVSEL=medium >TAbort- <TAbort- <MAbort- >SERR- <PERR- INTx-
+	Interrupt: pin C routed to IRQ 10
+	Region 0: Memory at c0605000 (64-bit, non-prefetchable) [size=256]
+	Region 4: I/O ports at 2040 [size=32]
+	Kernel modules: i2c-i801
+
+02:00.0 Ethernet controller: Broadcom Corporation NetLink BCM57785 Gigabit Ethernet PCIe (rev 10)
+	Subsystem: Acer Incorporated [ALI] Device 0647
+	Control: I/O- Mem+ BusMaster+ SpecCycle- MemWINV- VGASnoop- ParErr- Stepping- SERR- FastB2B- DisINTx+
+	Status: Cap+ 66MHz- UDF- FastB2B- ParErr- DEVSEL=fast >TAbort- <TAbort- <MAbort- >SERR- <PERR- INTx-
+	Latency: 0, Cache Line Size: 64 bytes
+	Interrupt: pin A routed to IRQ 16
+	Region 0: Memory at c0430000 (64-bit, prefetchable) [size=64K]
+	Region 2: Memory at c0440000 (64-bit, prefetchable) [size=64K]
+	Expansion ROM at c0450000 [disabled] [size=2K]
+	Capabilities: <access denied>
+	Kernel driver in use: tg3
+	Kernel modules: tg3
+
+02:00.1 SD Host controller: Broadcom Corporation NetXtreme BCM57765 Memory Card Reader (rev 10) (prog-if 01)
+	Subsystem: Acer Incorporated [ALI] Device 0647
+	Control: I/O- Mem+ BusMaster+ SpecCycle- MemWINV- VGASnoop- ParErr- Stepping- SERR- FastB2B- DisINTx-
+	Status: Cap+ 66MHz- UDF- FastB2B- ParErr- DEVSEL=fast >TAbort- <TAbort- <MAbort- >SERR- <PERR- INTx-
+	Latency: 0, Cache Line Size: 64 bytes
+	Interrupt: pin B routed to IRQ 17
+	Region 0: Memory at c0400000 (64-bit, prefetchable) [size=64K]
+	Capabilities: <access denied>
+	Kernel driver in use: sdhci-pci
+	Kernel modules: sdhci-pci
+
+02:00.2 System peripheral: Broadcom Corporation Device 16be (rev 10)
+	Subsystem: Acer Incorporated [ALI] Device 0647
+	Control: I/O- Mem+ BusMaster+ SpecCycle- MemWINV- VGASnoop- ParErr- Stepping- SERR- FastB2B- DisINTx-
+	Status: Cap+ 66MHz- UDF- FastB2B- ParErr- DEVSEL=fast >TAbort- <TAbort- <MAbort- >SERR- <PERR- INTx-
+	Latency: 0, Cache Line Size: 64 bytes
+	Interrupt: pin B routed to IRQ 11
+	Region 0: Memory at c0410000 (64-bit, prefetchable) [size=64K]
+	Capabilities: <access denied>
+
+02:00.3 System peripheral: Broadcom Corporation Device 16bf (rev 10)
+	Subsystem: Acer Incorporated [ALI] Device 0647
+	Control: I/O- Mem+ BusMaster+ SpecCycle- MemWINV- VGASnoop- ParErr- Stepping- SERR- FastB2B- DisINTx-
+	Status: Cap+ 66MHz- UDF- FastB2B- ParErr- DEVSEL=fast >TAbort- <TAbort- <MAbort- >SERR- <PERR- INTx-
+	Latency: 0, Cache Line Size: 64 bytes
+	Interrupt: pin B routed to IRQ 11
+	Region 0: Memory at c0420000 (64-bit, prefetchable) [size=64K]
+	Capabilities: <access denied>
+
+03:00.0 Network controller: Atheros Communications Inc. AR9485 Wireless Network Adapter (rev 01)
+	Subsystem: Lite-On Communications Inc Device 6617
+	Control: I/O+ Mem+ BusMaster+ SpecCycle- MemWINV- VGASnoop- ParErr- Stepping- SERR- FastB2B- DisINTx-
+	Status: Cap+ 66MHz- UDF- FastB2B- ParErr- DEVSEL=fast >TAbort- <TAbort- <MAbort- >SERR- <PERR- INTx-
+	Latency: 0, Cache Line Size: 64 bytes
+	Interrupt: pin A routed to IRQ 17
+	Region 0: Memory at c0500000 (64-bit, non-prefetchable) [size=512K]
+	Expansion ROM at afc00000 [disabled] [size=64K]
+	Capabilities: <access denied>
+	Kernel driver in use: ath9k
+	Kernel modules: ath9k
+

@@ -1,0 +1,9 @@
+C:\Users\M_inf2.terza\Desktop\file temperature\file temperature\bin\Debug\file temperature.exe.config
+C:\Users\M_inf2.terza\Desktop\file temperature\file temperature\bin\Debug\file temperature.exe
+C:\Users\M_inf2.terza\Desktop\file temperature\file temperature\bin\Debug\file temperature.pdb
+C:\Users\M_inf2.terza\Desktop\file temperature\file temperature\obj\Debug\file temperature.csprojResolveAssemblyReference.cache
+C:\Users\M_inf2.terza\Desktop\file temperature\file temperature\obj\Debug\file temperature.exe
+C:\Users\M_inf2.terza\Desktop\file temperature\file temperature\obj\Debug\file temperature.pdb
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\temperature\file temperature\file temperature\bin\Debug\file temperature.exe.config
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\temperature\file temperature\file temperature\obj\Debug\file temperature.exe
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\temperature\file temperature\file temperature\obj\Debug\file temperature.pdb

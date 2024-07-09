@@ -1,0 +1,18 @@
+C:\Users\Vincenzo\Desktop\Liza\Liza\bin\Debug\Liza.exe.config
+C:\Users\Vincenzo\Desktop\Liza\Liza\bin\Debug\Liza.exe
+C:\Users\Vincenzo\Desktop\Liza\Liza\bin\Debug\Liza.pdb
+C:\Users\Vincenzo\Desktop\Liza\Liza\obj\Debug\Liza.csprojResolveAssemblyReference.cache
+C:\Users\Vincenzo\Desktop\Liza\Liza\obj\Debug\Liza.exe
+C:\Users\Vincenzo\Desktop\Liza\Liza\obj\Debug\Liza.pdb
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#15_Liza\Liza\bin\Debug\Liza.exe.config
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#15_Liza\Liza\obj\Debug\Liza.exe
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#15_Liza\Liza\obj\Debug\Liza.pdb
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#15_Liza\Liza\bin\Debug\Liza.exe
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#15_Liza\Liza\bin\Debug\Liza.pdb
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#15_Liza\Liza\obj\Debug\Liza.csprojResolveAssemblyReference.cache
+F:\Documenti\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Linguaggio C# Console\Programmi Final Release\Unità 0\Esercizio#15_Liza\Liza\bin\Debug\Liza.exe.config
+F:\Documenti\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Linguaggio C# Console\Programmi Final Release\Unità 0\Esercizio#15_Liza\Liza\bin\Debug\Liza.exe
+F:\Documenti\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Linguaggio C# Console\Programmi Final Release\Unità 0\Esercizio#15_Liza\Liza\bin\Debug\Liza.pdb
+F:\Documenti\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Linguaggio C# Console\Programmi Final Release\Unità 0\Esercizio#15_Liza\Liza\obj\Debug\Liza.csprojResolveAssemblyReference.cache
+F:\Documenti\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Linguaggio C# Console\Programmi Final Release\Unità 0\Esercizio#15_Liza\Liza\obj\Debug\Liza.exe
+F:\Documenti\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Linguaggio C# Console\Programmi Final Release\Unità 0\Esercizio#15_Liza\Liza\obj\Debug\Liza.pdb

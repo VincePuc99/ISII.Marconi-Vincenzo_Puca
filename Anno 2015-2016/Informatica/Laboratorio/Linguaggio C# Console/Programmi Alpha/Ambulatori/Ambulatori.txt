@@ -1,0 +1,63 @@
+        string[] Dottori = new string[3] { "Rossi","Bianchi", "Verdi" };
+            string[] Giorni = new string[4] { "Lun", "Mar", "Mer","Gio"};
+
+            string[,] Ambulatori = new string[3,4] { {"A1","A2","-","-"},
+                                                     {"-","A1","A2","-"},
+                                                     {"-","-","A1","A2"} };
+        
+
+            //// Input  medici
+            //for (int i = 0; i < 3; i++)
+            //{
+            //    Console.Write("Inserire il cognome di un medico : ");
+            //    Dottori[i]=Console.ReadLine();
+            //}
+
+
+            //// Input  giorni settimana
+            //for (int i = 0; i < 4; i++)
+            //{
+            //    Console.Write("Inserire la denominazione di un giorno della settimana : ");
+            //    Giorni[i] = Console.ReadLine();
+            //}
+
+            // Input  ambulatori
+
+            //for (int i = 0; i < 3; i++)  // gestisce righe
+            //{
+            //    for (int j = 0; j < 4; j++)  // gestisce colonne
+            //    {
+            //        Console.Write("Il dottor {0} nel giorno {1} occupa l'ambulatorio ",Dottori[i],Giorni[j]);
+            //        Ambulatori[i,j] = Console.ReadLine();
+            //    }
+
+            //}
+
+
+            // Output  tabella
+            Console.WriteLine("======================================"); 
+
+            Console.WriteLine("   Tabellone occupazione ambulatori "); // titolo tabella
+            Console.WriteLine("======================================"); // titolo tabella
+
+            Console.Write("Medico\t");
+            for (int i = 0; i < 4; i++)
+            {
+                Console.Write("{0}\t",Giorni[i]);
+               
+            }
+            Console.WriteLine();
+
+
+
+            for (int i = 0; i < 3; i++)  // gestisce righe
+            {
+                Console.Write("{0}\t",Dottori[i]);
+                for (int j = 0; j < 4; j++)  // gestisce colonne
+                {
+                    Console.Write("{0}\t", Ambulatori[i,j]);
+                    
+                }
+                Console.WriteLine();
+            }
+        

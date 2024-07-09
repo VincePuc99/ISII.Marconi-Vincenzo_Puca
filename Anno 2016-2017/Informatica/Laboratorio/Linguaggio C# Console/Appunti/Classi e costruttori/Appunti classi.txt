@@ -1,0 +1,24 @@
+La classe è la definizione prototipale dele caratteristiche delle funzionalità di un oggetto,attributi e metodi di questo oggetto.
+Gli attributi (Es. Occhi verdi,capelli neri ecc.).
+Gli oggetti sono istanze di classi.
+Da una classe nascono tanti oggetti che hanno tante caratteristiche appartenenti alla classe di origine.
+Istanza è la nascita di un ogetto a partire dalla classe su cui si basa.
+Il costruttore è un metodo della classe anticipato da public,non ha ritorno,ha lo stesso nome della classe
+consente la nascita dell'oggetto e l'inizializzazione dei suoi attributi.
+Gli oggetti li inizio sempre con una maiuscola.
+I modificatori di accesso sono parole chiave del linguaggio c# che consentono o impediscono l'accessoagli elementi di una classe al di fuori della 
+classe stessa. (public = modificatore d'accesso che consente l'accesso/private = modificatore d'accesso che ne impedisce l'utilizzo)
+Privatiozzare all'interno della classe prende il nome di Information hiding.
+Gli attributi devono essere SEMPRE protetti.
+Il primo costruttore senza parametri si chiama costruttore di default è obbligatorio e va sempre scritto,
+inizializza gli attributi ai valori di default ogniuno secondo il suo tipo.
+Il compilatore riconosce i costruttori (anche se sono di nome uguale ) grazie al conteggio delle variabili che vengo passate
+posso chiamare due costruttori in modo uguale ma se uno ha un numero di varibili diverso dall'altro il compilatore lo riconosce,
+Se un costruttore non è di default si dice che sia overloaded.
+Se hanno le stusso nemero di variabili il compilatore va in errore. il compilatore riconosce un costruttore quindi dalla sua firma.
+ public Punto(double ValX,double ValY) //questa è la firma
+        {
+            x = ValX;
+            y = ValY;
+        }
+Quiando faccio P = new punto(); mette in P l'indirizzo di dove nasce l'oggetto in RAM.

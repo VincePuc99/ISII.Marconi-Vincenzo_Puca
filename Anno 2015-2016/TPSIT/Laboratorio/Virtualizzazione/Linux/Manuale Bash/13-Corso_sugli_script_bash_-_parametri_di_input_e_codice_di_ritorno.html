@@ -1,0 +1,77 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title></title>
+		<meta name='Generator' content='Zim 0.54'>
+		<style type='text/css'>
+			a          { text-decoration: none      }
+			a:hover    { text-decoration: underline }
+			a:active   { text-decoration: underline }
+			strike     { color: grey                }
+			u          { text-decoration: none;
+			             background-color: yellow   }
+			tt         { color: #2e3436;            }
+			pre        { color: #2e3436;
+			             margin-left: 20px          }
+			h1         { text-decoration: underline;
+			             color: #4e9a06             }
+			h2         { color: #4e9a06             }
+			h3         { color: #4e9a06             }
+			h4         { color: #4e9a06             }
+			h5         { color: #4e9a06             }
+			span.insen { color: grey                }
+		</style>
+	</head>
+	<body>
+
+<!-- Header -->
+
+	[ <span class='insen'>Prev</span> ]
+
+			[ <a href='/'>Index</a> ]
+
+	[ <span class='insen'>Next</span> ]
+
+<!-- End Header -->
+
+<hr />
+
+<!-- Wiki content -->
+
+<h1>13-Corso sugli script bash - parametri di input e codice di ritorno</h1>
+
+<p>
+Adesso che abbiamo imparato a costruire il corpo del nostro script con tutta la logica necessaria, vediamo come possiamo comunicare allo script delle informazioni in entrata, e come possiamo leggere il codice di ritorno all'uscita dallo script.<br>
+I parametri in entrata possono essere più di uno, mentre il codice di ritorno è uno solo.<br>
+</p>
+
+<p>
+<strong>I parametri in entrata</strong> vengono impostati dopo il nome dello script nella sequenza prevista e all'interno dello script vengono letti con il simbolo dollaro e un numero progressivo. Per esempio se abbiamo uno script che si aspetta 3 parametri lo chiameremo così:<br>
+<code>nicola@pangolino-pb:~$ bash script.sh  val1 val2 val3</code><br>
+e dentro lo script i tre valori sono disponibili nelle variabili $1, $2, $3<br>
+</p>
+
+<p>
+Il <strong>codice di ritorno</strong> è dato dal comando "<strong>exit</strong>" se esplicitamente inserito nello script. Se è senza parametri ritorna il codice di ritorno dell'ultimo comando eseguito nello script, altrimenti possiamo fornire noi un codice a piacimento per indicare lo stato d'uscita dello script. Per esempio "exit 10".<br>
+<strong>Se tutto funziona correttamente il codice di ritorno è zero</strong>, se invece ci sono errori il codice è diverso da zero. Per testare il codice di ritorno di uno script, dopo averlo eseguito, usare il comando "<u>echo $?</u>", oppure se lo script è stato richiamato da un altro script usare la variabile $? per verificare se è andato tutto bene.<br>
+</p>
+
+<p>
+⇒ per difetto <strong>non è necessario includere il comando exit nello script</strong> perché comunque il codice ritorno dell'ultimo comando viene impostato all'uscita dallo script. Lo si può usare se vogliamo gestire noi stessi dei codici errore personalizzati per il nostro script.<br>
+</p>
+
+
+<!-- End wiki content -->
+
+<hr />
+
+<!-- Backlinks -->
+
+	Backlinks:		<a href='../01-Corso_sugli_script_bash_-_impariamo_le_basi_della_programmazione.html'>Note non ancora archiviate:01-Corso sugli script bash - impariamo le basi della programmazione</a>
+
+<!-- End Backlinks -->
+
+	</body>
+
+</html>

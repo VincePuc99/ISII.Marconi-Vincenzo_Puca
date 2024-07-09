@@ -1,0 +1,5 @@
+Install the PhotoFilre plug-ins in this directory.
+(You can find some plug-ins in my web site)
+
+You can delete this file !
+

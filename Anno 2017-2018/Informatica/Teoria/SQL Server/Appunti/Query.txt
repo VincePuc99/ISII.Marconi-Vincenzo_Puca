@@ -1,0 +1,9 @@
+data la view dbo.elencoinsegnanti 
+che ritorna nome e cognome dei prof isii
+richiamarla per visualizzare sotto i cognomi
+
+select cognome
+from dbo.elencoinsegnanti
+
+sum avg min max select con top distinct
+and or not 'a' where = <>

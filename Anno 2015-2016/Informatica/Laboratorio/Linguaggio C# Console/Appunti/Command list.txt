@@ -1,0 +1,2 @@
+\n vai a capo
+back slash 't'= \t   8 caratteri spazio 

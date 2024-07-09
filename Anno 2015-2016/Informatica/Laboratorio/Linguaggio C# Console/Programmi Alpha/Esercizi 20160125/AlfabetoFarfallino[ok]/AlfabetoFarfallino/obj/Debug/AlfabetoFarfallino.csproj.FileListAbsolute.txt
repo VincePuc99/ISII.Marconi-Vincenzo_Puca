@@ -1,0 +1,9 @@
+C:\Users\M_inf2.terza\Desktop\AlfabetoFarfallino\AlfabetoFarfallino\bin\Debug\AlfabetoFarfallino.exe.config
+C:\Users\M_inf2.terza\Desktop\AlfabetoFarfallino\AlfabetoFarfallino\bin\Debug\AlfabetoFarfallino.exe
+C:\Users\M_inf2.terza\Desktop\AlfabetoFarfallino\AlfabetoFarfallino\bin\Debug\AlfabetoFarfallino.pdb
+C:\Users\M_inf2.terza\Desktop\AlfabetoFarfallino\AlfabetoFarfallino\obj\Debug\AlfabetoFarfallino.csprojResolveAssemblyReference.cache
+C:\Users\M_inf2.terza\Desktop\AlfabetoFarfallino\AlfabetoFarfallino\obj\Debug\AlfabetoFarfallino.exe
+C:\Users\M_inf2.terza\Desktop\AlfabetoFarfallino\AlfabetoFarfallino\obj\Debug\AlfabetoFarfallino.pdb
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\AlfabetoFarfallino\AlfabetoFarfallino\bin\Debug\AlfabetoFarfallino.exe.config
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\AlfabetoFarfallino\AlfabetoFarfallino\obj\Debug\AlfabetoFarfallino.exe
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\AlfabetoFarfallino\AlfabetoFarfallino\obj\Debug\AlfabetoFarfallino.pdb

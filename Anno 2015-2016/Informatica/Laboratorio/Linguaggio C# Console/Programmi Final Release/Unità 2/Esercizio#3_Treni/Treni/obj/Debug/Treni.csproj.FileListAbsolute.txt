@@ -1,0 +1,21 @@
+C:\Users\M_inf2.terza\Desktop\Treni\Treni\bin\Debug\Treni.exe.config
+C:\Users\M_inf2.terza\Desktop\Treni\Treni\bin\Debug\Treni.exe
+C:\Users\M_inf2.terza\Desktop\Treni\Treni\bin\Debug\Treni.pdb
+C:\Users\M_inf2.terza\Desktop\Treni\Treni\obj\Debug\Treni.csprojResolveAssemblyReference.cache
+C:\Users\M_inf2.terza\Desktop\Treni\Treni\obj\Debug\Treni.exe
+C:\Users\M_inf2.terza\Desktop\Treni\Treni\obj\Debug\Treni.pdb
+F:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Esercizio#3_Treni\Treni\bin\Debug\Treni.exe.config
+F:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Esercizio#3_Treni\Treni\obj\Debug\Treni.exe
+F:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Esercizio#3_Treni\Treni\obj\Debug\Treni.pdb
+F:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Esercizio#3_Treni\Treni\bin\Debug\Treni.exe
+F:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Esercizio#3_Treni\Treni\bin\Debug\Treni.pdb
+F:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Esercizio#3_Treni\Treni\obj\Debug\Treni.csprojResolveAssemblyReference.cache
+E:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Esercizio#3_Treni\Treni\bin\Debug\Treni.exe.config
+E:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Esercizio#3_Treni\Treni\obj\Debug\Treni.exe
+E:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Esercizio#3_Treni\Treni\obj\Debug\Treni.pdb
+E:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Esercizio#3_Treni\Treni\bin\Debug\Treni.exe
+E:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Esercizio#3_Treni\Treni\bin\Debug\Treni.pdb
+E:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Esercizio#3_Treni\Treni\obj\Debug\Treni.csprojResolveAssemblyReference.cache
+F:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Final Release\Unità 2\Esercizio#3_Treni\Treni\bin\Debug\Treni.exe.config
+F:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Final Release\Unità 2\Esercizio#3_Treni\Treni\obj\Debug\Treni.exe
+F:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Final Release\Unità 2\Esercizio#3_Treni\Treni\obj\Debug\Treni.pdb

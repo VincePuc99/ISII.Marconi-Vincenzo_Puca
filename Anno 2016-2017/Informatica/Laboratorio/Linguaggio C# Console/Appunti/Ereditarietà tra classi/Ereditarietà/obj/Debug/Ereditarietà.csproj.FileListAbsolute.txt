@@ -1,0 +1,9 @@
+C:\Users\M_inf2.quarta\Desktop\Ereditarietà\Ereditarietà\bin\Debug\Ereditarietà.exe.config
+C:\Users\M_inf2.quarta\Desktop\Ereditarietà\Ereditarietà\bin\Debug\Ereditarietà.exe
+C:\Users\M_inf2.quarta\Desktop\Ereditarietà\Ereditarietà\bin\Debug\Ereditarietà.pdb
+C:\Users\M_inf2.quarta\Desktop\Ereditarietà\Ereditarietà\obj\Debug\Ereditarietà.csprojResolveAssemblyReference.cache
+C:\Users\M_inf2.quarta\Desktop\Ereditarietà\Ereditarietà\obj\Debug\Ereditarietà.exe
+C:\Users\M_inf2.quarta\Desktop\Ereditarietà\Ereditarietà\obj\Debug\Ereditarietà.pdb
+F:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Linguaggio C# Console\Appunti\Ereditarietà tra classi\Ereditarietà\bin\Debug\Ereditarietà.exe.config
+F:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Linguaggio C# Console\Appunti\Ereditarietà tra classi\Ereditarietà\obj\Debug\Ereditarietà.exe
+F:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Linguaggio C# Console\Appunti\Ereditarietà tra classi\Ereditarietà\obj\Debug\Ereditarietà.pdb

@@ -1,0 +1,39 @@
+Prof version:	   
+	    int val;
+            int conterr=0;
+
+            do
+            {
+                Console.Write("Introdurre un numero positivo");
+                val = Convert.ToInt16(Console.ReadLine());
+
+                if (val <= 0)
+                {
+                    Console.WriteLine("Errore, reintrodurre il valore!!!");
+                    conterr++;
+                    if (conterr == 3)
+                    {
+                        Console.WriteLine("ADDIO.");
+                        break;
+                    }
+                }
+
+            }while(val <=0);
+
+            Console.WriteLine("Sei stato bravo");
+            Console.ReadKey();
+
+Putiri version:
+
+		if (scelta < 0 || scelta > 4)
+                {
+                    Console.WriteLine("");
+                    Console.WriteLine("Codice articolo inesistente! ");
+                    cont++;
+                }
+
+                if (cont == 3)
+                {
+                    Console.WriteLine(" superato numero possibile di errori ");
+                    Console.WriteLine(" il programma terminerà ");
+                    break;

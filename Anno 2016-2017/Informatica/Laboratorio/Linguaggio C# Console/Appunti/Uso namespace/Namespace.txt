@@ -1,0 +1,1 @@
+I namespace non sono classi, sono insiemi di classi di oggetti;

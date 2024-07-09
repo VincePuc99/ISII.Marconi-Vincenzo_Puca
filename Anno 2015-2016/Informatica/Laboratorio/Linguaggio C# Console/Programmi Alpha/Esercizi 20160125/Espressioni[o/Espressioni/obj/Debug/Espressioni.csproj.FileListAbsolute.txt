@@ -1,0 +1,18 @@
+C:\Users\Vincenzo\Desktop\Espressioni\Espressioni\bin\Debug\Espressioni.exe.config
+C:\Users\Vincenzo\Desktop\Espressioni\Espressioni\bin\Debug\Espressioni.exe
+C:\Users\Vincenzo\Desktop\Espressioni\Espressioni\bin\Debug\Espressioni.pdb
+C:\Users\Vincenzo\Desktop\Espressioni\Espressioni\obj\Debug\Espressioni.csprojResolveAssemblyReference.cache
+C:\Users\Vincenzo\Desktop\Espressioni\Espressioni\obj\Debug\Espressioni.exe
+C:\Users\Vincenzo\Desktop\Espressioni\Espressioni\obj\Debug\Espressioni.pdb
+E:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Espressioni\Espressioni\bin\Debug\Espressioni.exe.config
+E:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Espressioni\Espressioni\obj\Debug\Espressioni.exe
+E:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Espressioni\Espressioni\obj\Debug\Espressioni.pdb
+E:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Espressioni\Espressioni\obj\Debug\Espressioni.csprojResolveAssemblyReference.cache
+E:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\!ERRORI! Variabile\Espressioni\Espressioni\bin\Debug\Espressioni.exe.config
+E:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\!ERRORI! Variabile\Espressioni\Espressioni\obj\Debug\Espressioni.exe
+F:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\!ERRORI! Variabile\Espressioni\Espressioni\bin\Debug\Espressioni.exe.config
+F:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\!ERRORI! Variabile\Espressioni\Espressioni\obj\Debug\Espressioni.exe
+F:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\!ERRORI! Variabile\Espressioni\Espressioni\obj\Debug\Espressioni.csprojResolveAssemblyReference.cache
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Esercizi 20160125\Espressioni\Espressioni\bin\Debug\Espressioni.exe.config
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Esercizi 20160125\Espressioni\Espressioni\obj\Debug\Espressioni.exe
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Esercizi 20160125\Espressioni\Espressioni\obj\Debug\Espressioni.csprojResolveAssemblyReference.cache

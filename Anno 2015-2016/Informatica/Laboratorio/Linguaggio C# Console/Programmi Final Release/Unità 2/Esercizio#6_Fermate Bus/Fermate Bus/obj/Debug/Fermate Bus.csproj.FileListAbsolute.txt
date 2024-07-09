@@ -1,0 +1,18 @@
+C:\Users\M_inf2.terza\Desktop\Fermate Bus\Fermate Bus\bin\Debug\Fermate Bus.exe.config
+C:\Users\M_inf2.terza\Desktop\Fermate Bus\Fermate Bus\bin\Debug\Fermate Bus.exe
+C:\Users\M_inf2.terza\Desktop\Fermate Bus\Fermate Bus\bin\Debug\Fermate Bus.pdb
+C:\Users\M_inf2.terza\Desktop\Fermate Bus\Fermate Bus\obj\Debug\Fermate Bus.csprojResolveAssemblyReference.cache
+C:\Users\M_inf2.terza\Desktop\Fermate Bus\Fermate Bus\obj\Debug\Fermate Bus.exe
+C:\Users\M_inf2.terza\Desktop\Fermate Bus\Fermate Bus\obj\Debug\Fermate Bus.pdb
+F:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Esercizio#6_Fermate Bus\Fermate Bus\bin\Debug\Fermate Bus.exe.config
+F:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Esercizio#6_Fermate Bus\Fermate Bus\obj\Debug\Fermate Bus.exe
+F:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Esercizio#6_Fermate Bus\Fermate Bus\obj\Debug\Fermate Bus.pdb
+F:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Esercizio#6_Fermate Bus\Fermate Bus\bin\Debug\Fermate Bus.exe
+F:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Esercizio#6_Fermate Bus\Fermate Bus\bin\Debug\Fermate Bus.pdb
+F:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Esercizio#6_Fermate Bus\Fermate Bus\obj\Debug\Fermate Bus.csprojResolveAssemblyReference.cache
+E:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Esercizio#6_Fermate Bus\Fermate Bus\bin\Debug\Fermate Bus.exe.config
+E:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Esercizio#6_Fermate Bus\Fermate Bus\obj\Debug\Fermate Bus.exe
+E:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Esercizio#6_Fermate Bus\Fermate Bus\obj\Debug\Fermate Bus.pdb
+E:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Esercizio#6_Fermate Bus\Fermate Bus\bin\Debug\Fermate Bus.exe
+E:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Esercizio#6_Fermate Bus\Fermate Bus\bin\Debug\Fermate Bus.pdb
+E:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Esercizio#6_Fermate Bus\Fermate Bus\obj\Debug\Fermate Bus.csprojResolveAssemblyReference.cache

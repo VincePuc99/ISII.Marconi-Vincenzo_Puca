@@ -1,0 +1,49 @@
+using System.Net;
+using System.Net.Sockets;
+
+IPAddress ipaServer = IPAddress.Parse("192.168.3.120");                                         //specifico indirizzo ip
+IPEndPoint ipepLocalEndPoint = new IPEndPoint(ipaServer, 1007);    				//segnalo connessione a ip e porta
+byte[] buffer = new byte[1024];                                    				//istanzio buffer o array
+int intNumBytesRec;						   				//numero di byte ricevuti
+string strData = null;					           
+
+Socket sckListener = new Socket(AddressFamily.InterNetwork,SocketType.Stream,ProtocolType.Tcp); //istanzio socket di ascolto
+sckListener.Bind(ipepLocalEndPoint);							        //binda la socket con l ip
+
+sckListener.Listen(2);						//aspetta la richiesta di connessione da parte di un client indica il numero di client che puo servire
+
+Socket sckWorker = sckListener.Accept();							//accetta la connessione 
+
+while (strData != "fine")									//il ciclo viene fatto finchè non riceve fine
+{
+intNumBytesRec = sckWorker.Receive(buffer);							//salva in un int i byte ricevuti
+strData = Encoding.ASCII.GetString(buffer, 0, intNumBytesRec);					//converte in string i byte ricevuti
+Console.WriteLine(strData);									//scrive il risultato	
+//sckListener.Send(buffer);									//invia al client un messaggio 
+}
+
+=?=?=?=?=?=?=?=?=?=?=?=?=?=?=?=?=?=?=?=?=?=?=?=?=?=?=?=?=?=?=?=?=?=?=?=?=?=?=   <-- Client
+using System.Net;
+using System.Net.Sockets;
+
+IPAddress ipaServer = IPAddress.Parse("192.168.3.120");						//specifico indirizzo ip (pc in uso cmd-->ipconfig)
+IPEndPoint ipepRemoteEndPoint = new IPEndPoint(ipaServer, 1007);				//segnalo connessione a ip e porta
+byte[] buffer = new byte[1024];									//istanzio buffer o array
+int intNumBytesRec;										//numero di byte ricevuti
+
+Socket sckClient = new Socket(AddressFamily.InterNetwork,SocketType.Stream,ProtocolType.Tcp);   //istanzio socket di ascolto
+
+sckClient.Connect(ipepRemoteEndPoint);								//connetto la socket al ip del server
+
+buffer = System.Text.Encoding.ASCII.GetBytes("Ciao...");					//converto in byte la stringa e poi mando 
+
+for (int i = 0; i < 10; i++)
+{
+sckClient.Send(buffer);										//invio i byte convertiti
+System.Threading.Thread.Sleep(1000);								//aspetto prima di inviare
+}
+
+buffer = System.Text.Encoding.ASCII.GetBytes("fine");						//converto fine per invio
+sckClient.Send(buffer);										//invio fine convertito
+
+sckClient.Close();										//chiudo la socket

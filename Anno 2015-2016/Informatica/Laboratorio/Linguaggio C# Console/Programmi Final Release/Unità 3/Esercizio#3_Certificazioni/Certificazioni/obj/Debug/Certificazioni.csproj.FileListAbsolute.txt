@@ -1,0 +1,18 @@
+C:\Users\M_inf2.terza\Desktop\Certificazioni\Certificazioni\bin\Debug\Certificazioni.exe.config
+C:\Users\M_inf2.terza\Desktop\Certificazioni\Certificazioni\bin\Debug\Certificazioni.exe
+C:\Users\M_inf2.terza\Desktop\Certificazioni\Certificazioni\bin\Debug\Certificazioni.pdb
+C:\Users\M_inf2.terza\Desktop\Certificazioni\Certificazioni\obj\Debug\Certificazioni.csprojResolveAssemblyReference.cache
+C:\Users\M_inf2.terza\Desktop\Certificazioni\Certificazioni\obj\Debug\Certificazioni.exe
+C:\Users\M_inf2.terza\Desktop\Certificazioni\Certificazioni\obj\Debug\Certificazioni.pdb
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Certificazioni\Certificazioni\bin\Debug\Certificazioni.exe.config
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Certificazioni\Certificazioni\obj\Debug\Certificazioni.exe
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Certificazioni\Certificazioni\obj\Debug\Certificazioni.pdb
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Certificazioni\Certificazioni\bin\Debug\Certificazioni.exe
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Certificazioni\Certificazioni\bin\Debug\Certificazioni.pdb
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Certificazioni\Certificazioni\obj\Debug\Certificazioni.csprojResolveAssemblyReference.cache
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Final Release\Unità 3\Esercizio#3_Certificazioni\Certificazioni\bin\Debug\Certificazioni.exe.config
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Final Release\Unità 3\Esercizio#3_Certificazioni\Certificazioni\obj\Debug\Certificazioni.exe
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Final Release\Unità 3\Esercizio#3_Certificazioni\Certificazioni\obj\Debug\Certificazioni.pdb
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Final Release\Unità 3\Esercizio#3_Certificazioni\Certificazioni\bin\Debug\Certificazioni.exe
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Final Release\Unità 3\Esercizio#3_Certificazioni\Certificazioni\bin\Debug\Certificazioni.pdb
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Final Release\Unità 3\Esercizio#3_Certificazioni\Certificazioni\obj\Debug\Certificazioni.csprojResolveAssemblyReference.cache

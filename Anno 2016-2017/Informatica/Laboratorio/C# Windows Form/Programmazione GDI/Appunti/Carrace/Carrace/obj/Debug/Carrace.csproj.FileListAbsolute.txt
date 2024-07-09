@@ -1,0 +1,24 @@
+C:\Users\marco.zucchini\Desktop\Carrace\Carrace\bin\Debug\Carrace.exe.config
+C:\Users\marco.zucchini\Desktop\Carrace\Carrace\bin\Debug\Carrace.exe
+C:\Users\marco.zucchini\Desktop\Carrace\Carrace\bin\Debug\Carrace.pdb
+C:\Users\marco.zucchini\Desktop\Carrace\Carrace\obj\Debug\Carrace.csprojResolveAssemblyReference.cache
+C:\Users\marco.zucchini\Desktop\Carrace\Carrace\obj\Debug\Carrace.frmmain.resources
+C:\Users\marco.zucchini\Desktop\Carrace\Carrace\obj\Debug\Carrace.Properties.Resources.resources
+C:\Users\marco.zucchini\Desktop\Carrace\Carrace\obj\Debug\Carrace.csproj.GenerateResource.Cache
+C:\Users\marco.zucchini\Desktop\Carrace\Carrace\obj\Debug\Carrace.exe
+C:\Users\marco.zucchini\Desktop\Carrace\Carrace\obj\Debug\Carrace.pdb
+H:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Programmazione GDI\Appunti\Carrace\Carrace\bin\Debug\Carrace.exe.config
+H:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Programmazione GDI\Appunti\Carrace\Carrace\obj\Debug\Carrace.exe
+H:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Programmazione GDI\Appunti\Carrace\Carrace\obj\Debug\Carrace.pdb
+F:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Programmazione GDI\Appunti\Carrace\Carrace\bin\Debug\Carrace.exe.config
+F:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Programmazione GDI\Appunti\Carrace\Carrace\obj\Debug\Carrace.exe
+F:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Programmazione GDI\Appunti\Carrace\Carrace\obj\Debug\Carrace.pdb
+F:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Programmazione GDI\Appunti\Carrace\Carrace\bin\Debug\Carrace.exe
+F:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Programmazione GDI\Appunti\Carrace\Carrace\bin\Debug\Carrace.pdb
+F:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Programmazione GDI\Appunti\Carrace\Carrace\obj\Debug\Carrace.csprojResolveAssemblyReference.cache
+F:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Programmazione GDI\Appunti\Carrace\Carrace\obj\Debug\Carrace.frmmain.resources
+F:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Programmazione GDI\Appunti\Carrace\Carrace\obj\Debug\Carrace.Properties.Resources.resources
+F:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Programmazione GDI\Appunti\Carrace\Carrace\obj\Debug\Carrace.csproj.GenerateResource.Cache
+E:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Appunti\Carrace\Carrace\bin\Debug\Carrace.exe.config
+E:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Appunti\Carrace\Carrace\obj\Debug\Carrace.exe
+E:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\C# Windows Form\Programmazione GDI\Appunti\Carrace\Carrace\obj\Debug\Carrace.pdb

@@ -1,0 +1,93 @@
+vlan 10
+#name studenti
+#end
+
+conf t
+vlan 20
+#name docenti
+#end
+
+#int fa0/16
+#sw
+#switchport mode access vlan 20 
+int fa0/17
+#switchport access vlan 20
+
+// lo fai ache per i 18 19 
+
+sh vlan brief
+sh int
+#int fa0/22
+sw mo acc
+sw acc vlan 30
+end
+
+sh vlan brief
+
+int fa0/20 
+switchport mode trunk ---solo per la 0/20
+
+//pinga su commqand console 
+//ping 192.168.10.102
+
+
+3 vlan pc1 e 2 dei studenti 192.168.10.0 
+
+pc 3 e 4 insegnanti 192.168.20.0
+
+pc 5 e 6 192.168.30.0 segretaria
+
+tutti /24
+
+
+
+
+ROUTER:
+
+//0/0 sarà la LAN
+//0/1 sarà per la WAN
+
+
+int fa0/0.10
+ip addr 192.168.10.1 //default gateway della rete 10 (aggiunto il netmask) 255.255.255.0
+
+encapsulation dot1Q 10 //1Q nome standard vlan tagged (il numero che gli diamo imn questo caso è il 10)
+no shut
+
+int fa0/0.20
+ip addr 192.168.20.1 255.255.255.0
+encapsulation dot1Q 20
+no shut
+
+int fa0/0.30
+ip addr 192.168.30.1 255.255.255.0
+encapsulation dot1Q 30
+no shut
+
+ora deve girare lo spanning tree (serve un po di tempo)
+
+riprovare la pingatura (.20)
+
+
+
+
+//errore silva si rifa router
+int fa0/0.10
+ip addr 192.168.10.1 255.255.255.0
+encapsulation dot1Q 10
+no shut
+
+int fa0/0.20
+ip addr 192.168.20.1 255.255.255.0
+encapsulation dot1Q 20
+no shut
+
+int fa0/0.30
+ip addr 192.168.30.1 255.255.255.0
+encapsulation dot1Q 30
+no shut
+
+
+
+
+//pag 76 77 libro sistemi per switch

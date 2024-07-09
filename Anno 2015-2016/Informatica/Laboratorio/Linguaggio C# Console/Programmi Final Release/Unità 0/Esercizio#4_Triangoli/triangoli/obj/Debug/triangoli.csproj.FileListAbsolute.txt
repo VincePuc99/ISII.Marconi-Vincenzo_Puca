@@ -1,0 +1,22 @@
+C:\Users\Vincenzo\Desktop\triangoli\triangoli\bin\Debug\triangoli.exe.config
+C:\Users\Vincenzo\Desktop\triangoli\triangoli\bin\Debug\triangoli.exe
+C:\Users\Vincenzo\Desktop\triangoli\triangoli\bin\Debug\triangoli.pdb
+C:\Users\Vincenzo\Desktop\triangoli\triangoli\obj\Debug\triangoli.exe
+C:\Users\Vincenzo\Desktop\triangoli\triangoli\obj\Debug\triangoli.pdb
+G:\Scuola ISII\Lezioni Informatica\Programmi Fatti in casa\triangoli\triangoli\bin\Debug\triangoli.exe.config
+G:\Scuola ISII\Lezioni Informatica\Programmi Fatti in casa\triangoli\triangoli\obj\Debug\triangoli.exe
+C:\Users\M_INF2.TERZA\Desktop\triangoli\triangoli\bin\Debug\triangoli.exe.config
+C:\Users\M_INF2.TERZA\Desktop\triangoli\triangoli\obj\Debug\triangoli.exe
+C:\Users\M_INF2.TERZA\Desktop\triangoli\triangoli\obj\Debug\triangoli.csprojResolveAssemblyReference.cache
+C:\Users\M_INF2.TERZA\Desktop\triangoli\triangoli\bin\Debug\triangoli.exe
+C:\Users\M_INF2.TERZA\Desktop\triangoli\triangoli\bin\Debug\triangoli.pdb
+C:\Users\M_INF2.TERZA\Desktop\triangoli\triangoli\obj\Debug\triangoli.pdb
+E:\DA CONTROLLARE\triangoli\triangoli\bin\Debug\triangoli.exe.config
+E:\DA CONTROLLARE\triangoli\triangoli\obj\Debug\triangoli.exe
+E:\DA CONTROLLARE\triangoli\triangoli\obj\Debug\triangoli.pdb
+E:\DA CONTROLLARE\triangoli\triangoli\bin\Debug\triangoli.exe
+E:\DA CONTROLLARE\triangoli\triangoli\bin\Debug\triangoli.pdb
+E:\DA CONTROLLARE\triangoli\triangoli\obj\Debug\triangoli.csprojResolveAssemblyReference.cache
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#4 Triangoli\triangoli\bin\Debug\triangoli.exe.config
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#4 Triangoli\triangoli\obj\Debug\triangoli.exe
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#4 Triangoli\triangoli\obj\Debug\triangoli.csprojResolveAssemblyReference.cache

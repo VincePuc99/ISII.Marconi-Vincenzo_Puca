@@ -1,0 +1,11 @@
+H:\Programmi finiti\Esercizio#12 DecToBin\Rizza\Rizza\bin\Release\Rizza.exe.config
+H:\Programmi finiti\Esercizio#12 DecToBin\Rizza\Rizza\bin\Release\Rizza.exe
+H:\Programmi finiti\Esercizio#12 DecToBin\Rizza\Rizza\bin\Release\Rizza.pdb
+H:\Programmi finiti\Esercizio#12 DecToBin\Rizza\Rizza\obj\Release\Rizza.exe
+H:\Programmi finiti\Esercizio#12 DecToBin\Rizza\Rizza\obj\Release\Rizza.pdb
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#12 DecToBin\Rizza\Rizza\bin\Release\Rizza.exe.config
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#12 DecToBin\Rizza\Rizza\obj\Release\Rizza.exe
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#12 DecToBin\Rizza\Rizza\obj\Release\Rizza.pdb
+G:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#12 DecToBin\Rizza\Rizza\bin\Release\Rizza.exe.config
+G:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#12 DecToBin\Rizza\Rizza\obj\Release\Rizza.exe
+G:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#12 DecToBin\Rizza\Rizza\obj\Release\Rizza.pdb

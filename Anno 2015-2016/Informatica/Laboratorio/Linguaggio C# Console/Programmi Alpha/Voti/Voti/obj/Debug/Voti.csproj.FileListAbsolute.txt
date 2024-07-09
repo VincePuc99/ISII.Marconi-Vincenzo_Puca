@@ -1,0 +1,6 @@
+C:\Users\M_inf2.terza\Desktop\Voti\Voti\bin\Debug\Voti.exe.config
+C:\Users\M_inf2.terza\Desktop\Voti\Voti\bin\Debug\Voti.exe
+C:\Users\M_inf2.terza\Desktop\Voti\Voti\bin\Debug\Voti.pdb
+C:\Users\M_inf2.terza\Desktop\Voti\Voti\obj\Debug\Voti.csprojResolveAssemblyReference.cache
+C:\Users\M_inf2.terza\Desktop\Voti\Voti\obj\Debug\Voti.exe
+C:\Users\M_inf2.terza\Desktop\Voti\Voti\obj\Debug\Voti.pdb

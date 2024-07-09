@@ -1,0 +1,9 @@
+C:\Users\marco_000\Desktop\TestPolimorfismo\TestPolimorfismo\bin\Debug\TestPolimorfismo.exe.config
+C:\Users\marco_000\Desktop\TestPolimorfismo\TestPolimorfismo\bin\Debug\TestPolimorfismo.exe
+C:\Users\marco_000\Desktop\TestPolimorfismo\TestPolimorfismo\bin\Debug\TestPolimorfismo.pdb
+C:\Users\marco_000\Desktop\TestPolimorfismo\TestPolimorfismo\obj\Debug\TestPolimorfismo.csprojResolveAssemblyReference.cache
+C:\Users\marco_000\Desktop\TestPolimorfismo\TestPolimorfismo\obj\Debug\TestPolimorfismo.exe
+C:\Users\marco_000\Desktop\TestPolimorfismo\TestPolimorfismo\obj\Debug\TestPolimorfismo.pdb
+Z:\Informatica\_Prof_Zucchini\U3_OOP_Polimorfismo\TestPolimorfismo\TestPolimorfismo\bin\Debug\TestPolimorfismo.exe.config
+Z:\Informatica\_Prof_Zucchini\U3_OOP_Polimorfismo\TestPolimorfismo\TestPolimorfismo\obj\Debug\TestPolimorfismo.exe
+Z:\Informatica\_Prof_Zucchini\U3_OOP_Polimorfismo\TestPolimorfismo\TestPolimorfismo\obj\Debug\TestPolimorfismo.pdb

@@ -1,0 +1,28 @@
+C:\Users\Vincenzo\Desktop\Giuliana\Giuliana\bin\Debug\Giuliana.exe.config
+C:\Users\Vincenzo\Desktop\Giuliana\Giuliana\bin\Debug\Giuliana.exe
+C:\Users\Vincenzo\Desktop\Giuliana\Giuliana\bin\Debug\Giuliana.pdb
+C:\Users\Vincenzo\Desktop\Giuliana\Giuliana\obj\Debug\Giuliana.exe
+C:\Users\Vincenzo\Desktop\Giuliana\Giuliana\obj\Debug\Giuliana.pdb
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Alpha\Giuliana\Giuliana\bin\Debug\Giuliana.exe.config
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Alpha\Giuliana\Giuliana\obj\Debug\Giuliana.exe
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Alpha\Giuliana\Giuliana\obj\Debug\Giuliana.pdb
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Alpha\Giuliana\Giuliana\bin\Debug\Giuliana.exe
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Alpha\Giuliana\Giuliana\bin\Debug\Giuliana.pdb
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Alpha\Esercizio#8 Convertitore Giuliana\Giuliana\bin\Debug\Giuliana.exe.config
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Alpha\Esercizio#8 Convertitore Giuliana\Giuliana\obj\Debug\Giuliana.exe
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Alpha\Esercizio#8 Convertitore Giuliana\Giuliana\obj\Debug\Giuliana.pdb
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Alpha\Esercizio#8 Convertitore Giuliana\Giuliana\bin\Debug\Giuliana.exe
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Alpha\Esercizio#8 Convertitore Giuliana\Giuliana\bin\Debug\Giuliana.pdb
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Alpha\Esercizio#8 Convertitore Giuliana\Giuliana\obj\Debug\Giuliana.csprojResolveAssemblyReference.cache
+G:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Alpha\Esercizio#8 Convertitore Giuliana\Giuliana\bin\Debug\Giuliana.exe.config
+G:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Alpha\Esercizio#8 Convertitore Giuliana\Giuliana\obj\Debug\Giuliana.exe
+G:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Alpha\Esercizio#8 Convertitore Giuliana\Giuliana\obj\Debug\Giuliana.pdb
+G:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Alpha\Esercizio#8 Convertitore Giuliana\Giuliana\bin\Debug\Giuliana.exe
+G:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Alpha\Esercizio#8 Convertitore Giuliana\Giuliana\bin\Debug\Giuliana.pdb
+G:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Alpha\Esercizio#8 Convertitore Giuliana\Giuliana\obj\Debug\Giuliana.csprojResolveAssemblyReference.cache
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Alpha\Gregoriano giuliana\Esercizio#8 Convertitore Giuliana\Giuliana\bin\Debug\Giuliana.exe.config
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Alpha\Gregoriano giuliana\Esercizio#8 Convertitore Giuliana\Giuliana\obj\Debug\Giuliana.exe
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Alpha\Gregoriano giuliana\Esercizio#8 Convertitore Giuliana\Giuliana\obj\Debug\Giuliana.pdb
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Alpha\Gregoriano giuliana\Esercizio#8 Convertitore Giuliana\Giuliana\bin\Debug\Giuliana.exe
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Alpha\Gregoriano giuliana\Esercizio#8 Convertitore Giuliana\Giuliana\bin\Debug\Giuliana.pdb
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Alpha\Gregoriano giuliana\Esercizio#8 Convertitore Giuliana\Giuliana\obj\Debug\Giuliana.csprojResolveAssemblyReference.cache

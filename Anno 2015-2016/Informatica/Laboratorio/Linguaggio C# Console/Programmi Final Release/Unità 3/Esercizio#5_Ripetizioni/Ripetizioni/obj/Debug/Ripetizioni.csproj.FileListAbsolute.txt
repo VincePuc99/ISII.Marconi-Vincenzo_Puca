@@ -1,0 +1,12 @@
+C:\Users\Vincenzo\Desktop\Ripetizioni\Ripetizioni\bin\Debug\Ripetizioni.exe.config
+C:\Users\Vincenzo\Desktop\Ripetizioni\Ripetizioni\bin\Debug\Ripetizioni.exe
+C:\Users\Vincenzo\Desktop\Ripetizioni\Ripetizioni\bin\Debug\Ripetizioni.pdb
+C:\Users\Vincenzo\Desktop\Ripetizioni\Ripetizioni\obj\Debug\Ripetizioni.csprojResolveAssemblyReference.cache
+C:\Users\Vincenzo\Desktop\Ripetizioni\Ripetizioni\obj\Debug\Ripetizioni.exe
+C:\Users\Vincenzo\Desktop\Ripetizioni\Ripetizioni\obj\Debug\Ripetizioni.pdb
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Final Release\Unità 3\Esercizio#5_Ripetizioni\Ripetizioni\bin\Debug\Ripetizioni.exe.config
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Final Release\Unità 3\Esercizio#5_Ripetizioni\Ripetizioni\obj\Debug\Ripetizioni.exe
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Final Release\Unità 3\Esercizio#5_Ripetizioni\Ripetizioni\obj\Debug\Ripetizioni.pdb
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Final Release\Unità 3\Esercizio#5_Ripetizioni\Ripetizioni\bin\Debug\Ripetizioni.exe
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Final Release\Unità 3\Esercizio#5_Ripetizioni\Ripetizioni\bin\Debug\Ripetizioni.pdb
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Final Release\Unità 3\Esercizio#5_Ripetizioni\Ripetizioni\obj\Debug\Ripetizioni.csprojResolveAssemblyReference.cache

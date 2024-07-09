@@ -1,0 +1,22 @@
+1)select count(idDonazione) AS NumComGrA
+from dbo.donazioni
+where gruppo = 'a'
+
+2)select top(2) datadonazione, gruppo,fattorerh,quantita
+from dbo.donazioni
+where gruppo = 'ab'
+order by datadonazione desc
+
+3)select sum(quantita) as QuanComplessiva   
+from dbo.donazionirecenti             
+where gruppo='a'
+
+4)select avg(quantita) as ValorMedio 
+from dbo.donazioni 
+
+5)select donatori.cognome, sedi.comune
+from dbo.donatori,dbo.sedi
+
+6)select distinct gruppo,fattorerh
+from dbo.donatore
+

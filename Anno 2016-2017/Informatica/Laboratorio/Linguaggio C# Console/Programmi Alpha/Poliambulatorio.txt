@@ -1,0 +1,8 @@
+gestione di un poliambulatorio per il quale risulta di seguito definita la tablla di occupazione medici/ambulatori
+utilizzando un jagged array realizzare quanto segue:
+1) definire e inizializzare la struttura dati idonea a rappresentare la tabella di cui sopra
+2) implementare il metodo che consenta l'inizializzazione da input della struttura dati
+3) implementare un metodo che consenta la visualizzazione della tabella
+4) dato in input il cognome di un medico,elencare tutti gli ambulatori da lui occupati
+5) dato in input il nome di un ambulatorio visualizzare tutti i medici che la occupano nel corso della settimana
+p.s tutto l'argoritmo deve essere scritto richiamando i matodi da menu nel main

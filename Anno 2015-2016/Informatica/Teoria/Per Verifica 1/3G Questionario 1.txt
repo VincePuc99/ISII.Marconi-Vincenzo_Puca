@@ -1,0 +1,13 @@
+Char
+Cicli
+Classe Math
+Costanti della struttura Double
+Costrutti decisionali
+Differenze tra variabili di tipo string e di tipo char
+Generazione di numeri casuali
+Operatori
+Variabili e costanti
+Cast e conversioni di tipi
+
+
+

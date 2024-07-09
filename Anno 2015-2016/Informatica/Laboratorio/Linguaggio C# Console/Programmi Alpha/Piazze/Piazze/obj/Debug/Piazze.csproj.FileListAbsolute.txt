@@ -1,0 +1,18 @@
+C:\Users\M_inf2.terza\Desktop\Piazze\Piazze\bin\Debug\Piazze.exe.config
+C:\Users\M_inf2.terza\Desktop\Piazze\Piazze\bin\Debug\Piazze.exe
+C:\Users\M_inf2.terza\Desktop\Piazze\Piazze\bin\Debug\Piazze.pdb
+C:\Users\M_inf2.terza\Desktop\Piazze\Piazze\obj\Debug\Piazze.csprojResolveAssemblyReference.cache
+C:\Users\M_inf2.terza\Desktop\Piazze\Piazze\obj\Debug\Piazze.exe
+C:\Users\M_inf2.terza\Desktop\Piazze\Piazze\obj\Debug\Piazze.pdb
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Piazze\Piazze\bin\Debug\Piazze.exe.config
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Piazze\Piazze\obj\Debug\Piazze.exe
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Piazze\Piazze\obj\Debug\Piazze.pdb
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Piazze\Piazze\bin\Debug\Piazze.exe
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Piazze\Piazze\bin\Debug\Piazze.pdb
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Piazze\Piazze\obj\Debug\Piazze.csprojResolveAssemblyReference.cache
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Piazze\Piazze\bin\Debug\Piazze.exe.config
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Piazze\Piazze\obj\Debug\Piazze.exe
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Piazze\Piazze\obj\Debug\Piazze.pdb
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Piazze\Piazze\bin\Debug\Piazze.exe
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Piazze\Piazze\bin\Debug\Piazze.pdb
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Piazze\Piazze\obj\Debug\Piazze.csprojResolveAssemblyReference.cache

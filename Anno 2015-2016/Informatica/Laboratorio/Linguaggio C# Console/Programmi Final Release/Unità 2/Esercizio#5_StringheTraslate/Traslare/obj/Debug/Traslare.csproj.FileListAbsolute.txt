@@ -1,0 +1,25 @@
+C:\Users\M_INF2.TERZA\Desktop\Traslare\Traslare\bin\Debug\Traslare.exe.config
+C:\Users\M_INF2.TERZA\Desktop\Traslare\Traslare\bin\Debug\Traslare.exe
+C:\Users\M_INF2.TERZA\Desktop\Traslare\Traslare\bin\Debug\Traslare.pdb
+C:\Users\M_INF2.TERZA\Desktop\Traslare\Traslare\obj\Debug\Traslare.csprojResolveAssemblyReference.cache
+C:\Users\M_INF2.TERZA\Desktop\Traslare\Traslare\obj\Debug\Traslare.exe
+C:\Users\M_INF2.TERZA\Desktop\Traslare\Traslare\obj\Debug\Traslare.pdb
+F:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Traslare\Traslare\bin\Debug\Traslare.exe.config
+F:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Traslare\Traslare\obj\Debug\Traslare.exe
+F:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Traslare\Traslare\obj\Debug\Traslare.pdb
+F:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Traslare\Traslare\obj\Debug\Traslare.csprojResolveAssemblyReference.cache
+E:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Traslare\Traslare\bin\Debug\Traslare.exe.config
+E:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Traslare\Traslare\obj\Debug\Traslare.exe
+E:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Traslare\Traslare\bin\Debug\Traslare.exe
+E:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Traslare\Traslare\bin\Debug\Traslare.pdb
+E:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Traslare\Traslare\obj\Debug\Traslare.csprojResolveAssemblyReference.cache
+E:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Traslare\Traslare\obj\Debug\Traslare.pdb
+F:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Final Release\Unità 2\Esercizio#5_StringheTraslate\Traslare\bin\Debug\Traslare.exe.config
+F:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Final Release\Unità 2\Esercizio#5_StringheTraslate\Traslare\obj\Debug\Traslare.exe
+F:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Final Release\Unità 2\Esercizio#5_StringheTraslate\Traslare\obj\Debug\Traslare.pdb
+F:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Final Release\Unità 2\Esercizio#5_StringheTraslate\Traslare\bin\Debug\Traslare.exe
+F:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Final Release\Unità 2\Esercizio#5_StringheTraslate\Traslare\bin\Debug\Traslare.pdb
+F:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Final Release\Unità 2\Esercizio#5_StringheTraslate\Traslare\obj\Debug\Traslare.csprojResolveAssemblyReference.cache
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Final Release\Unità 2\Esercizio#5_StringheTraslate\Traslare\bin\Debug\Traslare.exe.config
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Final Release\Unità 2\Esercizio#5_StringheTraslate\Traslare\obj\Debug\Traslare.exe
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Final Release\Unità 2\Esercizio#5_StringheTraslate\Traslare\obj\Debug\Traslare.pdb

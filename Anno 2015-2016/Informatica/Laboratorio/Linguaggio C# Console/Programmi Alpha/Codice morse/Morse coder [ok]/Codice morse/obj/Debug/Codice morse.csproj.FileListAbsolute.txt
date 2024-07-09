@@ -1,0 +1,21 @@
+C:\Users\Vincenzo\Desktop\Codice morse\Codice morse\bin\Debug\Codice morse.exe.config
+C:\Users\Vincenzo\Desktop\Codice morse\Codice morse\bin\Debug\Codice morse.exe
+C:\Users\Vincenzo\Desktop\Codice morse\Codice morse\bin\Debug\Codice morse.pdb
+C:\Users\Vincenzo\Desktop\Codice morse\Codice morse\obj\Debug\Codice morse.csprojResolveAssemblyReference.cache
+C:\Users\Vincenzo\Desktop\Codice morse\Codice morse\obj\Debug\Codice morse.exe
+C:\Users\Vincenzo\Desktop\Codice morse\Codice morse\obj\Debug\Codice morse.pdb
+E:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Codice morse\Codice morse\bin\Debug\Codice morse.exe.config
+E:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Codice morse\Codice morse\obj\Debug\Codice morse.exe
+E:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Codice morse\Codice morse\obj\Debug\Codice morse.pdb
+E:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Codice morse\Codice morse\bin\Debug\Codice morse.exe
+E:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Codice morse\Codice morse\bin\Debug\Codice morse.pdb
+E:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Codice morse\Codice morse\obj\Debug\Codice morse.csprojResolveAssemblyReference.cache
+E:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Codice morse\Morse coder [ok]\Codice morse\bin\Debug\Codice morse.exe.config
+E:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Codice morse\Morse coder [ok]\Codice morse\obj\Debug\Codice morse.exe
+E:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Codice morse\Morse coder [ok]\Codice morse\obj\Debug\Codice morse.pdb
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Codice morse\Morse coder [ok]\Codice morse\bin\Debug\Codice morse.exe.config
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Codice morse\Morse coder [ok]\Codice morse\obj\Debug\Codice morse.exe
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Codice morse\Morse coder [ok]\Codice morse\obj\Debug\Codice morse.pdb
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Codice morse\Morse coder [ok]\Codice morse\bin\Debug\Codice morse.exe
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Codice morse\Morse coder [ok]\Codice morse\bin\Debug\Codice morse.pdb
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Codice morse\Morse coder [ok]\Codice morse\obj\Debug\Codice morse.csprojResolveAssemblyReference.cache

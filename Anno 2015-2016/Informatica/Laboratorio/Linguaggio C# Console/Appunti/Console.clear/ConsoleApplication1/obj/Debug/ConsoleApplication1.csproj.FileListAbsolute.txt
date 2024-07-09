@@ -1,0 +1,24 @@
+C:\Users\M_inf2.terza\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\M_inf2.terza\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\M_inf2.terza\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\M_inf2.terza\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\M_inf2.terza\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\M_inf2.terza\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\M_inf2.terza\Desktop\Esempio menù\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\M_inf2.terza\Desktop\Esempio menù\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\M_inf2.terza\Desktop\Esempio menù\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\M_inf2.terza\Desktop\Esempio menù\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\M_inf2.terza\Desktop\Esempio menù\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\M_inf2.terza\Desktop\Esempio menù\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+F:\Scuola ISII\Lezioni Informatica\Laboratorio\Appunti\Esempio menù\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\Scuola ISII\Lezioni Informatica\Laboratorio\Appunti\Esempio menù\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\Scuola ISII\Lezioni Informatica\Laboratorio\Appunti\Esempio menù\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+F:\Scuola ISII\Lezioni Informatica\Laboratorio\Appunti\Esempio menù\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\Scuola ISII\Lezioni Informatica\Laboratorio\Appunti\Esempio menù\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\Scuola ISII\Lezioni Informatica\Laboratorio\Appunti\Esempio menù\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+F:\Scuola ISII\Lezioni Informatica\Laboratorio\Appunti\Console.clear\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\Scuola ISII\Lezioni Informatica\Laboratorio\Appunti\Console.clear\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\Scuola ISII\Lezioni Informatica\Laboratorio\Appunti\Console.clear\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+F:\Scuola ISII\Lezioni Informatica\Laboratorio\Appunti\Console.clear\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\Scuola ISII\Lezioni Informatica\Laboratorio\Appunti\Console.clear\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\Scuola ISII\Lezioni Informatica\Laboratorio\Appunti\Console.clear\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

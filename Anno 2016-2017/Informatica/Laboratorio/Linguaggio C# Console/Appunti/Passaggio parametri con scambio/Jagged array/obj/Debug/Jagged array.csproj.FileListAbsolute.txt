@@ -1,0 +1,9 @@
+C:\Users\m_inf2.quarta\Desktop\Jagged array\Jagged array\bin\Debug\Jagged array.exe.config
+C:\Users\m_inf2.quarta\Desktop\Jagged array\Jagged array\bin\Debug\Jagged array.exe
+C:\Users\m_inf2.quarta\Desktop\Jagged array\Jagged array\bin\Debug\Jagged array.pdb
+C:\Users\m_inf2.quarta\Desktop\Jagged array\Jagged array\obj\Debug\Jagged array.csprojResolveAssemblyReference.cache
+C:\Users\m_inf2.quarta\Desktop\Jagged array\Jagged array\obj\Debug\Jagged array.exe
+C:\Users\m_inf2.quarta\Desktop\Jagged array\Jagged array\obj\Debug\Jagged array.pdb
+F:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Linguaggio C#\Appunti\Jagged array\Jagged array\bin\Debug\Jagged array.exe.config
+F:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Linguaggio C#\Appunti\Jagged array\Jagged array\obj\Debug\Jagged array.exe
+F:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Linguaggio C#\Appunti\Jagged array\Jagged array\obj\Debug\Jagged array.pdb

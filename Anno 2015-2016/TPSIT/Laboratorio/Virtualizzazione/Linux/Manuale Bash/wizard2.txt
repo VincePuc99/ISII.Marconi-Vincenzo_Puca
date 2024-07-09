@@ -1,0 +1,7 @@
+Il Launcher è la barra verticale posizionata sul lato sinistro dello
+schermo. Può essere visualizzato permanentemente, oppure può essere
+nascosto finché non lo si richiama puntando il mouse sulla sinistra.
+Il suo scopo è quello di mettere a disposizione le applicazioni più
+usate, mostrare quelle correntemente aperte e passare da un desktop
+all'altro.
+

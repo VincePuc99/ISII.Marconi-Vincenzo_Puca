@@ -1,0 +1,5 @@
+1) Tutto ciò che sta tra un tag e un end tag prende il nome di elemento
+2) HTML e CSS non sono case sensitive nei tag e nei attributi
+3) I valori degli attributi invece sono case sensitive
+4) In XHTML bisogna fare tutto minuscolo sempre,doppi apici, e ogni tag ha un end-tag
+5) 

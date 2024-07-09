@@ -1,0 +1,10 @@
+C:\Users\Vincenzo\Desktop\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Vincenzo\Desktop\Client\Client\bin\Debug\Client.exe
+C:\Users\Vincenzo\Desktop\Client\Client\bin\Debug\Client.pdb
+C:\Users\Vincenzo\Desktop\Client\Client\obj\Debug\Client.frmmain.resources
+C:\Users\Vincenzo\Desktop\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Vincenzo\Desktop\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Vincenzo\Desktop\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Vincenzo\Desktop\Client\Client\obj\Debug\Client.exe
+C:\Users\Vincenzo\Desktop\Client\Client\obj\Debug\Client.pdb
+C:\Users\Vincenzo\Desktop\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache

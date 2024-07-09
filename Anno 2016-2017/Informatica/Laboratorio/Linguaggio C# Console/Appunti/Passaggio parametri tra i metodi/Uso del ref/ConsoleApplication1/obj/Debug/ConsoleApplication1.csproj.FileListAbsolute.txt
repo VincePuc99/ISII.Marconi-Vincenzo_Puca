@@ -1,0 +1,9 @@
+C:\Users\m_inf2.quarta\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\m_inf2.quarta\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\m_inf2.quarta\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\m_inf2.quarta\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\m_inf2.quarta\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\m_inf2.quarta\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+F:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Linguaggio C#\Appunti\Passaggio parametri tra i metodi\Uso del ref\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Linguaggio C#\Appunti\Passaggio parametri tra i metodi\Uso del ref\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Linguaggio C#\Appunti\Passaggio parametri tra i metodi\Uso del ref\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

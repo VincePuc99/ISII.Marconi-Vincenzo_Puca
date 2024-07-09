@@ -1,0 +1,7 @@
+Stanza casa -- L -- A (cm)
+
+Porte 80x200
+Finestre 200x230m
+Solaio --x30
+Stanza da letto --x270
+Scale 120x380

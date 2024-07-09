@@ -1,0 +1,24 @@
+C:\Users\Vincenzo\Desktop\Validatore Email\Validatore Email\bin\Debug\Validatore Email.exe.config
+C:\Users\Vincenzo\Desktop\Validatore Email\Validatore Email\bin\Debug\Validatore Email.exe
+C:\Users\Vincenzo\Desktop\Validatore Email\Validatore Email\bin\Debug\Validatore Email.pdb
+C:\Users\Vincenzo\Desktop\Validatore Email\Validatore Email\obj\Debug\Validatore Email.csprojResolveAssemblyReference.cache
+C:\Users\Vincenzo\Desktop\Validatore Email\Validatore Email\obj\Debug\Validatore Email.exe
+C:\Users\Vincenzo\Desktop\Validatore Email\Validatore Email\obj\Debug\Validatore Email.pdb
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Validatore Email\Validatore Email\bin\Debug\Validatore Email.exe.config
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Validatore Email\Validatore Email\obj\Debug\Validatore Email.exe
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Validatore Email\Validatore Email\obj\Debug\Validatore Email.pdb
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Validatore Email\Validatore Email\obj\Debug\Validatore Email.csprojResolveAssemblyReference.cache
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Validatore Email\Validatore Email\bin\Debug\Validatore Email.exe
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Validatore Email\Validatore Email\bin\Debug\Validatore Email.pdb
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Validatore Email\Validatore Email\bin\Debug\Validatore Email.exe.config
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Validatore Email\Validatore Email\obj\Debug\Validatore Email.exe
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Validatore Email\Validatore Email\obj\Debug\Validatore Email.pdb
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Validatore Email\Validatore Email\bin\Debug\Validatore Email.exe
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Validatore Email\Validatore Email\bin\Debug\Validatore Email.pdb
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Validatore Email\Validatore Email\obj\Debug\Validatore Email.csprojResolveAssemblyReference.cache
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Validatore Email[o\Validatore Email\bin\Debug\Validatore Email.exe.config
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Validatore Email[o\Validatore Email\obj\Debug\Validatore Email.exe
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Validatore Email[o\Validatore Email\obj\Debug\Validatore Email.pdb
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Validatore Email[o\Validatore Email\bin\Debug\Validatore Email.exe
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Validatore Email[o\Validatore Email\bin\Debug\Validatore Email.pdb
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Validatore Email[o\Validatore Email\obj\Debug\Validatore Email.csprojResolveAssemblyReference.cache

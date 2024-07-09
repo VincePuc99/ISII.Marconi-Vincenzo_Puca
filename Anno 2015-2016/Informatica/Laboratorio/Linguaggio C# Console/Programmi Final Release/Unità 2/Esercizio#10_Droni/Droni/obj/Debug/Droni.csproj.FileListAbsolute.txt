@@ -1,0 +1,21 @@
+C:\Users\marco.zucchini\Desktop\Droni\Droni\bin\Debug\Droni.exe.config
+C:\Users\marco.zucchini\Desktop\Droni\Droni\bin\Debug\Droni.exe
+C:\Users\marco.zucchini\Desktop\Droni\Droni\bin\Debug\Droni.pdb
+C:\Users\marco.zucchini\Desktop\Droni\Droni\obj\Debug\Droni.csprojResolveAssemblyReference.cache
+C:\Users\marco.zucchini\Desktop\Droni\Droni\obj\Debug\Droni.exe
+C:\Users\marco.zucchini\Desktop\Droni\Droni\obj\Debug\Droni.pdb
+Z:\Informatica\_Prof_Zucchini\Lezioni\Esercizi\U4_stringhe++\Droni\Droni\bin\Debug\Droni.exe.config
+Z:\Informatica\_Prof_Zucchini\Lezioni\Esercizi\U4_stringhe++\Droni\Droni\obj\Debug\Droni.exe
+Z:\Informatica\_Prof_Zucchini\Lezioni\Esercizi\U4_stringhe++\Droni\Droni\obj\Debug\Droni.pdb
+C:\Users\M_inf2.terza\Desktop\Droni\Droni\bin\Debug\Droni.exe.config
+C:\Users\M_inf2.terza\Desktop\Droni\Droni\obj\Debug\Droni.exe
+C:\Users\M_inf2.terza\Desktop\Droni\Droni\obj\Debug\Droni.pdb
+C:\Users\M_inf2.terza\Desktop\Droni\Droni\bin\Debug\Droni.exe
+C:\Users\M_inf2.terza\Desktop\Droni\Droni\bin\Debug\Droni.pdb
+C:\Users\M_inf2.terza\Desktop\Droni\Droni\obj\Debug\Droni.csprojResolveAssemblyReference.cache
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Droni\Prof Version\Droni\Droni\bin\Debug\Droni.exe.config
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Droni\Prof Version\Droni\Droni\obj\Debug\Droni.exe
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Droni\Prof Version\Droni\Droni\obj\Debug\Droni.pdb
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Final Release\Unità 2\Esercizio#10_Droni\Droni\bin\Debug\Droni.exe.config
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Final Release\Unità 2\Esercizio#10_Droni\Droni\obj\Debug\Droni.exe
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Final Release\Unità 2\Esercizio#10_Droni\Droni\obj\Debug\Droni.pdb

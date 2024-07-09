@@ -1,0 +1,21 @@
+C:\Users\Vincenzo\Desktop\Gara Podistica\Gara Podistica\bin\Debug\Gara Podistica.exe.config
+C:\Users\Vincenzo\Desktop\Gara Podistica\Gara Podistica\bin\Debug\Gara Podistica.exe
+C:\Users\Vincenzo\Desktop\Gara Podistica\Gara Podistica\bin\Debug\Gara Podistica.pdb
+C:\Users\Vincenzo\Desktop\Gara Podistica\Gara Podistica\obj\Debug\Gara Podistica.csprojResolveAssemblyReference.cache
+C:\Users\Vincenzo\Desktop\Gara Podistica\Gara Podistica\obj\Debug\Gara Podistica.exe
+C:\Users\Vincenzo\Desktop\Gara Podistica\Gara Podistica\obj\Debug\Gara Podistica.pdb
+F:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Gara Podistica\Gara Podistica\bin\Debug\Gara Podistica.exe.config
+F:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Gara Podistica\Gara Podistica\obj\Debug\Gara Podistica.exe
+F:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Gara Podistica\Gara Podistica\obj\Debug\Gara Podistica.pdb
+F:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Gara Podistica\Gara Podistica\bin\Debug\Gara Podistica.exe
+F:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Gara Podistica\Gara Podistica\bin\Debug\Gara Podistica.pdb
+F:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Alpha\Gara Podistica\Gara Podistica\obj\Debug\Gara Podistica.csprojResolveAssemblyReference.cache
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Gara Podistica\Gara Podistica\bin\Debug\Gara Podistica.exe.config
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Gara Podistica\Gara Podistica\obj\Debug\Gara Podistica.exe
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Gara Podistica\Gara Podistica\obj\Debug\Gara Podistica.pdb
+F:\Documenti\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Linguaggio C# Console\Programmi Final Release\Unità 2\Esercizio#4_GaraPodistica\Gara Podistica\bin\Debug\Gara Podistica.exe.config
+F:\Documenti\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Linguaggio C# Console\Programmi Final Release\Unità 2\Esercizio#4_GaraPodistica\Gara Podistica\obj\Debug\Gara Podistica.exe
+F:\Documenti\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Linguaggio C# Console\Programmi Final Release\Unità 2\Esercizio#4_GaraPodistica\Gara Podistica\obj\Debug\Gara Podistica.pdb
+F:\Documenti\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Linguaggio C# Console\Programmi Final Release\Unità 2\Esercizio#4_GaraPodistica\Gara Podistica\bin\Debug\Gara Podistica.exe
+F:\Documenti\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Linguaggio C# Console\Programmi Final Release\Unità 2\Esercizio#4_GaraPodistica\Gara Podistica\bin\Debug\Gara Podistica.pdb
+F:\Documenti\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Linguaggio C# Console\Programmi Final Release\Unità 2\Esercizio#4_GaraPodistica\Gara Podistica\obj\Debug\Gara Podistica.csprojResolveAssemblyReference.cache

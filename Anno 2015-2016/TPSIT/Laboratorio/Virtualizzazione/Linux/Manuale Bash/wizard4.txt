@@ -1,0 +1,7 @@
+HUD è un tipo di Dash specializzata nella ricerca delle opzioni menu
+per l'applicazione della finestra che ha correntemente il fuoco. Bastano
+poche lettere per ottenere le opzioni menu corrispondenti.
+Inoltre HUD ha un comportamento intelligente che impara dalle nostre
+ricerche e successivamente con ancora meno lettere di ricerca ci presenta
+le opzioni menu che abbiamo usato più spesso.
+

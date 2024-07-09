@@ -1,0 +1,6 @@
+         DialogResult messaggio;
+         messaggio = MessageBox.Show("Messaggio da far comparire","Titolo della finestra", MessageBoxButtons.YesNo);
+         if (messaggio == DialogResult.Yes)
+         {
+            this.Close();
+         }

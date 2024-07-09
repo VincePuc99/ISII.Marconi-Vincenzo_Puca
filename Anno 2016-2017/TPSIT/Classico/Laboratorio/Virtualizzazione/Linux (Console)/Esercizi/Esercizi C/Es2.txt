@@ -1,0 +1,11 @@
+
+
+#!/bin/bash
+a=31
+b=12
+let c=a+b
+
+ 
+echo $a
+echo $b
+echo $c

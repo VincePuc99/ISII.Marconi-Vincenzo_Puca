@@ -1,0 +1,10 @@
+•	For For: E’ Stringa2 contenuta in SItringa1? Non utilizzare i metodi della classe string
+•	Scrivere il codice C# che, assegnata una stringa, visualizzi e conti le parole contenute in essa.
+•	Letta in input una parola verificare se è palindroma.
+•	Data una stringa trovare le lettere al posto pari;
+•	Convertire una stringa che contiene solo cifre nel corrispondente intero positivo
+•	Cifrare una stringa (carattere = Chr(Asc(carattere)+1);
+•	Quante volte un carattere è contenuto in una stringa?
+•	Eliminare un carattere assegnato all’interno di una stringa
+•	Letta una stringa di caratteri verificare se à costituita da sequenze alternate di lunghezza pari di “a” e di “b”. Ad esempio la stringa “aaaabbaaaaaabbbbaa” rispetta la regola descritta nel testo dell’esercizio; viceversa le stringhe “aabaabbb” e “aaaabbccaabbbb” non la rispettano. 
+•	Per ogni carattere di una stringa viene generato un numero casuale 0 o 1. Ottenere una seconda stringa composta dai soli caratteri per i quali è stato generato 1.

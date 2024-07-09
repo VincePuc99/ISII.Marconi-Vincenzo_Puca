@@ -1,0 +1,5 @@
+•	Data la retta y=mx + q stabilire se il punto P(a,b) appartiene alla retta.
+•	Scrivere un programma che riceve in input le coordinate cartesiane dei due vertici opposti di un rettangolo e determina la lunghezza dei lati e l'area del rettangolo. Supporre che il primo punto si trovi alla sinistra del secondo e che entrambi siano collocati nel primo quadrante. 
+Esempio:	Se i dati di input sono:     x1=3, y1=4, x2=6, y2=8 
+I dati di output sono :     lato1=3, lato2=4, area=12
+•	Dati in input 4 numeri a, b, c, d rappresentanti due frazioni a/b e c/d, calcolare somma, sottrazione, prodotto e divisione delle due frazioni. 

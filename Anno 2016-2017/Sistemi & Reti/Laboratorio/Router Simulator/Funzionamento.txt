@@ -1,0 +1,6 @@
+Il pc di sinistra manda un messaggio al pc di destra ,il router quindi esamina ip e subnet del messaggio(txt in alto).
+se ip e subnet del mess. corrispondono all' ip e subnet della rete(i quali 
+sono stati configurati da comandi) generata allora avremo un ping con accensione dell'indicatore
+
+controllo: ip messaggio pc sinistra con porta di destra del router (Fa0)
+controllo: ip messaggio pc destra con porta di sinistra del router (fa1)

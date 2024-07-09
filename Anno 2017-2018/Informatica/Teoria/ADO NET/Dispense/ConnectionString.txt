@@ -1,0 +1,9 @@
+
+            string strcn = "Data Source=C215-010;"+
+                           "Initial Catalog=izii;"+
+                           "Integrated Security=True;";
+
+            SqlConnection cn = new SqlConnection();
+            cn.ConnectionString=strcn;
+
+            cn.Open();

@@ -1,0 +1,6 @@
+C:\Users\M_inf2.terza\Desktop\Recupero\Recupero\bin\Debug\Recupero.exe.config
+C:\Users\M_inf2.terza\Desktop\Recupero\Recupero\bin\Debug\Recupero.exe
+C:\Users\M_inf2.terza\Desktop\Recupero\Recupero\bin\Debug\Recupero.pdb
+C:\Users\M_inf2.terza\Desktop\Recupero\Recupero\obj\Debug\Recupero.csprojResolveAssemblyReference.cache
+C:\Users\M_inf2.terza\Desktop\Recupero\Recupero\obj\Debug\Recupero.exe
+C:\Users\M_inf2.terza\Desktop\Recupero\Recupero\obj\Debug\Recupero.pdb

@@ -1,0 +1,3 @@
+double s, nuovotot;
+s = (totale * 20) / 100;
+nuovotot = totale - s;

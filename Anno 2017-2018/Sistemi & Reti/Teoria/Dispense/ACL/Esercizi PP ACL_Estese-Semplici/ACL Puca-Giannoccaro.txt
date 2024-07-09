@@ -1,0 +1,43 @@
+Uffici(config)#access-list 100 permit TCP host 192.168.0.10 host 192.168.5.252 eq pop3
+Uffici(config)#access-list 100 permit TCP host 192.168.0.10 host 192.168.5.252 eq smtp
+Uffici(config)#access-list 100 permit IP any any
+
+Uffici(config)#access-list 110 permit TCP host 192.168.2.10 host 192.168.5.252 eq pop3
+Uffici(config)#access-list 110 permit TCP host 192.168.2.10 host 192.168.5.252 eq smtp
+Uffici(config)#access-list 110 permit IP any any
+
+Uffici(config)#interface g0/0
+Uffici(config-if)#ip access-group 100 in
+
+Uffici(config)#interface g0/2
+Uffici(config-if)#ip access-group 110 in 
+-------------------------------------------------------------------------------------------------
+Azienda(config)#access-list 100 deny TCP host 192.168.3.254 host 192.168.5.252 eq smtp
+Azienda(config)#access-list 100 permit IP any any
+
+Azienda(config)#interface g0/0
+Azienda(config-if)#ip access-group 100 in
+-------------------------------------------------------------------------------------------------
+Azienda(config)#access-list 100 permit TCP host 192.168.3.254 host 192.168.4.253 eq ftp
+Azienda(config)#access-list 100 permit IP any any
+
+Azienda(config)#interface g0/1
+Azienda(config-if)#ip access-group 100 out
+-------------------------------------------------------------------------------------------------
+Uffici(config)#access-list 100 deny TCP host 192.168.0.10 host 192.168.3.0 eq 80
+Uffici(config)#access-list 100 permit IP any any
+
+Uffici(config)#interface g0/0
+Uffici(config-if)#ip access-group 100 in
+-------------------------------------------------------------------------------------------------
+Uffici(config)#access-list 100 deny UDP host 192.168.0.10 host 192.168.6.251 eq 53
+Uffici(config)#access-list 100 permit IP any any
+
+Uffici(config)#interface gi0/2
+Uffici(config-if)#ip access-group 100 in
+-------------------------------------------------------------------------------------------------
+Uffici(config)#access-list 100 deny IP host 192.168.1.10 any
+
+Uffici(config)#interface gi0/1
+Uffici(config-if)#ip access-group 100 in
+-------------------------------------------------------------------------------------------------

@@ -1,0 +1,20 @@
+  for (int i = 0; i < dati.Length; i++)
+                    {
+                        if (dati[i] == '#')
+                        {
+                            if (stampa == true)
+                            {
+                                stampa = false;  // spengo la stampante
+                                Console.WriteLine();
+                            }
+                            else
+                                stampa = true;  // spengo la stampante                       
+                        }
+
+                        if (stampa == true)
+                        {
+                            if (dati[i] != '#')
+                                Console.Write(dati[i]);
+                        }
+                    }
+           

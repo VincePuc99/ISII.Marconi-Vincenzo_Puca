@@ -1,0 +1,8 @@
+C:\Users\Vincenzo\Desktop\Router Simulator\Router Simulator\bin\Release\Router Simulator.exe.config
+C:\Users\Vincenzo\Desktop\Router Simulator\Router Simulator\bin\Release\Router Simulator.exe
+C:\Users\Vincenzo\Desktop\Router Simulator\Router Simulator\bin\Release\Router Simulator.pdb
+C:\Users\Vincenzo\Desktop\Router Simulator\Router Simulator\obj\Release\Router_Simulator.frmmain.resources
+C:\Users\Vincenzo\Desktop\Router Simulator\Router Simulator\obj\Release\Router_Simulator.Properties.Resources.resources
+C:\Users\Vincenzo\Desktop\Router Simulator\Router Simulator\obj\Release\Router Simulator.csproj.GenerateResource.Cache
+C:\Users\Vincenzo\Desktop\Router Simulator\Router Simulator\obj\Release\Router Simulator.exe
+C:\Users\Vincenzo\Desktop\Router Simulator\Router Simulator\obj\Release\Router Simulator.pdb

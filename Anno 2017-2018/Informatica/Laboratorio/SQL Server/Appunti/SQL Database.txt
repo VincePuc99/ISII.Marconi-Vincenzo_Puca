@@ -1,0 +1,40 @@
+Il database possiede un motore capace di gestire le richieste query degli utenti chiamato database engine, il linguaggio nel databse è SQL 
+abbiamo quindi i client che fanno richieste ai databse, i client utilizzano l'SSMS per ciascuna richiesta
+transazioni: richieste di trasefirmento con un segnale di conferma
+rollback: torna indietro il dato perchè la transazione non ha avuto successo
+
+I server non devono spegnersi,e mai andare in crash:
+i componenti sono tutti di classe server:
+cpu intel xeon, ram con controllo di parità in più ram e cpu comunicano tra di loro
+alimentatori a parte ed eventuali schede per disco dischi solo sas
+i controller (schede che controllano il tutto) ad alte prestazioni
+case in full metal body
+componenti di qualità e certificati
+un server va preso da una ditta e non assemblarlo i quanto non si avrebbero garanzie
+il server hardware deve soddisfare queste caratteristiche:
+-affidabilità (deve essere affidabile non spegnersi o avere malfunzionamenti)
+-prestazioni  (deve essere veloce, numero adeguato di cpu e ram con un buon disco fisso per garantire la velocità di processing delle query)
+tipicamente i dischi (o storage) sono fissati su unità esterne, armadi o cassettoni contenenete tanti diischi fissi
+-sicurezza    (la stanza server è chiusa a chiave, i dati server sono criptati, i dati non devono essere persi)
+
+queste caratteristiche vanno applicate anche a lato software con un sistema operativo tipo server
+i windows client sono i sistemi operativi classici
+installiamo invece windows server e un prodotto di gestione database con microsoft sql server
+
+scalabilità : progettare qualcosa che sia adattabile anche a nuove esigenze, con il minimo sforzo di adattamento
+si compra sia il server ma anche le licenze da dare al client per accedervi
+alcune licenze di sqlserver vengono vendute per CPU
+
+Internet non è una LAN nè una WPN (esternsione di una rete da un altra parte)
+
+
+
+
+
+
+
+
+
+
+
+

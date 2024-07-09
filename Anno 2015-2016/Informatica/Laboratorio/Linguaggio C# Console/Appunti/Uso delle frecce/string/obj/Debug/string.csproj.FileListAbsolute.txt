@@ -1,0 +1,6 @@
+C:\Users\M_inf2.terza\Desktop\string\string\bin\Debug\@string.exe.config
+C:\Users\M_inf2.terza\Desktop\string\string\obj\Debug\string.csprojResolveAssemblyReference.cache
+C:\Users\M_inf2.terza\Desktop\string\string\bin\Debug\@string.exe
+C:\Users\M_inf2.terza\Desktop\string\string\bin\Debug\@string.pdb
+C:\Users\M_inf2.terza\Desktop\string\string\obj\Debug\@string.exe
+C:\Users\M_inf2.terza\Desktop\string\string\obj\Debug\@string.pdb

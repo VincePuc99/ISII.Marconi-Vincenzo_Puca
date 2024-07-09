@@ -1,0 +1,15 @@
+
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Corso script bash
+Name[it_CH]=Corso script bash
+Type=Application
+Terminal=true
+Exec="/home/nicola/Documenti/Tecnica/Tutorial/Miei/Corso Bash/Corso_script_bash_finale.sh" T
+Comment=Esegue lo script finale del corso di programmazione bash
+Comment[it_CH]=Esegue lo script finale del corso di programmazione bash
+GenericName=Esegue lo script finale del corso di programmazione bash
+GenericName[it_CH]=Esegue lo script finale del corso di programmazione bash
+Icon=/usr/share/pixmaps/ubuntu-screensaver.svg
+

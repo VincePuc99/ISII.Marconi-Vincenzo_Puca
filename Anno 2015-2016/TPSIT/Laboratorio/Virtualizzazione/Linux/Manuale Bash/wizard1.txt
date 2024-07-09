@@ -1,0 +1,8 @@
+Unity è un'interfaccia molto intuitiva che si basa su 4 elementi
+fondamentali:
+
+- il Launcher
+- la Dash
+- HUD (Head-up display)
+- il pannello superiore
+

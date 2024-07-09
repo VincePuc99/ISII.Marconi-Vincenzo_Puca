@@ -1,0 +1,4 @@
+Gioco televisivo:
+in un gioco tel il conduttore pone una domanda contemporaneamente a 3 concorrenti
+vince il concorrente che risponde correttamente e per primo.
+sviluppare il seguente algoritmo in C in modalità concorrente.

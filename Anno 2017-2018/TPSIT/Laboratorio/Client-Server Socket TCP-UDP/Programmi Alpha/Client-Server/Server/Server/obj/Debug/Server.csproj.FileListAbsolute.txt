@@ -1,0 +1,10 @@
+C:\Users\Vincenzo\Desktop\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Vincenzo\Desktop\Server\Server\bin\Debug\Server.exe
+C:\Users\Vincenzo\Desktop\Server\Server\bin\Debug\Server.pdb
+C:\Users\Vincenzo\Desktop\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Vincenzo\Desktop\Server\Server\obj\Debug\Server.frmmain.resources
+C:\Users\Vincenzo\Desktop\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Vincenzo\Desktop\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Vincenzo\Desktop\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Vincenzo\Desktop\Server\Server\obj\Debug\Server.exe
+C:\Users\Vincenzo\Desktop\Server\Server\obj\Debug\Server.pdb

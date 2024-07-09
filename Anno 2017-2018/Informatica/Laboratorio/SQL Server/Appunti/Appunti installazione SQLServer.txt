@@ -1,0 +1,4 @@
+CLuster = insieme di server 
+SQL server cluster = programma installato in un server cluster che li fà lavorare come se fossero un unico server
+
+CS CI AS AI case sensistive case insensitive accent sensistive accent insensitve 

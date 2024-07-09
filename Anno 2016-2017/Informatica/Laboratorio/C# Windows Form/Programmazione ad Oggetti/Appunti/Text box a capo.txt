@@ -1,0 +1,2 @@
+\n\r
+Per andare a capo in una textbox

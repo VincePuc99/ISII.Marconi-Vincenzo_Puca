@@ -1,0 +1,17 @@
+System.Threading.Thread.Sleep(3000);
+ritorna all inizio del programma dopo 3 secondi(in millesimi)
+lo fa in tutte le instruzioni dopo
+------------------------------------------------------------
+il nome della variabile deve essere tutta in maiuscolo
+const int TEMPO_ATTESA= 3000;
+System.Threading.Thread.Sleep(TEMPO_ATTESA);
+lo fa nell'istruzione in cui è
+-------------------------------------------------------------
+per evitare di scrivere system nel programma posso scriverlo 
+in alto nella classe using
+
+using system threading;
+const int TEMPO_ATTESA= 3000;
+thread.sleep(TEMPO_ATTESA);
+-------------------------------------------------------------
+60 000 = 1 Minuto

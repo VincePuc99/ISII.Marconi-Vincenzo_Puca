@@ -1,0 +1,113 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace WindowsFormsApplication1
+{
+    public partial class Form1 : Form
+    {
+        //attributi
+        private Graphics objG;
+        private Pen Penna;
+        private Pen Gomma;
+        private SolidBrush Pennello;
+        private int xMax;
+        private int yMax;
+        private int x1Start, y1Start, x2Start, y2Start;
+        private bool Disegna;
+        private bool Discesa;
+        
+        public Form1()
+        {
+            InitializeComponent();
+            Penna= new Pen(Color.Blue);
+            Pennello = new SolidBrush(Color.Red);
+            Gomma = new Pen(Color.White);
+            xMax = 400;
+            yMax = 400;
+            //cordinate punto1 e punto2
+            x1Start = 100;
+            y1Start = 10;
+            x2Start = 300;
+            y2Start = 10;
+            Disegna = true;
+            Discesa = true;
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+            objG = this.CreateGraphics();
+        }
+
+        private void btnvedi_Click(object sender, EventArgs e)
+        {
+            
+             
+          
+           
+        }
+
+        private void tmrTimer_Tick(object sender, EventArgs e)
+        {
+            if(Discesa)
+            {
+        
+                if(Disegna)
+                {
+                    objG.DrawLine(Penna,x1Start,y1Start,x2Start,y2Start);
+
+                    Disegna = !Disegna;
+                }
+                else
+                {
+                    objG.DrawLine(Gomma, x1Start, y1Start, x2Start, y2Start);
+                
+                    if (y1Start > 200)
+                    {
+                        Discesa = !Discesa;
+                    }
+                    else
+                    {
+                        y1Start++;
+                        y2Start++;
+                        Disegna = !Disegna;
+                    }
+                }
+            }
+            else //SALITA
+            {
+                if (Disegna)
+                {
+                    objG.DrawLine(Penna, x1Start, y1Start, x2Start, y2Start);
+
+                    Disegna = !Disegna;
+                }
+                else
+                {
+                    objG.DrawLine(Gomma, x1Start, y1Start, x2Start, y2Start);
+
+                    if (y1Start < 50)
+                    {
+                        Discesa = !Discesa;
+                    }
+                    else
+                    {
+                        y1Start--;
+                        y2Start--;
+                        Disegna = !Disegna;
+                    }
+                }
+            }
+         
+                
+            
+        }
+    }
+}

@@ -1,0 +1,9 @@
+•	Sia dato un riquadro rettangolare individuato dalle coordinate del vertice in alto a sinistra (xs, ys) e di quello opposto in basso a destra (xd, yd). Scrivere un programma che richieda all'utente un numero arbitrario di punti, ciascuno individuato dalle coordinate (x,y), e conti quanti punti sono interni, quanti sono esterni e quanti stanno sul bordo del rettangolo dato. La sequenza di punti termina quando l'utente introduce il punto di coordinate (0,0)
+•	Risolvere un’equazione di secondo grado
+•	Data una serie di numeri che ha termine quando viene inserito lo 0, stampa tutti i numeri maggiori della somma dei due precedenti.
+•	Classificazione triangolo: Si scriva un programma che legga da tastiera i valori delle lunghezze dei tre lati di un triangolo (detti A, B e C), e determini:
+ 	se il triangolo è equilatero
+ 	se il triangolo è isoscele
+ 	se il triangolo è scaleno
+ 	se il triangolo è rettangolo.
+•	Trovare se un numero è primo.

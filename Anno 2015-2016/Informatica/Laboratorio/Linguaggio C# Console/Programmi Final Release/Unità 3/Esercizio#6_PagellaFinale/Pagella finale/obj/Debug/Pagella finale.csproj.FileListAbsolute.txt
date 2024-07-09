@@ -1,0 +1,18 @@
+C:\Users\M_inf2.terza\Desktop\Pagella finale\Pagella finale\bin\Debug\Pagella finale.exe.config
+C:\Users\M_inf2.terza\Desktop\Pagella finale\Pagella finale\bin\Debug\Pagella finale.exe
+C:\Users\M_inf2.terza\Desktop\Pagella finale\Pagella finale\bin\Debug\Pagella finale.pdb
+C:\Users\M_inf2.terza\Desktop\Pagella finale\Pagella finale\obj\Debug\Pagella finale.csprojResolveAssemblyReference.cache
+C:\Users\M_inf2.terza\Desktop\Pagella finale\Pagella finale\obj\Debug\Pagella finale.exe
+C:\Users\M_inf2.terza\Desktop\Pagella finale\Pagella finale\obj\Debug\Pagella finale.pdb
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Final Release\Unità 3\Esercizio#6_PagellaFinale\Pagella finale\bin\Debug\Pagella finale.exe.config
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Final Release\Unità 3\Esercizio#6_PagellaFinale\Pagella finale\obj\Debug\Pagella finale.exe
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Final Release\Unità 3\Esercizio#6_PagellaFinale\Pagella finale\obj\Debug\Pagella finale.pdb
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Final Release\Unità 3\Esercizio#6_PagellaFinale\Pagella finale\bin\Debug\Pagella finale.exe
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Final Release\Unità 3\Esercizio#6_PagellaFinale\Pagella finale\bin\Debug\Pagella finale.pdb
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Final Release\Unità 3\Esercizio#6_PagellaFinale\Pagella finale\obj\Debug\Pagella finale.csprojResolveAssemblyReference.cache
+G:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Final Release\Unità 3\Esercizio#6_PagellaFinale\Pagella finale\bin\Debug\Pagella finale.exe.config
+G:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Final Release\Unità 3\Esercizio#6_PagellaFinale\Pagella finale\obj\Debug\Pagella finale.exe
+G:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Final Release\Unità 3\Esercizio#6_PagellaFinale\Pagella finale\obj\Debug\Pagella finale.pdb
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Linguaggio C#\Programmi Final Release\Unità 3\Esercizio#6_PagellaFinale\Pagella finale\bin\Debug\Pagella finale.exe.config
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Linguaggio C#\Programmi Final Release\Unità 3\Esercizio#6_PagellaFinale\Pagella finale\obj\Debug\Pagella finale.exe
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Linguaggio C#\Programmi Final Release\Unità 3\Esercizio#6_PagellaFinale\Pagella finale\obj\Debug\Pagella finale.pdb

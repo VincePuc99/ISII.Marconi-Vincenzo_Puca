@@ -1,0 +1,6 @@
+C:\Users\m_inf2.quarta\Desktop\Poliambulatorio\Poliambulatorio\bin\Debug\Poliambulatorio.exe.config
+C:\Users\m_inf2.quarta\Desktop\Poliambulatorio\Poliambulatorio\bin\Debug\Poliambulatorio.exe
+C:\Users\m_inf2.quarta\Desktop\Poliambulatorio\Poliambulatorio\bin\Debug\Poliambulatorio.pdb
+C:\Users\m_inf2.quarta\Desktop\Poliambulatorio\Poliambulatorio\obj\Debug\Poliambulatorio.csprojResolveAssemblyReference.cache
+C:\Users\m_inf2.quarta\Desktop\Poliambulatorio\Poliambulatorio\obj\Debug\Poliambulatorio.exe
+C:\Users\m_inf2.quarta\Desktop\Poliambulatorio\Poliambulatorio\obj\Debug\Poliambulatorio.pdb

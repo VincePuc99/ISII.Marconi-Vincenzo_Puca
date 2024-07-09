@@ -1,0 +1,9 @@
+C:\Users\M_inf2.terza\Desktop\Morse decoder\Morse decoder\bin\Debug\Morse decoder.exe.config
+C:\Users\M_inf2.terza\Desktop\Morse decoder\Morse decoder\obj\Debug\Morse decoder.csprojResolveAssemblyReference.cache
+C:\Users\M_inf2.terza\Desktop\Morse decoder\Morse decoder\bin\Debug\Morse decoder.exe
+C:\Users\M_inf2.terza\Desktop\Morse decoder\Morse decoder\bin\Debug\Morse decoder.pdb
+C:\Users\M_inf2.terza\Desktop\Morse decoder\Morse decoder\obj\Debug\Morse decoder.exe
+C:\Users\M_inf2.terza\Desktop\Morse decoder\Morse decoder\obj\Debug\Morse decoder.pdb
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Codice morse\Morse decoder\Morse decoder\bin\Debug\Morse decoder.exe.config
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Codice morse\Morse decoder\Morse decoder\obj\Debug\Morse decoder.exe
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Codice morse\Morse decoder\Morse decoder\obj\Debug\Morse decoder.pdb

@@ -1,0 +1,35 @@
+select charindex('qua','Mario Zucchini')
+go
+
+select 'ciao'
+go
+
+select abs(-33)
+go
+
+--se aggiungo un numero tra parentesi metto il seme
+select rand() as [ZioLuigi se hai spazio aggiungi quadra],
+       rand() as ZioGigi,
+	   rand() as ZiaFranca
+	   go
+
+
+declare @cognome as int
+declare @var2 as nvarchar(2)
+
+set @var2=0
+set @var2=@var2+1
+
+select @var2 as Cont
+go
+
+begin --ciò che dichiaro nel ciclo è disponibile anche fuori da esso
+declare @var2 as nvarchar(2)
+set @var2=0
+set @var2=@var2+1
+end
+
+select @var2 as Contciclo
+go
+
+--programma in tsql che dati valori inzio fine di due chiavi trovi la percentuale di valori consecutivi assegnati presenti in tabella

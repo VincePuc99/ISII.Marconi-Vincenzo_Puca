@@ -1,0 +1,12 @@
+C:\Users\Vincenzo\Desktop\Asta\Asta\bin\Debug\Asta.exe.config
+C:\Users\Vincenzo\Desktop\Asta\Asta\bin\Debug\Asta.exe
+C:\Users\Vincenzo\Desktop\Asta\Asta\bin\Debug\Asta.pdb
+C:\Users\Vincenzo\Desktop\Asta\Asta\obj\Debug\Asta.csprojResolveAssemblyReference.cache
+C:\Users\Vincenzo\Desktop\Asta\Asta\obj\Debug\Asta.exe
+C:\Users\Vincenzo\Desktop\Asta\Asta\obj\Debug\Asta.pdb
+E:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Final Release\Unità 1\Esercizio#6_Asta\Asta\bin\Debug\Asta.exe.config
+E:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Final Release\Unità 1\Esercizio#6_Asta\Asta\obj\Debug\Asta.exe
+E:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Final Release\Unità 1\Esercizio#6_Asta\Asta\obj\Debug\Asta.pdb
+E:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Final Release\Unità 1\Esercizio#6_Asta\Asta\bin\Debug\Asta.exe
+E:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Final Release\Unità 1\Esercizio#6_Asta\Asta\bin\Debug\Asta.pdb
+E:\Scuola ISII\Anno 2015-2016\Lezioni Informatica\Laboratorio\Programmi Final Release\Unità 1\Esercizio#6_Asta\Asta\obj\Debug\Asta.csprojResolveAssemblyReference.cache

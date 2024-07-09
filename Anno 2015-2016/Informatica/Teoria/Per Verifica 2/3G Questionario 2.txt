@@ -1,0 +1,9 @@
+-Trace Table= fare una tabella con scritto come variano
+le variabili
+-DateTime
+-TimeSpan
+-String 
+
+
+
+

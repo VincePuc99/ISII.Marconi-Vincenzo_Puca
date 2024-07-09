@@ -1,0 +1,9 @@
+•	Realizzare un algoritmo che consenta di leggere un insieme di temperature nell’arco di una settimana. Per ogni giorno inserire la temperatura minima e il massima. Calcolare la temperatura media del giorno e la media delle minime e delle massime per tutta la settimana.
+•	Si scriva un programma per poter analizzare una sequenza di numeri. Dati N numeri interi letti da tastiera si vogliono calcolare e stampare su schermo se la sequenza dei numeri inseriti è crescente, decrescente oppure né crescente né decrescente. (Suggerimento. Una sequenza è crescente se ogni numero è maggiore del precedente, decrescente se ogni numero è minore del precedente, né crescente né decrescente in tutti gli altri casi).
+•	Trovare i divisori di un numero.
+•	Trovare i divisori comuni di due numeri.
+•	Semplificare una frazione.
+•	Switch : un programma che realizza una calcolatrice a quattro funzioni
+•	For: Letto un numero Quanti da utente stampare i primi Quanti numeri della sequenza di Fibonacci.
+•	For: Stampare la Tavola Pitagorica;
+•	For: Disequazione: Dato un numero reale positivo Y immesso da tastiera, si scriva un programma che determini qual è il massimo numero intero positivo X tale per cui sia valida la relazione XX = Y

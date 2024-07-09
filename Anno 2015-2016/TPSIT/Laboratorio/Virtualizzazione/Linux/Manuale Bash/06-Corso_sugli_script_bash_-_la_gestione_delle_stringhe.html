@@ -1,0 +1,122 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title></title>
+		<meta name='Generator' content='Zim 0.54'>
+		<style type='text/css'>
+			a          { text-decoration: none      }
+			a:hover    { text-decoration: underline }
+			a:active   { text-decoration: underline }
+			strike     { color: grey                }
+			u          { text-decoration: none;
+			             background-color: yellow   }
+			tt         { color: #2e3436;            }
+			pre        { color: #2e3436;
+			             margin-left: 20px          }
+			h1         { text-decoration: underline;
+			             color: #4e9a06             }
+			h2         { color: #4e9a06             }
+			h3         { color: #4e9a06             }
+			h4         { color: #4e9a06             }
+			h5         { color: #4e9a06             }
+			span.insen { color: grey                }
+		</style>
+	</head>
+	<body>
+
+<!-- Header -->
+
+	[ <span class='insen'>Prev</span> ]
+
+			[ <a href='/'>Index</a> ]
+
+	[ <span class='insen'>Next</span> ]
+
+<!-- End Header -->
+
+<hr />
+
+<!-- Wiki content -->
+
+<h1>06-Corso sugli script bash - la gestione delle stringhe</h1>
+
+<p>
+Nel mondo dello sviluppo software una stringa è una sequenza di caratteri alfanumerici.<br>
+Se <strong>A=132</strong> è una variabile di tipo numerico, <strong>B="Pippo2"</strong> è una variabile di tipo alfanumerico che contiene la stringa Pippo2.<br>
+Con il comando <strong>echo "Questo è un messaggio stringa"</strong> mando in output, ovvero visualizzata nel terminale la stringa "Questo è un messaggio stringa"<br>
+</p>
+
+<h5>Caratteri speciali, virgolette semplici e doppie</h5>
+<p>
+<ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)">si usa il carattere speciale "<u>$</u>" per espandere variabili e comandi nell'input di altri comandi (<em>vedi anche prossime parti del corso</em>). Per esempio:</li>
+<ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><strong>echo $USER</strong> ritorna nicola</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><strong>echo Pippa =\&gt; $(ls)</strong> ritorna Pippa =&gt; <em>elenco orizzontale di file e cartelle della cartella corrente sempre separati da uno spazio</em></li>
+</ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)">si usano le parentesi graffe "<u>{}</u>" per espandere una sequenza, una tupla, o applicare una trasformazione ad una variabile. Per esempio:</li>
+<ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><strong>echo {a..e}</strong> ritorna "a b c d e"</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><strong>echo ${Tabe[3]} </strong>ritorna il valore contenuto nella tupla "Tabe" in corrispondenza dell'indice 3</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><strong>Pippa=$(echo {15..19})</strong> carica la variabile Pippa con "15 16 17 18 19"</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><strong>echo n{1,2,3}-xx</strong> ritorna "n1-xx n2-xx n3-xx"</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)">x="Ciao Mondo"; <strong>echo ${x^^}</strong> ritorna la stringa tutta maiuscola "CIAO MONDO"</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)">x="Ciao Mondo"; <strong>echo ${x,,}</strong> ritorna la stringa tutta minuscola "ciao mondo"</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)">x="ciao mondo", <strong>echo ${x^}</strong> ritorna la stringa con solo la prima lettera maiuscola "Ciao mondo"</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)">x="ciao mondo";<strong>echo ${x:0:3</strong>} ritorna i primi 3 caratteri della stringa "cia"</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)">x="ciao mondo";<strong>echo ${x:3:5}</strong> ritorna 5 caratteri a partire dal quarto "o mon"</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)">x="oggi è.il 02.03.2013"; <strong>echo ${#x}</strong> ritorna la lunghezza della stringa ⇒ 20</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)">x="oggi è.il 02.03.2013"; <strong>echo ${x#*.}</strong> elimina tutta la stringa dall'inizio fino alla prima occorrenza di "." ⇒ il 02.03.2013</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)">x="oggi è.il 02.03.2013"; <strong>echo ${x##*.}</strong> elimina tutta la stringa dall'inizio fino all'ultima occorrenza di "." ⇒ 2013</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)">x="oggi è.il 02.03.2013"; <strong>echo ${x%.*}</strong> elimina tutta la stringa dalla fine fino alla prima occorrenza di "." ⇒ oggi è.il 02.03</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)">x="oggi è.il 02.03.2013"; <strong>echo ${x%%.*}</strong> elimina tutta la stringa dalla fine fino all'ultima occorrenza di "." ⇒ oggi è</li>
+</ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)">si usa la barra rovesciata (backslash) "<u>\</u>" per non fa interpretare i caratteri speciali come il "$" o "&gt;" e visualizzarli come gli altri caratteri. Per esempio:</li>
+<ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><strong>echo \$USER</strong>  ritorna $USER</li>
+</ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)">si usano le <u>virgolette semplici</u> per non far interpretare né comandi, né espansioni con i caratteri speciali. </li>
+<ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><strong>echo file ~/Musica/*.txt Pippa =\&gt; $(whoami)</strong> ritorna file /home/nicola/Musica/On_the_Road_Again (Linux).txt Pippa =&gt; nicola</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><strong>echo 'file ~/Musica/*.txt Pippa =\&gt; $(whoami)'</strong> ritorna file ~/Musica/*.txt Pippa =\&gt; $(whoami)</li>
+</ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)">si usano le <u>virgolette doppie</u> per interpretare solo le espansioni con i caratteri speciali, ma non i comandi.</li>
+<ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><strong>echo file ~/Musica/*.txt Pippa =\&gt; $(whoami)</strong> ritorna file /home/nicola/Musica/On_the_Road_Again (Linux).txt Pippa =&gt; nicola</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><strong>echo "file ~/Musica/*.txt Pippa =\&gt; $(whoami)"</strong> ritorna file ~/Musica/*.txt Pippa =\&gt; nicola</li>
+</ul>
+</ul>
+</p>
+
+<h5>Modifica di una stringa</h5>
+<p>
+<ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)">con il comando "<u>tr</u>" si può modificare la forma e il contenuto di una stringa. Ecco alcuni esempi:</li>
+<ul>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>echo "Questo è un messaggio stringa" | tr '[a-z]' ['A-Z']</code>  ⇒ QUESTO <strong>è</strong> UN MESSAGGIO STRINGA</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>echo "Questo è un messaggio stringa" | tr '[a-z,è]' ['A-Z',È]</code> ⇒ QUESTO<strong> È</strong> UN MESSAGGIO STRINGA</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>echo "Questo è un messaggio stringa" | tr 's' '$</code>' ⇒ Que$to è un me$$aggio $tringa</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>echo "Questo è un messaggio stringa" | tr -d 's</code>' ⇒ Queto è un meaggio tringa</li>
+<li style="list-style-image: url(file:///usr/share/zim/pixmaps/unchecked-box.png)"><code>echo "Questo è un messaggio stringa" | tr -s 'g' '*</code>' ⇒ Questo è un messa*io strin*a</li>
+</ul>
+</ul>
+</p>
+
+
+
+
+
+<!-- End wiki content -->
+
+<hr />
+
+<!-- Backlinks -->
+
+	Backlinks:		<a href='../01-Corso_sugli_script_bash_-_impariamo_le_basi_della_programmazione.html'>Note non ancora archiviate:01-Corso sugli script bash - impariamo le basi della programmazione</a>
+
+<!-- End Backlinks -->
+
+	</body>
+
+</html>

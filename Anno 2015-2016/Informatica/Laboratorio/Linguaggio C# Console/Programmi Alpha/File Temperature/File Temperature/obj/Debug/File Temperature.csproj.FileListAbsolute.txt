@@ -1,0 +1,18 @@
+C:\Users\M_INF2.terza\Desktop\File Temperature\File Temperature\bin\Debug\File Temperature.exe.config
+C:\Users\M_INF2.terza\Desktop\File Temperature\File Temperature\bin\Debug\File Temperature.exe
+C:\Users\M_INF2.terza\Desktop\File Temperature\File Temperature\bin\Debug\File Temperature.pdb
+C:\Users\M_INF2.terza\Desktop\File Temperature\File Temperature\obj\Debug\File Temperature.csprojResolveAssemblyReference.cache
+C:\Users\M_INF2.terza\Desktop\File Temperature\File Temperature\obj\Debug\File Temperature.exe
+C:\Users\M_INF2.terza\Desktop\File Temperature\File Temperature\obj\Debug\File Temperature.pdb
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Linguaggio C#\Programmi Alpha\File Temperature\File Temperature\bin\Debug\File Temperature.exe.config
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Linguaggio C#\Programmi Alpha\File Temperature\File Temperature\obj\Debug\File Temperature.exe
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Linguaggio C#\Programmi Alpha\File Temperature\File Temperature\obj\Debug\File Temperature.pdb
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Linguaggio C#\Programmi Alpha\File Temperature\File Temperature\bin\Debug\File Temperature.exe
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Linguaggio C#\Programmi Alpha\File Temperature\File Temperature\bin\Debug\File Temperature.pdb
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Linguaggio C#\Programmi Alpha\File Temperature\File Temperature\obj\Debug\File Temperature.csprojResolveAssemblyReference.cache
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Linguaggio C#\Programmi Alpha\File Temperature\File Temperature\bin\Debug\File Temperature.exe.config
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Linguaggio C#\Programmi Alpha\File Temperature\File Temperature\obj\Debug\File Temperature.exe
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Linguaggio C#\Programmi Alpha\File Temperature\File Temperature\obj\Debug\File Temperature.pdb
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Linguaggio C#\Programmi Alpha\File Temperature\File Temperature\bin\Debug\File Temperature.exe
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Linguaggio C#\Programmi Alpha\File Temperature\File Temperature\bin\Debug\File Temperature.pdb
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Linguaggio C#\Programmi Alpha\File Temperature\File Temperature\obj\Debug\File Temperature.csprojResolveAssemblyReference.cache

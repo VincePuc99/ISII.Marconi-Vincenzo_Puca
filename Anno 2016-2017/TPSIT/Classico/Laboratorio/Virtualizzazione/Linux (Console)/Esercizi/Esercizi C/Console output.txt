@@ -1,0 +1,249 @@
+studente@studente-virtual-machine:~$ nano
+studente@studente-virtual-machine:~$ ls -l
+totale 176
+-rw-r--r-- 1 studente studente   46 ott  7 11:24 allievi
+-rw-r--r-- 1 studente studente   41 ott  7 11:28 allievi2
+-rw-r--r-- 1 studente studente    5 ott 13 08:10 app
+-rw-r--r-- 1 studente studente 1323 dic  2  2014 bertoli.c
+-rw-r--r-- 1 studente studente 1323 dic  2  2014 catelli.c
+drwxr-xr-x 2 studente studente 4096 ott  7 12:04 ciao
+-rw-r--r-- 1 studente studente   27 ott  7 11:39 Cognomi
+-rw-r--r-- 1 studente studente   28 ott  7 11:42 cognomi23
+-rw-r--r-- 1 studente studente   31 ott  7 11:43 cognomi23aa
+drwxr-xr-x 2 studente studente 4096 set 30 12:15 dir1
+drwxr-xr-x 2 studente studente 4096 feb 20  2014 Documenti
+-rw-r--r-- 1 studente studente   57 set 30 12:10 elenco
+-rwxr-xr-x 1 studente studente 7376 nov 12  2014 es2
+-rw-r--r-- 1 studente studente  522 nov 12  2014 es2.c
+-rwxr-xr-x 1 studente studente 7446 dic  2  2014 es3
+----r--r-- 1 studente studente  302 nov 12  2014 es3.c
+-rwxr-xr-x 1 studente studente 7521 nov 12  2014 es4
+-rw-r--r-- 1 studente studente  663 nov 12  2014 es4.c
+-rwxr-xr-x 1 studente studente 7486 dic  2  2014 es5
+-rw-r--r-- 1 studente studente  171 dic  2  2014 es5.c
+-rw-r--r-- 1 studente studente  136 dic  2  2014 es.c
+-rwxr-xr-x 1 studente studente 7417 dic  2  2014 famiglia
+-rw-r--r-- 1 studente studente  310 dic  2  2014 famiglia.c
+-rw-r--r-- 1 studente studente    5 set 30 12:19 file
+-rw-r--r-- 1 studente studente   15 set 30 12:16 file dir1
+drwxr-xr-x 2 studente studente 4096 feb 20  2014 Immagini
+drwxr-xr-x 2 studente studente 4096 feb 20  2014 Modelli
+drwxr-xr-x 2 studente studente 4096 set 30 11:56 Musica
+-rw-r--r-- 1 studente studente   31 ott  7 11:38 Nomi
+-rw-r--r-- 1 studente studente   48 ott  7 11:45 nomi22
+-rw-r--r-- 1 studente studente   31 ott  7 11:41 nomi23
+-rw-r--r-- 1 studente studente   26 ott  7 11:55 numeri
+-rw-r--r-- 1 studente studente   48 set 30 12:06 prova
+drwxr-xr-x 2 studente studente 4096 feb 20  2014 Pubblici
+drwxr-xr-x 2 studente studente 4096 feb 20  2014 Scaricati
+drwxr-xr-x 2 studente studente 4096 feb 20  2014 Scrivania
+drwxr-xr-x 2 studente studente 4096 feb 20  2014 Video
+-rw-r--r-- 1 studente studente   29 ott  7 11:45 xaa
+-rw-r--r-- 1 studente studente   19 ott  7 11:45 xab
+studente@studente-virtual-machine:~$ cat app
+ciao
+studente@studente-virtual-machine:~$ nano
+studente@studente-virtual-machine:~$ gcc -o ciao ciao.c
+gcc: error: ciao.c: File o directory non esistente
+gcc: fatal error: no input files
+compilation terminated.
+studente@studente-virtual-machine:~$ nano
+studente@studente-virtual-machine:~$ gcc -o ciao ciao.c
+ciao.c:1:1: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ at end of input
+ ciao
+ ^
+studente@studente-virtual-machine:~$ ls -l
+totale 180
+-rw-r--r-- 1 studente studente   46 ott  7 11:24 allievi
+-rw-r--r-- 1 studente studente   41 ott  7 11:28 allievi2
+-rw-r--r-- 1 studente studente    5 ott 13 08:10 app
+-rw-r--r-- 1 studente studente 1323 dic  2  2014 bertoli.c
+-rw-r--r-- 1 studente studente 1323 dic  2  2014 catelli.c
+drwxr-xr-x 2 studente studente 4096 ott  7 12:04 ciao
+-rw-r--r-- 1 studente studente    5 ott 13 08:18 ciao.c
+-rw-r--r-- 1 studente studente   27 ott  7 11:39 Cognomi
+-rw-r--r-- 1 studente studente   28 ott  7 11:42 cognomi23
+-rw-r--r-- 1 studente studente   31 ott  7 11:43 cognomi23aa
+drwxr-xr-x 2 studente studente 4096 set 30 12:15 dir1
+drwxr-xr-x 2 studente studente 4096 feb 20  2014 Documenti
+-rw-r--r-- 1 studente studente   57 set 30 12:10 elenco
+-rwxr-xr-x 1 studente studente 7376 nov 12  2014 es2
+-rw-r--r-- 1 studente studente  522 nov 12  2014 es2.c
+-rwxr-xr-x 1 studente studente 7446 dic  2  2014 es3
+----r--r-- 1 studente studente  302 nov 12  2014 es3.c
+-rwxr-xr-x 1 studente studente 7521 nov 12  2014 es4
+-rw-r--r-- 1 studente studente  663 nov 12  2014 es4.c
+-rwxr-xr-x 1 studente studente 7486 dic  2  2014 es5
+-rw-r--r-- 1 studente studente  171 dic  2  2014 es5.c
+-rw-r--r-- 1 studente studente  136 dic  2  2014 es.c
+-rwxr-xr-x 1 studente studente 7417 dic  2  2014 famiglia
+-rw-r--r-- 1 studente studente  310 dic  2  2014 famiglia.c
+-rw-r--r-- 1 studente studente    5 set 30 12:19 file
+-rw-r--r-- 1 studente studente   15 set 30 12:16 file dir1
+drwxr-xr-x 2 studente studente 4096 feb 20  2014 Immagini
+drwxr-xr-x 2 studente studente 4096 feb 20  2014 Modelli
+drwxr-xr-x 2 studente studente 4096 set 30 11:56 Musica
+-rw-r--r-- 1 studente studente   31 ott  7 11:38 Nomi
+-rw-r--r-- 1 studente studente   48 ott  7 11:45 nomi22
+-rw-r--r-- 1 studente studente   31 ott  7 11:41 nomi23
+-rw-r--r-- 1 studente studente   26 ott  7 11:55 numeri
+-rw-r--r-- 1 studente studente   48 set 30 12:06 prova
+drwxr-xr-x 2 studente studente 4096 feb 20  2014 Pubblici
+drwxr-xr-x 2 studente studente 4096 feb 20  2014 Scaricati
+drwxr-xr-x 2 studente studente 4096 feb 20  2014 Scrivania
+drwxr-xr-x 2 studente studente 4096 feb 20  2014 Video
+-rw-r--r-- 1 studente studente   29 ott  7 11:45 xaa
+-rw-r--r-- 1 studente studente   19 ott  7 11:45 xab
+studente@studente-virtual-machine:~$ nano
+studente@studente-virtual-machine:~$ gcc -o ciao ciao.c
+ciao.c: In function ‘main’:
+ciao.c:7:7: error: expected expression before ‘=’ token
+ return=0;
+       ^
+studente@studente-virtual-machine:~$ nano
+studente@studente-virtual-machine:~$ ciao
+Comando "ciao" non trovato. Forse si intendeva:
+ Comando "ciso" dal pacchetto "ciso" (universe)
+ciao: comando non trovato
+studente@studente-virtual-machine:~$ nano ciao.c
+studente@studente-virtual-machine:~$ gcc -o ciao ciao.c
+/usr/bin/ld: impossibile aprire il file di output ciao: È una directory
+collect2: error: ld returned 1 exit status
+studente@studente-virtual-machine:~$ ls -l
+totale 180
+-rw-r--r-- 1 studente studente   46 ott  7 11:24 allievi
+-rw-r--r-- 1 studente studente   41 ott  7 11:28 allievi2
+-rw-r--r-- 1 studente studente    5 ott 13 08:10 app
+-rw-r--r-- 1 studente studente 1323 dic  2  2014 bertoli.c
+-rw-r--r-- 1 studente studente 1323 dic  2  2014 catelli.c
+drwxr-xr-x 2 studente studente 4096 ott  7 12:04 ciao
+-rw-r--r-- 1 studente studente   67 ott 13 08:22 ciao.c
+-rw-r--r-- 1 studente studente   27 ott  7 11:39 Cognomi
+-rw-r--r-- 1 studente studente   28 ott  7 11:42 cognomi23
+-rw-r--r-- 1 studente studente   31 ott  7 11:43 cognomi23aa
+drwxr-xr-x 2 studente studente 4096 set 30 12:15 dir1
+drwxr-xr-x 2 studente studente 4096 feb 20  2014 Documenti
+-rw-r--r-- 1 studente studente   57 set 30 12:10 elenco
+-rwxr-xr-x 1 studente studente 7376 nov 12  2014 es2
+-rw-r--r-- 1 studente studente  522 nov 12  2014 es2.c
+-rwxr-xr-x 1 studente studente 7446 dic  2  2014 es3
+----r--r-- 1 studente studente  302 nov 12  2014 es3.c
+-rwxr-xr-x 1 studente studente 7521 nov 12  2014 es4
+-rw-r--r-- 1 studente studente  663 nov 12  2014 es4.c
+-rwxr-xr-x 1 studente studente 7486 dic  2  2014 es5
+-rw-r--r-- 1 studente studente  171 dic  2  2014 es5.c
+-rw-r--r-- 1 studente studente  136 dic  2  2014 es.c
+-rwxr-xr-x 1 studente studente 7417 dic  2  2014 famiglia
+-rw-r--r-- 1 studente studente  310 dic  2  2014 famiglia.c
+-rw-r--r-- 1 studente studente    5 set 30 12:19 file
+-rw-r--r-- 1 studente studente   15 set 30 12:16 file dir1
+drwxr-xr-x 2 studente studente 4096 feb 20  2014 Immagini
+drwxr-xr-x 2 studente studente 4096 feb 20  2014 Modelli
+drwxr-xr-x 2 studente studente 4096 set 30 11:56 Musica
+-rw-r--r-- 1 studente studente   31 ott  7 11:38 Nomi
+-rw-r--r-- 1 studente studente   48 ott  7 11:45 nomi22
+-rw-r--r-- 1 studente studente   31 ott  7 11:41 nomi23
+-rw-r--r-- 1 studente studente   26 ott  7 11:55 numeri
+-rw-r--r-- 1 studente studente   48 set 30 12:06 prova
+drwxr-xr-x 2 studente studente 4096 feb 20  2014 Pubblici
+drwxr-xr-x 2 studente studente 4096 feb 20  2014 Scaricati
+drwxr-xr-x 2 studente studente 4096 feb 20  2014 Scrivania
+drwxr-xr-x 2 studente studente 4096 feb 20  2014 Video
+-rw-r--r-- 1 studente studente   29 ott  7 11:45 xaa
+-rw-r--r-- 1 studente studente   19 ott  7 11:45 xab
+studente@studente-virtual-machine:~$ cd 
+studente@studente-virtual-machine:~$ dir
+allievi    catelli.c  cognomi23    elenco  es3.c  es5.c       file        Musica  numeri     Scrivania
+allievi2   ciao       cognomi23aa  es2     es4    es.c        file\ dir1  Nomi    prova      Video
+app        ciao.c     dir1         es2.c   es4.c  famiglia    Immagini    nomi22  Pubblici   xaa
+bertoli.c  Cognomi    Documenti    es3     es5    famiglia.c  Modelli     nomi23  Scaricati  xab
+studente@studente-virtual-machine:~$ pwd
+/home/studente
+studente@studente-virtual-machine:~$ gcc -o prova ciao.c
+studente@studente-virtual-machine:~$ prova
+Comando "prova" non trovato. Forse si intendeva:
+ Comando "proda" dal pacchetto "proda" (universe)
+ Comando "prove" dal pacchetto "libtest-harness-perl" (universe)
+ Comando "prove" dal pacchetto "perl" (main)
+prova: comando non trovato
+studente@studente-virtual-machine:~$ ./prova
+Ciao 
+studente@studente-virtual-machine:~$ nano ciao.c
+studente@studente-virtual-machine:~$ gcc -o prova ciao.c
+studente@studente-virtual-machine:~$ ./prova
+Ciao 
+studente@studente-virtual-machine:~$ Ciao 
+^C
+studente@studente-virtual-machine:~$ nano ciao.c
+studente@studente-virtual-machine:~$ gcc -o prova ciao.c
+studente@studente-virtual-machine:~$ ./prova
+Ciao 
+Come 
+Va 
+Ciao 
+Come 
+Come 
+studente@studente-virtual-machine:~$ Va 
+Va 
+Va 
+Va 
+Va 
+Come 
+Va 
+Va 
+^C
+studente@studente-virtual-machine:~$ ./prova
+Ciao 
+Come 
+Va 
+studente@studente-virtual-machine:~$ Ciao 
+Come 
+Va 
+Va 
+Come 
+Va 
+Va 
+Come 
+Va 
+Va 
+Va 
+^C
+studente@studente-virtual-machine:~$ nano
+studente@studente-virtual-machine:~$ nano padrefiglio.c
+studente@studente-virtual-machine:~$ gcc -o prova1 padrefiglio.c
+studente@studente-virtual-machine:~$ ./prova1
+sono il padre 
+ho aspettato 
+studente@studente-virtual-machine:~$ nano fork.c
+studente@studente-virtual-machine:~$ gcc -o prova2 fork.c
+fork.c: In function ‘main’:
+fork.c:6:6: error: expected ‘;’ before ‘fork’
+      fork();
+      ^
+studente@studente-virtual-machine:~$ nano fork.c
+studente@studente-virtual-machine:~$ gcc -o prova2 fork.c
+fork.c: In function ‘main’:
+fork.c:6:6: error: expected ‘;’ before ‘fork’
+      fork();
+      ^
+studente@studente-virtual-machine:~$ nano fork.c
+studente@studente-virtual-machine:~$ gcc -o prova2 fork.c
+studente@studente-virtual-machine:~$ ./prova2
+ciao mondo 
+studente@studente-virtual-machine:~$ nano fork.c
+studente@studente-virtual-machine:~$ gcc -o prova2 fork.c
+studente@studente-virtual-machine:~$ ./prova2
+ciao mondo 
+studente@studente-virtual-machine:~$ ciao mondo 
+ciao mondo 
+ciao mondo 
+^C
+studente@studente-virtual-machine:~$ nano fork.c
+studente@studente-virtual-machine:~$ gcc -o prova2 fork.c
+studente@studente-virtual-machine:~$ ./prova2
+ciao mondo 
+ciao mondo 
+studente@studente-virtual-machine:~$ ciao mondo 
+ciao mondo 
+ciao mondo 
+

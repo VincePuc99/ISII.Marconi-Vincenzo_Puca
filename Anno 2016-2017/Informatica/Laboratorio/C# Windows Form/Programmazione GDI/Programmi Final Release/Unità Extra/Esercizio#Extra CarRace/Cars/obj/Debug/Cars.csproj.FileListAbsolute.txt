@@ -1,0 +1,8 @@
+C:\Users\Vincenzo\Desktop\CarRace\Cars\bin\Debug\CarRace.exe
+C:\Users\Vincenzo\Desktop\CarRace\Cars\bin\Debug\CarRace.pdb
+C:\Users\Vincenzo\Desktop\CarRace\Cars\obj\Debug\Cars.csprojResolveAssemblyReference.cache
+C:\Users\Vincenzo\Desktop\CarRace\Cars\obj\Debug\CarRace.MainForm.resources
+C:\Users\Vincenzo\Desktop\CarRace\Cars\obj\Debug\CarRace.Properties.Resources.resources
+C:\Users\Vincenzo\Desktop\CarRace\Cars\obj\Debug\Cars.csproj.GenerateResource.Cache
+C:\Users\Vincenzo\Desktop\CarRace\Cars\obj\Debug\CarRace.exe
+C:\Users\Vincenzo\Desktop\CarRace\Cars\obj\Debug\CarRace.pdb

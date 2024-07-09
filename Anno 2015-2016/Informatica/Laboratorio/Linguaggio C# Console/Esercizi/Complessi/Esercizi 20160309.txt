@@ -1,0 +1,11 @@
+•	Dato un array di interi scrivere un programma per sommare tutti gli elementi che sono contemporaneamente multipli di 2 e di 3.
+•	Array: Gioco del Settemmezzo
+•	Dato un array di interi scrivere un programma per verificare se contiene almeno tre elementi consecutivi che valgono k.
+•	Dato un array di interi myArr scrivere un programma per verificare se gli elementi in posizio
+ne pari sono pari e quelli in posizione dispari sono dispari.
+•	Dato un array di caratteri myChar scrivere un programma per verificare se contiene un’alternanza di ‘a’ e ‘b’
+•	Dato un array di interi scrivere programma per verificare se gli elementi seguono l’ordine crescente.
+•	Array: Dato in input n multiplo di 10 (controllare), simulare n estrazioni di una carta da un mazzo di 52 carte; calcolare la percentuale per i diversi semi e di figure estratte. La carta estratta non viene rimessa nel mazzo.
+•	Data una matrice di dimensioni scelte dall'utente, assegna ad ogni suo elemento 1 se la somma degli indici dell'elemento è pari o 0 se la somma degli indici dell'elemento è dispari.
+•	Scrivere un programma che dati un array myArr e un numero k, determini l'elemento di myArr più prossimo a k. I valori dell'array sono generati casualmente
+•	Dati due array di interi A e B (di dimensioni non necessariamente uguali) scrivere un programma per verificare se tutti i valori di B appaiono in A.

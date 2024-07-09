@@ -1,0 +1,15 @@
+C:\Users\m_inf2.quarta\Desktop\Diplomati\Diplomati\bin\Debug\Diplomati.exe.config
+C:\Users\m_inf2.quarta\Desktop\Diplomati\Diplomati\bin\Debug\Diplomati.exe
+C:\Users\m_inf2.quarta\Desktop\Diplomati\Diplomati\bin\Debug\Diplomati.pdb
+C:\Users\m_inf2.quarta\Desktop\Diplomati\Diplomati\obj\Debug\Diplomati.csprojResolveAssemblyReference.cache
+C:\Users\m_inf2.quarta\Desktop\Diplomati\Diplomati\obj\Debug\Diplomati.exe
+C:\Users\m_inf2.quarta\Desktop\Diplomati\Diplomati\obj\Debug\Diplomati.pdb
+F:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Linguaggio C#\Programmi Alpha\Diplomati\Diplomati\bin\Debug\Diplomati.exe.config
+F:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Linguaggio C#\Programmi Alpha\Diplomati\Diplomati\obj\Debug\Diplomati.exe
+F:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Linguaggio C#\Programmi Alpha\Diplomati\Diplomati\obj\Debug\Diplomati.pdb
+F:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Linguaggio C#\Programmi Alpha\Diplomati\Diplomati\bin\Debug\Diplomati.exe
+F:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Linguaggio C#\Programmi Alpha\Diplomati\Diplomati\bin\Debug\Diplomati.pdb
+F:\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Linguaggio C#\Programmi Alpha\Diplomati\Diplomati\obj\Debug\Diplomati.csprojResolveAssemblyReference.cache
+E:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Linguaggio C#\Programmi Alpha\Diplomati\Diplomati\bin\Debug\Diplomati.exe.config
+E:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Linguaggio C#\Programmi Alpha\Diplomati\Diplomati\obj\Debug\Diplomati.exe
+E:\Documenti\Scuola ISII\Anno 2016-2017\Informatica\Laboratorio\Linguaggio C#\Programmi Alpha\Diplomati\Diplomati\obj\Debug\Diplomati.pdb

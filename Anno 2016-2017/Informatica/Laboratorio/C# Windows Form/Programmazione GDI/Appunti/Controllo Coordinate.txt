@@ -1,0 +1,38 @@
+~Dichiarare tutto nella classe "public partial class Frmmain : Form"
+
+        private TextBox txtX = new TextBox();
+        private TextBox txtY = new TextBox();
+
+        void CoordinateCrea()
+        {              
+                txtX.Size = new Size(24, 20);
+                txtX.Location = new Point(0, 0);
+                txtX.ReadOnly = true;
+                txtX.Enabled = false;
+                this.Controls.Add(txtX);
+           
+                txtY.Size = new Size(24, 20);
+                txtY.Location = new Point(25, 0);
+                txtY.ReadOnly = true;
+                txtY.Enabled = false;
+                this.Controls.Add(txtY);
+        }
+
+        void CoordinateUsa(MouseEventArgs e)
+        {
+            txtX.Text = "" + e.X;
+            txtY.Text = "" + e.Y;
+        }
+
+~Inserire nel metodo "public Frmmain()"
+
+CoordinateCrea();
+
+~Inserire nel metodo scelto (MouseMove Consigliato)
+
+CoordinateUsa(e);
+
+NOTA:
+Se vi dà errore "e" vuol dire che non potete usare il mouse
+nel metodo scelto, deve esserci "MouseEventArgs e" nel metodo
+scelto per poter avere le coordinate del mouse al click.

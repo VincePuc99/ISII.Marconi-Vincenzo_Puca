@@ -1,0 +1,6 @@
+C:\Users\Vincenzo\Desktop\Diplomati\Diplomati\bin\Debug\Diplomati.exe.config
+C:\Users\Vincenzo\Desktop\Diplomati\Diplomati\bin\Debug\Diplomati.exe
+C:\Users\Vincenzo\Desktop\Diplomati\Diplomati\bin\Debug\Diplomati.pdb
+C:\Users\Vincenzo\Desktop\Diplomati\Diplomati\obj\Debug\Diplomati.csprojResolveAssemblyReference.cache
+C:\Users\Vincenzo\Desktop\Diplomati\Diplomati\obj\Debug\Diplomati.exe
+C:\Users\Vincenzo\Desktop\Diplomati\Diplomati\obj\Debug\Diplomati.pdb

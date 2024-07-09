@@ -1,0 +1,9 @@
+C:\Users\m_inf2.quarta\Desktop\Slideshow\Slideshow\bin\Debug\Slideshow.exe.config
+C:\Users\m_inf2.quarta\Desktop\Slideshow\Slideshow\bin\Debug\Slideshow.exe
+C:\Users\m_inf2.quarta\Desktop\Slideshow\Slideshow\bin\Debug\Slideshow.pdb
+C:\Users\m_inf2.quarta\Desktop\Slideshow\Slideshow\obj\Debug\Slideshow.csprojResolveAssemblyReference.cache
+C:\Users\m_inf2.quarta\Desktop\Slideshow\Slideshow\obj\Debug\Slideshow.frmMain.resources
+C:\Users\m_inf2.quarta\Desktop\Slideshow\Slideshow\obj\Debug\Slideshow.Properties.Resources.resources
+C:\Users\m_inf2.quarta\Desktop\Slideshow\Slideshow\obj\Debug\Slideshow.csproj.GenerateResource.Cache
+C:\Users\m_inf2.quarta\Desktop\Slideshow\Slideshow\obj\Debug\Slideshow.exe
+C:\Users\m_inf2.quarta\Desktop\Slideshow\Slideshow\obj\Debug\Slideshow.pdb

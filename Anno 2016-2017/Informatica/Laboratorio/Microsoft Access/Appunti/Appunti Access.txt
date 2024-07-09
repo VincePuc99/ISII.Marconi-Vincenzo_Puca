@@ -1,0 +1,23 @@
+Operatori Logici
+=
+<> Diverso
+>=
+<=
+<
+> 
+AND
+OR
+NOT
+
+<> escludi
+=" " includi stringhe
+
+#data# inserire una data 1/1/1
+? un solo char
+##xyz vengono presi 2 numeri
+* tutti i caratteri
+
+mi [a e] mia mie
+mi [!ae] mi+tutti gli ascii tranne ae
+mi [1-5] mi1 mi2 mi3 mi4 mi5
+mi? qualsiasi char

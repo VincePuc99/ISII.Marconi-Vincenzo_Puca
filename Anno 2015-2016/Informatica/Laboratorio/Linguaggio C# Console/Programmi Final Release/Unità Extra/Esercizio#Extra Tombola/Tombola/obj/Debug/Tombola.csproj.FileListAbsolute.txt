@@ -1,0 +1,24 @@
+C:\Users\M_inf2.terza\Desktop\Tombola\Tombola\bin\Debug\Tombola.exe.config
+C:\Users\M_inf2.terza\Desktop\Tombola\Tombola\bin\Debug\Tombola.exe
+C:\Users\M_inf2.terza\Desktop\Tombola\Tombola\bin\Debug\Tombola.pdb
+C:\Users\M_inf2.terza\Desktop\Tombola\Tombola\obj\Debug\Tombola.csprojResolveAssemblyReference.cache
+C:\Users\M_inf2.terza\Desktop\Tombola\Tombola\obj\Debug\Tombola.exe
+C:\Users\M_inf2.terza\Desktop\Tombola\Tombola\obj\Debug\Tombola.pdb
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Tombola\Tombola\bin\Debug\Tombola.exe.config
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Tombola\Tombola\obj\Debug\Tombola.exe
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Tombola\Tombola\obj\Debug\Tombola.pdb
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Tombola\Tombola\bin\Debug\Tombola.exe.config
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Tombola\Tombola\obj\Debug\Tombola.exe
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Tombola\Tombola\obj\Debug\Tombola.pdb
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Tombola\Tombola\bin\Debug\Tombola.exe
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Tombola\Tombola\bin\Debug\Tombola.pdb
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Alpha\Tombola\Tombola\obj\Debug\Tombola.csprojResolveAssemblyReference.cache
+Z:\Informatica\Gruppo12\Programmi Alpha\Tombola\Tombola\bin\Debug\Tombola.exe.config
+Z:\Informatica\Gruppo12\Programmi Alpha\Tombola\Tombola\obj\Debug\Tombola.exe
+Z:\Informatica\Gruppo12\Programmi Alpha\Tombola\Tombola\obj\Debug\Tombola.pdb
+Z:\Informatica\Gruppo12\Programmi Alpha\Tombola\Tombola\bin\Debug\Tombola.exe
+Z:\Informatica\Gruppo12\Programmi Alpha\Tombola\Tombola\bin\Debug\Tombola.pdb
+Z:\Informatica\Gruppo12\Programmi Alpha\Tombola\Tombola\obj\Debug\Tombola.csprojResolveAssemblyReference.cache
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Final Release\Unità Extra\Esercizio#Extra Tombola\Tombola\bin\Debug\Tombola.exe.config
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Final Release\Unità Extra\Esercizio#Extra Tombola\Tombola\obj\Debug\Tombola.exe
+F:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Final Release\Unità Extra\Esercizio#Extra Tombola\Tombola\obj\Debug\Tombola.pdb

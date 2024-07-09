@@ -1,0 +1,6 @@
+StreamReader e StreamWriter
+File e Directory
+Gestione delle eccezioni
+StringBuilder
+
+

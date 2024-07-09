@@ -1,0 +1,4 @@
+Il pannello superiore è l'elemento grafico che ci tiene aggiornati
+sullo stato del sistema e visualizza avvisi di ogni tipo (per es.
+un mail in arrivo), mediante gli indicatori sulla parte destra.
+La parte sinistra invece è riservata al menu globale delle applicazioni.

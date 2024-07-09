@@ -1,0 +1,63 @@
+#include<stdio.h>
+#include<stdlib.h>
+#include<wait.h>
+
+int main(int argc, char *argv[])
+{
+
+  int pid,pid1,pid2;
+  int st,st1,st2;
+  rand(time(NULL));
+
+  pid = fork();
+  if(pid>0)
+  {
+   pid1=fork();
+    if(pid1>0)
+    {
+     pid2=fork();
+
+     if(pid2>0)
+     {
+     pid = wait(&st);
+     pid1 = wait(&st1);
+     pid2 = wait(&st2);
+
+     if(pid < pid1 && pid < pid2 && st/256 < st1/256 && st/256 < st2/256) //azienda 1 vince
+     {
+      printf("Azienda 1 vince");
+     }
+
+     if(pid1 < pid && pid1 < pid2 && st1/256 < st/256 && st1/256 < st2/256) //azienda 2 vince
+     {
+      printf("Azienda 2 vince");
+     }
+
+     if(pid2 < pid1 && pid2 < pid && st2/256 < st1/256 && st2/256 < st/256) //azienda 3 vince
+     {
+      printf("Azienda 3 vince");
+     }
+
+     }
+     else //azienda 3
+     {
+     int preventivo;
+     preventivo = srand()%10;
+     exit(preventivo);
+     }
+    }
+    else //azienda 2
+    {
+    int preventivo;
+    preventivo = srand()%10;
+    exit(preventivo);
+    }
+  }
+  else //azienda 1
+  {
+  int preventivo;
+  preventivo = srand()%10;
+  exit(preventivo);
+  }
+  exit(0);
+}//fine main

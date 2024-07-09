@@ -1,0 +1,9 @@
+C:\Users\M_inf2.terza\Desktop\Prova\Prova\bin\Debug\Prova.exe.config
+C:\Users\M_inf2.terza\Desktop\Prova\Prova\bin\Debug\Prova.exe
+C:\Users\M_inf2.terza\Desktop\Prova\Prova\bin\Debug\Prova.pdb
+C:\Users\M_inf2.terza\Desktop\Prova\Prova\obj\Debug\Prova.csprojResolveAssemblyReference.cache
+C:\Users\M_inf2.terza\Desktop\Prova\Prova\obj\Debug\Prova.exe
+C:\Users\M_inf2.terza\Desktop\Prova\Prova\obj\Debug\Prova.pdb
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Final Release\Unità Extra\Esercizio#Extra Orologio\Prova\bin\Debug\Prova.exe.config
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Final Release\Unità Extra\Esercizio#Extra Orologio\Prova\obj\Debug\Prova.exe
+E:\Scuola ISII\Anno 2015-2016\Informatica\Laboratorio\Programmi Final Release\Unità Extra\Esercizio#Extra Orologio\Prova\obj\Debug\Prova.pdb

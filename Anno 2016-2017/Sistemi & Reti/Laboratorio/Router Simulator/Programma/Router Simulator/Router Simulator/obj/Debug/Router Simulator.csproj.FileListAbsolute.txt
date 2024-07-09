@@ -1,0 +1,83 @@
+C:\Users\Vincenzo\Desktop\Router Simulator\Router Simulator\bin\Debug\Router Simulator.exe.config
+C:\Users\Vincenzo\Desktop\Router Simulator\Router Simulator\bin\Debug\Router Simulator.exe
+C:\Users\Vincenzo\Desktop\Router Simulator\Router Simulator\bin\Debug\Router Simulator.pdb
+C:\Users\Vincenzo\Desktop\Router Simulator\Router Simulator\obj\Debug\Router Simulator.csprojResolveAssemblyReference.cache
+C:\Users\Vincenzo\Desktop\Router Simulator\Router Simulator\obj\Debug\Router_Simulator.frmmain.resources
+C:\Users\Vincenzo\Desktop\Router Simulator\Router Simulator\obj\Debug\Router_Simulator.Properties.Resources.resources
+C:\Users\Vincenzo\Desktop\Router Simulator\Router Simulator\obj\Debug\Router Simulator.csproj.GenerateResource.Cache
+C:\Users\Vincenzo\Desktop\Router Simulator\Router Simulator\obj\Debug\Router Simulator.exe
+C:\Users\Vincenzo\Desktop\Router Simulator\Router Simulator\obj\Debug\Router Simulator.pdb
+C:\Users\Vincenzo\Desktop\Router Simulator\Router Simulator\obj\Debug\Router_Simulator.frmLegenda.resources
+E:\Scuola ISII\Anno 2016-2017\Sistemi & Reti\Laboratorio\Router Simulator\Programma Alpha\Router Simulator\Router Simulator\bin\Debug\Router Simulator.exe.config
+E:\Scuola ISII\Anno 2016-2017\Sistemi & Reti\Laboratorio\Router Simulator\Programma Alpha\Router Simulator\Router Simulator\obj\Debug\Router Simulator.exe
+E:\Scuola ISII\Anno 2016-2017\Sistemi & Reti\Laboratorio\Router Simulator\Programma Alpha\Router Simulator\Router Simulator\obj\Debug\Router Simulator.pdb
+E:\Scuola ISII\Anno 2016-2017\Sistemi & Reti\Laboratorio\Router Simulator\Programma Alpha\Router Simulator\Router Simulator\bin\Debug\Router Simulator.exe
+E:\Scuola ISII\Anno 2016-2017\Sistemi & Reti\Laboratorio\Router Simulator\Programma Alpha\Router Simulator\Router Simulator\bin\Debug\Router Simulator.pdb
+E:\Scuola ISII\Anno 2016-2017\Sistemi & Reti\Laboratorio\Router Simulator\Programma Alpha\Router Simulator\Router Simulator\obj\Debug\Router Simulator.csprojResolveAssemblyReference.cache
+E:\Scuola ISII\Anno 2016-2017\Sistemi & Reti\Laboratorio\Router Simulator\Programma Alpha\Router Simulator\Router Simulator\obj\Debug\Router_Simulator.frmmain.resources
+E:\Scuola ISII\Anno 2016-2017\Sistemi & Reti\Laboratorio\Router Simulator\Programma Alpha\Router Simulator\Router Simulator\obj\Debug\Router_Simulator.frmLegenda.resources
+E:\Scuola ISII\Anno 2016-2017\Sistemi & Reti\Laboratorio\Router Simulator\Programma Alpha\Router Simulator\Router Simulator\obj\Debug\Router_Simulator.Properties.Resources.resources
+E:\Scuola ISII\Anno 2016-2017\Sistemi & Reti\Laboratorio\Router Simulator\Programma Alpha\Router Simulator\Router Simulator\obj\Debug\Router Simulator.csproj.GenerateResource.Cache
+E:\Scuola ISII\Anno 2016-2017\Sistemi & Reti\Laboratorio\Router Simulator\Programma\Router Simulator\Router Simulator\bin\Debug\Router Simulator.exe.config
+E:\Scuola ISII\Anno 2016-2017\Sistemi & Reti\Laboratorio\Router Simulator\Programma\Router Simulator\Router Simulator\obj\Debug\Router Simulator.exe
+E:\Scuola ISII\Anno 2016-2017\Sistemi & Reti\Laboratorio\Router Simulator\Programma\Router Simulator\Router Simulator\obj\Debug\Router Simulator.pdb
+E:\Scuola ISII\Anno 2016-2017\Sistemi & Reti\Laboratorio\Router Simulator\Programma\Router Simulator\Router Simulator\bin\Debug\Router Simulator.exe
+E:\Scuola ISII\Anno 2016-2017\Sistemi & Reti\Laboratorio\Router Simulator\Programma\Router Simulator\Router Simulator\bin\Debug\Router Simulator.pdb
+E:\Scuola ISII\Anno 2016-2017\Sistemi & Reti\Laboratorio\Router Simulator\Programma\Router Simulator\Router Simulator\obj\Debug\Router Simulator.csprojResolveAssemblyReference.cache
+E:\Scuola ISII\Anno 2016-2017\Sistemi & Reti\Laboratorio\Router Simulator\Programma\Router Simulator\Router Simulator\obj\Debug\Router_Simulator.frmmain.resources
+E:\Scuola ISII\Anno 2016-2017\Sistemi & Reti\Laboratorio\Router Simulator\Programma\Router Simulator\Router Simulator\obj\Debug\Router_Simulator.frmLegenda.resources
+E:\Scuola ISII\Anno 2016-2017\Sistemi & Reti\Laboratorio\Router Simulator\Programma\Router Simulator\Router Simulator\obj\Debug\Router_Simulator.Properties.Resources.resources
+E:\Scuola ISII\Anno 2016-2017\Sistemi & Reti\Laboratorio\Router Simulator\Programma\Router Simulator\Router Simulator\obj\Debug\Router Simulator.csproj.GenerateResource.Cache
+F:\Scuola ISII\Anno 2016-2017\Sistemi & Reti\Laboratorio\Router Simulator\Programma\Router Simulator\Router Simulator\bin\Debug\Router Simulator.exe.config
+F:\Scuola ISII\Anno 2016-2017\Sistemi & Reti\Laboratorio\Router Simulator\Programma\Router Simulator\Router Simulator\obj\Debug\Router Simulator.exe
+F:\Scuola ISII\Anno 2016-2017\Sistemi & Reti\Laboratorio\Router Simulator\Programma\Router Simulator\Router Simulator\obj\Debug\Router Simulator.pdb
+F:\Scuola ISII\Anno 2016-2017\Sistemi & Reti\Laboratorio\Router Simulator\Programma\Router Simulator\Router Simulator\bin\Debug\Router Simulator.exe
+F:\Scuola ISII\Anno 2016-2017\Sistemi & Reti\Laboratorio\Router Simulator\Programma\Router Simulator\Router Simulator\bin\Debug\Router Simulator.pdb
+F:\Scuola ISII\Anno 2016-2017\Sistemi & Reti\Laboratorio\Router Simulator\Programma\Router Simulator\Router Simulator\obj\Debug\Router Simulator.csprojResolveAssemblyReference.cache
+F:\Scuola ISII\Anno 2016-2017\Sistemi & Reti\Laboratorio\Router Simulator\Programma\Router Simulator\Router Simulator\obj\Debug\Router_Simulator.frmmain.resources
+F:\Scuola ISII\Anno 2016-2017\Sistemi & Reti\Laboratorio\Router Simulator\Programma\Router Simulator\Router Simulator\obj\Debug\Router_Simulator.frmLegenda.resources
+F:\Scuola ISII\Anno 2016-2017\Sistemi & Reti\Laboratorio\Router Simulator\Programma\Router Simulator\Router Simulator\obj\Debug\Router_Simulator.Properties.Resources.resources
+F:\Scuola ISII\Anno 2016-2017\Sistemi & Reti\Laboratorio\Router Simulator\Programma\Router Simulator\Router Simulator\obj\Debug\Router Simulator.csproj.GenerateResource.Cache
+H:\Scuola ISII\Anno 2016-2017\Sistemi & Reti\Laboratorio\Router Simulator\Programma\Router Simulator\Router Simulator\bin\Debug\Router Simulator.exe.config
+H:\Scuola ISII\Anno 2016-2017\Sistemi & Reti\Laboratorio\Router Simulator\Programma\Router Simulator\Router Simulator\obj\Debug\Router Simulator.exe
+H:\Scuola ISII\Anno 2016-2017\Sistemi & Reti\Laboratorio\Router Simulator\Programma\Router Simulator\Router Simulator\obj\Debug\Router Simulator.pdb
+H:\Scuola ISII\Anno 2016-2017\Sistemi & Reti\Laboratorio\Router Simulator\Programma\Router Simulator\Router Simulator\bin\Debug\Router Simulator.exe
+H:\Scuola ISII\Anno 2016-2017\Sistemi & Reti\Laboratorio\Router Simulator\Programma\Router Simulator\Router Simulator\bin\Debug\Router Simulator.pdb
+H:\Scuola ISII\Anno 2016-2017\Sistemi & Reti\Laboratorio\Router Simulator\Programma\Router Simulator\Router Simulator\obj\Debug\Router Simulator.csprojResolveAssemblyReference.cache
+H:\Scuola ISII\Anno 2016-2017\Sistemi & Reti\Laboratorio\Router Simulator\Programma\Router Simulator\Router Simulator\obj\Debug\Router_Simulator.frmmain.resources
+H:\Scuola ISII\Anno 2016-2017\Sistemi & Reti\Laboratorio\Router Simulator\Programma\Router Simulator\Router Simulator\obj\Debug\Router_Simulator.frmLegenda.resources
+H:\Scuola ISII\Anno 2016-2017\Sistemi & Reti\Laboratorio\Router Simulator\Programma\Router Simulator\Router Simulator\obj\Debug\Router_Simulator.Properties.Resources.resources
+H:\Scuola ISII\Anno 2016-2017\Sistemi & Reti\Laboratorio\Router Simulator\Programma\Router Simulator\Router Simulator\obj\Debug\Router Simulator.csproj.GenerateResource.Cache
+C:\Users\M_inf2.quarta\Desktop\Router Simulator\Programma\Router Simulator\Router Simulator\bin\Debug\Router Simulator.exe.config
+C:\Users\M_inf2.quarta\Desktop\Router Simulator\Programma\Router Simulator\Router Simulator\obj\Debug\Router Simulator.exe
+C:\Users\M_inf2.quarta\Desktop\Router Simulator\Programma\Router Simulator\Router Simulator\obj\Debug\Router Simulator.pdb
+C:\Users\M_inf2.quarta\Desktop\Router Simulator\Programma\Router Simulator\Router Simulator\bin\Debug\Router Simulator.exe
+C:\Users\M_inf2.quarta\Desktop\Router Simulator\Programma\Router Simulator\Router Simulator\bin\Debug\Router Simulator.pdb
+C:\Users\M_inf2.quarta\Desktop\Router Simulator\Programma\Router Simulator\Router Simulator\obj\Debug\Router Simulator.csprojResolveAssemblyReference.cache
+C:\Users\M_inf2.quarta\Desktop\Router Simulator\Programma\Router Simulator\Router Simulator\obj\Debug\Router_Simulator.frmmain.resources
+C:\Users\M_inf2.quarta\Desktop\Router Simulator\Programma\Router Simulator\Router Simulator\obj\Debug\Router_Simulator.frmLegenda.resources
+C:\Users\M_inf2.quarta\Desktop\Router Simulator\Programma\Router Simulator\Router Simulator\obj\Debug\Router_Simulator.Properties.Resources.resources
+C:\Users\M_inf2.quarta\Desktop\Router Simulator\Programma\Router Simulator\Router Simulator\obj\Debug\Router Simulator.csproj.GenerateResource.Cache
+C:\Users\M_inf2.quarta\Desktop\Router Simulator_Cucuzza_Puca\Programma\Router Simulator\Router Simulator\bin\Debug\Router Simulator.exe.config
+C:\Users\M_inf2.quarta\Desktop\Router Simulator_Cucuzza_Puca\Programma\Router Simulator\Router Simulator\obj\Debug\Router Simulator.exe
+C:\Users\M_inf2.quarta\Desktop\Router Simulator_Cucuzza_Puca\Programma\Router Simulator\Router Simulator\obj\Debug\Router Simulator.pdb
+C:\Users\M_inf2.quarta\Desktop\Router Simulator_Cucuzza_Puca\Programma\Router Simulator\Router Simulator\bin\Debug\Router Simulator.exe
+C:\Users\M_inf2.quarta\Desktop\Router Simulator_Cucuzza_Puca\Programma\Router Simulator\Router Simulator\bin\Debug\Router Simulator.pdb
+C:\Users\M_inf2.quarta\Desktop\Router Simulator_Cucuzza_Puca\Programma\Router Simulator\Router Simulator\obj\Debug\Router Simulator.csprojResolveAssemblyReference.cache
+C:\Users\M_inf2.quarta\Desktop\Router Simulator_Cucuzza_Puca\Programma\Router Simulator\Router Simulator\obj\Debug\Router_Simulator.frmmain.resources
+C:\Users\M_inf2.quarta\Desktop\Router Simulator_Cucuzza_Puca\Programma\Router Simulator\Router Simulator\obj\Debug\Router_Simulator.frmLegenda.resources
+C:\Users\M_inf2.quarta\Desktop\Router Simulator_Cucuzza_Puca\Programma\Router Simulator\Router Simulator\obj\Debug\Router_Simulator.Properties.Resources.resources
+C:\Users\M_inf2.quarta\Desktop\Router Simulator_Cucuzza_Puca\Programma\Router Simulator\Router Simulator\obj\Debug\Router Simulator.csproj.GenerateResource.Cache
+C:\Users\M_inf2.quarta\Desktop\Router Simulator PRO\Programma\Router Simulator\Router Simulator\bin\Debug\Router Simulator.exe.config
+C:\Users\M_inf2.quarta\Desktop\Router Simulator PRO\Programma\Router Simulator\Router Simulator\obj\Debug\Router Simulator.exe
+C:\Users\M_inf2.quarta\Desktop\Router Simulator PRO\Programma\Router Simulator\Router Simulator\obj\Debug\Router Simulator.pdb
+C:\Users\M_inf2.quarta\Desktop\Router Simulator PRO\Programma\Router Simulator\Router Simulator\bin\Debug\Router Simulator.exe
+C:\Users\M_inf2.quarta\Desktop\Router Simulator PRO\Programma\Router Simulator\Router Simulator\bin\Debug\Router Simulator.pdb
+C:\Users\M_inf2.quarta\Desktop\Router Simulator PRO\Programma\Router Simulator\Router Simulator\obj\Debug\Router Simulator.csprojResolveAssemblyReference.cache
+C:\Users\M_inf2.quarta\Desktop\Router Simulator PRO\Programma\Router Simulator\Router Simulator\obj\Debug\Router_Simulator.frmmain.resources
+C:\Users\M_inf2.quarta\Desktop\Router Simulator PRO\Programma\Router Simulator\Router Simulator\obj\Debug\Router_Simulator.frmLegenda.resources
+C:\Users\M_inf2.quarta\Desktop\Router Simulator PRO\Programma\Router Simulator\Router Simulator\obj\Debug\Router_Simulator.Properties.Resources.resources
+C:\Users\M_inf2.quarta\Desktop\Router Simulator PRO\Programma\Router Simulator\Router Simulator\obj\Debug\Router Simulator.csproj.GenerateResource.Cache
+G:\Scuola ISII\Anno 2016-2017\Sistemi & Reti\Laboratorio\Router Simulator\Programma\Router Simulator\Router Simulator\bin\Debug\Router Simulator.exe.config
+G:\Scuola ISII\Anno 2016-2017\Sistemi & Reti\Laboratorio\Router Simulator\Programma\Router Simulator\Router Simulator\obj\Debug\Router Simulator.exe
+G:\Scuola ISII\Anno 2016-2017\Sistemi & Reti\Laboratorio\Router Simulator\Programma\Router Simulator\Router Simulator\obj\Debug\Router Simulator.pdb

@@ -1,0 +1,20 @@
+C:\Users\Vincenzo\Desktop\Anno Bisestile\Anno Bisestile\bin\Debug\Anno Bisestile.exe.config
+C:\Users\Vincenzo\Desktop\Anno Bisestile\Anno Bisestile\bin\Debug\Anno Bisestile.exe
+C:\Users\Vincenzo\Desktop\Anno Bisestile\Anno Bisestile\bin\Debug\Anno Bisestile.pdb
+C:\Users\Vincenzo\Desktop\Anno Bisestile\Anno Bisestile\obj\Debug\Anno Bisestile.exe
+C:\Users\Vincenzo\Desktop\Anno Bisestile\Anno Bisestile\obj\Debug\Anno Bisestile.pdb
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Alpha\Anno Bisestile\Anno Bisestile\bin\Debug\Anno Bisestile.exe.config
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Alpha\Anno Bisestile\Anno Bisestile\obj\Debug\Anno Bisestile.exe
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Alpha\Anno Bisestile\Anno Bisestile\obj\Debug\Anno Bisestile.pdb
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Alpha\Anno Bisestile\Anno Bisestile\bin\Debug\Anno Bisestile.exe
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Alpha\Anno Bisestile\Anno Bisestile\bin\Debug\Anno Bisestile.pdb
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Finiti\Anno Bisestile #7\Anno Bisestile\bin\Debug\Anno Bisestile.exe.config
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Finiti\Anno Bisestile #7\Anno Bisestile\obj\Debug\Anno Bisestile.exe
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Finiti\Anno Bisestile #7\Anno Bisestile\obj\Debug\Anno Bisestile.pdb
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Finiti\Anno Bisestile #7\Anno Bisestile\bin\Debug\Anno Bisestile.exe
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Finiti\Anno Bisestile #7\Anno Bisestile\bin\Debug\Anno Bisestile.pdb
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#7 Anno Bisestile\Anno Bisestile\bin\Debug\Anno Bisestile.exe.config
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#7 Anno Bisestile\Anno Bisestile\obj\Debug\Anno Bisestile.exe
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#7 Anno Bisestile\Anno Bisestile\obj\Debug\Anno Bisestile.pdb
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#7 Anno Bisestile\Anno Bisestile\bin\Debug\Anno Bisestile.exe
+E:\Scuola ISII\Lezioni Informatica\Laboratorio\Programmi Final Release\Esercizio#7 Anno Bisestile\Anno Bisestile\bin\Debug\Anno Bisestile.pdb

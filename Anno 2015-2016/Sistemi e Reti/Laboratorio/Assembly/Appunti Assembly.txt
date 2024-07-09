@@ -1,0 +1,43 @@
+a (0110)= inserisce un programma in assembly(assembly mode vedi assembly mode")			
+u = unassembly, vede un indirizzo e lo restituisce in assembly
+move = sposta in contenuto da una parte all'altra
+mov ax(registro),0F05(valore numerico)
+ax = 0f05
+
+90 (codice operativo) dice che istruzione è,tutte le istruzioni hanno bisogno di
+un codice operativo, e se l'istruzione ha o non ha operandi
+(un qualcosa su cui lavorare),posso essere registri o valori numerici costa
+
+t = trace (F10 in c#)
+t = 0110 (4) fa 4 istruzioni e poi si ferma
+l'esecuzione di un programma in trace mode prevede
+t = (indirizzo istruzione da fare) "invio"
+n = name (salva il programma)
+
+es. BB5555 sono 3 byte
+BX e CX sono a 16 bit indicano il numero dei byte 
+da salvare a partire dall'indirizzo 0100
+
+es.
+ BX     CX		es.
+0000   0001     	0050 sono 80 byte
+salva un byte nei registri        
+
+quit esce dal debug
+
+debug primo.com(modo semplice per caricare il programma)
+
+h = calcolatrice esadecimale(vedi foto "exadecimal")
+
+w= 0110 scrivo sul disco 32 byte a partire da 0110
+
+debug (nome file) carica il file
+
+
+
+
+
+
+
+
+
