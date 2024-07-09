@@ -35,7 +35,6 @@ prettamente informatiche.
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 #### ATTENZIONE ⚠️
 
@@ -44,7 +43,7 @@ Utilizzare i progetti a solo scopo informativo.
 
 ## **Tool Utilizzati**
 
-* [VS](https://visualstudio.microsoft.com/it/) - Programma scrittura linguaggi
+* [Visual Studio](https://visualstudio.microsoft.com/it/) - Programma scrittura linguaggi
 * [DOSBOX](https://www.dosbox.com/) - Emulatore 8086 (Assembly NASM)
 * [NotePad++](https://notepad-plus-plus.org/downloads/) - Programma scrittura linguaggio C ambiente Linux
 
