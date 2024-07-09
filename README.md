@@ -36,6 +36,8 @@ prettamente informatiche.
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 
+---
+
 #### ATTENZIONE ⚠️
 
 Le librerie e i metodi utilizzati nei progetti sopracitati potrebbero essere deprecati.
