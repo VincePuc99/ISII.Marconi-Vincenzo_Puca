@@ -34,6 +34,7 @@ prettamente informatiche.
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+[Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 
 #### ATTENZIONE ⚠️
 
@@ -45,7 +46,6 @@ Utilizzare i progetti a solo scopo informativo.
 * [VS Code](https://code.visualstudio.com/) - Programma scrittura linguaggi (Java - Python)
 * [DOSBOX](https://www.dosbox.com/) - Emulatore 8086 (Assembly NASM)
 * [NotePad++](https://notepad-plus-plus.org/downloads/) - Programma scrittura linguaggio C ambiente Linux
-* ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white) - Gestione e creazione DataBase
 
 ## **Autore**
 **Vincenzo Puca**
