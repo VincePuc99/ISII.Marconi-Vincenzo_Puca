@@ -28,8 +28,8 @@ prettamente informatiche.
 
 ### Tecnologie e Strumenti
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
@@ -43,6 +43,7 @@ prettamente informatiche.
 
 Le librerie e i metodi utilizzati nei progetti sopracitati potrebbero essere deprecati.
 Utilizzare i progetti a solo scopo informativo.
+La descrizione sopracitata potrebbe non essere esaustiva dei contenuti presenti all'interno della repository.
 
 ## **Tool Utilizzati**
 
