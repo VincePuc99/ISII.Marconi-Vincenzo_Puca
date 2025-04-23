@@ -53,5 +53,3 @@ La descrizione sopracitata potrebbe non essere esaustiva dei contenuti presenti 
 
 ## **Autore**
 **Vincenzo Puca**
-
-[![LinkedIN](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincenzo-puca-054276304/)
