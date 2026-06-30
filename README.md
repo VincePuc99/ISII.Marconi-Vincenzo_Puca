@@ -39,11 +39,10 @@ prettamente informatiche.
 
 ---
 
-#### ATTENZIONE ⚠️
-
-Le librerie e i metodi utilizzati nei progetti sopracitati potrebbero essere deprecati.
-Utilizzare i progetti a solo scopo informativo.
-La descrizione sopracitata potrebbe non essere esaustiva dei contenuti presenti all'interno della repository.
+>[!WARNING]
+>Le librerie e i metodi utilizzati nei progetti sopracitati potrebbero essere **deprecati**.<br>
+>Utilizzare i progetti a solo scopo informativo.<br>
+>La descrizione sopracitata potrebbe non essere esaustiva dei contenuti presenti all'interno della repository.
 
 ## **Tool Utilizzati**
 
